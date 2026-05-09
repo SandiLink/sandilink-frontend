@@ -1,0 +1,966 @@
+{
+  "common": {
+    "signIn": "Ingia",
+    "getStarted": "Anza",
+    "createAccount": "Fungua akaunti yako",
+    "openMenu": "Fungua menyu",
+    "comingSoon": "Inakuja hivi karibuni"
+  },
+  "nav": {
+    "marketplaces": "Masoko",
+    "howItWorks": "Jinsi inavyofanya kazi",
+    "pricing": "Bei",
+    "resources": "Rasilimali",
+    "marketplacesEyebrow": "Masoko matatu yaliyounganishwa",
+    "resourcesEyebrow": "Msaada na nyaraka",
+    "marketplacesCta": "Tazama jinsi SandiLink inavyofanya kazi",
+    "resourcesCta": "Wasiliana na timu yetu",
+    "items": {
+      "healthcare": {
+        "title": "Huduma za Afya",
+        "description": "Watumiaji hukutana na madaktari, wauguzi, wataalamu wa afya, walezi, na watoa huduma za ustawi."
+      },
+      "preceptor": {
+        "title": "Preceptor Connect™",
+        "description": "Wanafunzi na taasisi huomba mafunzo ya kliniki na waelekezi waliothibitishwa."
+      },
+      "research": {
+        "title": "Utafiti na Ufadhili",
+        "description": "Watafiti hupata waandishi wa ufadhili, hutafuta ruzuku na majarida, na kuongoza ushirikiano."
+      },
+      "faq": {
+        "title": "Maswali Yanayoulizwa Sana",
+        "description": "Majibu ya maswali yanayoulizwa zaidi kuhusu SandiLink."
+      },
+      "trust": {
+        "title": "Imani na Usalama",
+        "description": "Jinsi tunavyothibitisha watumiaji, kulinda data, na kutatua migogoro."
+      },
+      "support": {
+        "title": "Msaada",
+        "description": "Wasiliana na timu yetu au tuma ombi la msaada."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Soko la kimataifa la huduma linalounganisha utunzaji, kujifunza, na utafiti.",
+    "marketplacesHeading": "Masoko",
+    "platformHeading": "Jukwaa",
+    "getStartedHeading": "Anza",
+    "legalHeading": "Kisheria",
+    "links": {
+      "healthcare": "Huduma za Afya",
+      "preceptor": "Preceptor Connect™",
+      "research": "Utafiti na Ufadhili",
+      "howItWorks": "Jinsi inavyofanya kazi",
+      "pricing": "Bei",
+      "trust": "Imani na Usalama",
+      "faq": "Maswali Yanayoulizwa",
+      "support": "Msaada",
+      "signIn": "Ingia",
+      "createAccount": "Fungua akaunti",
+      "forgotPassword": "Nimesahau nenosiri",
+      "terms": "Masharti ya Huduma",
+      "privacy": "Sera ya Faragha",
+      "cookies": "Sera ya Kuki",
+      "termsShort": "Masharti",
+      "privacyShort": "Faragha",
+      "cookiesShort": "Kuki",
+      "grantWriters": "Grant Writers",
+      "journals": "Journals",
+      "providerAgreement": "Mkataba wa mtoa huduma"
+    },
+    "disclaimer": "<strong>Tahadhari:</strong> SandiLink haitoi huduma za matibabu wala huduma za kliniki. Hatuhakiki vyeti; watumiaji wanapaswa kufanya uchunguzi wao wenyewe. Piga 911 au nambari ya dharura ya eneo lako kwa dharura za kimatibabu.",
+    "rights": "© {year} One Sandi. Haki zote zimehifadhiwa."
+  },
+  "languageSwitcher": {
+    "label": "Lugha",
+    "current": "Lugha ya sasa: {language}",
+    "tier1": "Inapatikana sasa",
+    "tier2": "Inakuja hivi karibuni",
+    "untranslated": "Tafsiri inasubiri"
+  },
+  "auth": {
+    "shared": {
+      "or": "au",
+      "orSignInManually": "au ingia mwenyewe",
+      "showPassword": "Onyesha nenosiri",
+      "hidePassword": "Ficha nenosiri",
+      "continueWithGoogle": "Endelea na Google",
+      "rememberPassword": "Unakumbuka nenosiri lako?",
+      "signIn": "Ingia",
+      "signUp": "Jisajili",
+      "backToSignIn": "Rudi kuingia",
+      "sidePanelTagline": "Inaunganisha wataalamu wa afya, wanafunzi na taasisi katika jukwaa moja."
+    },
+    "login": {
+      "pageTitle": "Karibu tena",
+      "pageDescription": "Ingia ili kufikia akaunti yako ya SandiLink",
+      "quickDemoLogin": "Ingia haraka kwa onyesho",
+      "emailLabel": "Anwani ya barua pepe",
+      "emailPlaceholder": "wewe@mfano.com",
+      "passwordLabel": "Nenosiri",
+      "passwordPlaceholder": "Ingiza nenosiri lako",
+      "forgotPassword": "Umesahau nenosiri?",
+      "rememberMe": "Nikumbuke",
+      "signingIn": "Inaingia...",
+      "signIn": "Ingia",
+      "noAccount": "Huna akaunti?"
+    },
+    "register": {
+      "pageTitle": "Fungua akaunti yako",
+      "pageDescription": "Jiunge na SandiLink kuanza",
+      "selectRolePrompt": "Chagua jukumu linalokuelezea vizuri zaidi",
+      "continue": "Endelea",
+      "firstNameLabel": "Jina la kwanza",
+      "lastNameLabel": "Jina la familia",
+      "emailLabel": "Anwani ya barua pepe",
+      "passwordLabel": "Nenosiri",
+      "passwordPlaceholder": "Tengeneza nenosiri",
+      "passwordHint": "Lazima iwe na herufi 8 au zaidi",
+      "termsAgreementBefore": "Ninakubali ",
+      "termsAgreementAnd": " na ",
+      "termsLink": "Masharti ya Huduma",
+      "privacyLink": "Sera ya Faragha",
+      "back": "Rudi",
+      "creatingAccount": "Inaunda akaunti...",
+      "createAccount": "Fungua akaunti",
+      "haveAccount": "Tayari una akaunti?",
+      "roles": {
+        "serviceUserLabel": "Mtumiaji wa Huduma",
+        "serviceUserDescription": "Tafuta na uweke nafasi na watoa huduma za afya",
+        "careProviderLabel": "Mtoa Huduma za Afya",
+        "careProviderDescription": "Toa huduma zako za afya",
+        "studentLabel": "Mwanafunzi wa Afya",
+        "studentDescription": "Pata nafasi za kliniki na waelekezi",
+        "institutionLabel": "Taasisi ya Elimu",
+        "institutionDescription": "Simamia nafasi za wanafunzi kwa kiwango kikubwa",
+        "preceptorLabel": "Mwelekezi",
+        "preceptorDescription": "Wafundishe wanafunzi katika mazingira ya kliniki",
+        "researcherLabel": "Mtafiti",
+        "researcherDescription": "Gundua ufadhili, chapisha utafiti, na pata washirika",
+        "grantWriterLabel": "Mwandishi wa Ufadhili",
+        "grantWriterDescription": "Wasaidie watafiti kuandika mapendekezo ya ufadhili yanayoshinda"
+      }
+    },
+    "forgotPassword": {
+      "pageTitle": "Umesahau nenosiri lako?",
+      "pageDescription": "Usijali, tutakusaidia kuirudisha",
+      "instructions": "Ingiza anwani ya barua pepe iliyounganishwa na akaunti yako na tutakutumia kiungo cha kurudisha nenosiri.",
+      "sendingLink": "Inatuma kiungo...",
+      "sendResetLink": "Tuma kiungo cha kurudisha",
+      "successPrefix": "Iwapo kuna akaunti kwa",
+      "successInstructions": "utapokea kiungo cha kurudisha nenosiri muda mfupi. Angalia kikasha chako na folda ya barua taka."
+    },
+    "resetPassword": {
+      "pageTitle": "Weka nenosiri jipya",
+      "pageDescription": "Tengeneza nenosiri imara kwa akaunti yako",
+      "newPasswordLabel": "Nenosiri jipya",
+      "newPasswordPlaceholder": "Ingiza nenosiri jipya",
+      "confirmPasswordLabel": "Thibitisha nenosiri",
+      "confirmPasswordPlaceholder": "Thibitisha nenosiri jipya",
+      "resettingPassword": "Inarudisha nenosiri...",
+      "resetPassword": "Rudisha nenosiri",
+      "successHeading": "Nenosiri limerudishwa kwa mafanikio",
+      "successDescription": "Nenosiri lako limesasishwa. Sasa unaweza kuingia kwa nenosiri lako jipya."
+    },
+    "mfaSetup": {
+      "pageTitle": "Linda akaunti yako",
+      "pageDescription": "Sanidi uthibitishaji wa hatua mbili",
+      "introCopy": "Ongeza usalama zaidi kwa akaunti yako kwa kuwasha uthibitishaji wa hatua mbili kupitia programu ya uthibitishaji.",
+      "youllNeed": "Utahitaji",
+      "youllNeedAuthApp": "Programu ya uthibitishaji (Google Authenticator, Authy, n.k.)",
+      "getStarted": "Anza",
+      "doLater": "Nitafanya baadaye",
+      "scanInstructions": "Skani msimbo wa QR hapa chini kwa programu yako ya uthibitishaji, au ingiza ufunguo wewe mwenyewe.",
+      "qrPlaceholder": "Msimbo wa QR utaonekana hapa",
+      "cantScan": "Huwezi kuskani? Ingiza ufunguo huu wewe mwenyewe:",
+      "iScanned": "Nimeskani msimbo",
+      "verifyInstructions": "Ingiza msimbo wa tarakimu 6 kutoka programu yako ya uthibitishaji ili kuthibitisha usanidi.",
+      "verifying": "Inathibitisha...",
+      "verifyAndActivate": "Thibitisha na washa",
+      "backToQr": "Rudi kwenye msimbo wa QR",
+      "doneHeading": "Uthibitishaji wa hatua mbili sasa unafanya kazi",
+      "doneDescription": "Utaombwa msimbo wa uthibitishaji kila unapoingia. Hifadhi programu yako ya uthibitishaji ikiweza kufikiwa.",
+      "continue": "Endelea"
+    },
+    "verifyEmail": {
+      "pageTitle": "Angalia barua pepe yako",
+      "pageDescription": "Ingiza msimbo wa uthibitishaji kuendelea",
+      "sentCodeTo": "Tumetuma msimbo wa tarakimu 6 kwa",
+      "verifying": "Inathibitisha...",
+      "verifyEmail": "Thibitisha barua pepe",
+      "didntReceive": "Haukupokea msimbo?",
+      "resendIn": "Tuma tena baada ya {seconds}s",
+      "sending": "Inatuma...",
+      "resendCode": "Tuma msimbo tena"
+    }
+  },
+  "dashboards": {
+    "serviceUser": {
+      "welcomeBack": "Karibu tena!",
+      "welcomeSubhead": "Hapa kuna muhtasari wa shughuli zako na miadi ijayo."
+    },
+    "provider": {
+      "greetingMorning": "Habari za asubuhi, Dkt. Johnson",
+      "welcomeSubhead": "Una miadi {engagements} leo na maombi {requests} yanayosubiri."
+    },
+    "student": {
+      "welcomeBack": "Karibu tena, Jane",
+      "welcomeSubhead": "Fuatilia nafasi zako za kliniki, masaa na vyeti."
+    },
+    "preceptor": {
+      "welcomeBack": "Karibu tena, Dkt. Williams",
+      "welcomeSubhead": "Simamia wanafunzi wako, maombi ya nafasi na shughuli za kufundisha."
+    },
+    "institution": {
+      "pageTitle": "Dashibodi ya Taasisi",
+      "welcomeSubhead": "Simamia wanafunzi wako, nafasi na uhusiano na waelekezi."
+    },
+    "researcher": {
+      "welcomeBack": "Karibu tena, Dkt. Rashid",
+      "welcomeSubhead": "Fuatilia miradi yako ya utafiti, ufadhili na machapisho."
+    },
+    "grantWriter": {
+      "welcomeBack": "Karibu tena, Lisa",
+      "welcomeSubhead": "Simamia miradi yako, fuatilia mapato na ukuze biashara yako ya uandishi wa ufadhili."
+    },
+    "admin": {
+      "pageTitle": "Muhtasari wa Jukwaa",
+      "welcomeSubhead": "Fuatilia afya ya jukwaa, shughuli za watumiaji na vipimo vya mapato."
+    }
+  },
+  "publicHero": {
+    "eyebrow": "Saraka ya umma",
+    "signUpFree": "Jisajili bila malipo",
+    "signIn": "Ingia"
+  },
+  "publicDirectories": {
+    "experts": {
+      "title": "Pata mtaalamu wa afya",
+      "description": "Vinjari watoa huduma waliothibitishwa katika utunzaji wa kliniki, tiba, utafiti, ushauri na zaidi. Jisajili bila malipo kutuma ujumbe, kuweka nafasi, au kuhifadhi wasifu."
+    },
+    "preceptors": {
+      "title": "Pata mwelekezi",
+      "description": "Unganisha na waelekezi waliothibitishwa katika programu za uuguzi, PA, DNP na taaluma washirika. Jisajili bila malipo kuomba nafasi."
+    },
+    "grants": {
+      "title": "Vinjari ufadhili uliofunguliwa",
+      "description": "Fuatilia fursa za ufadhili katika NIH, NSF, WHO, taasisi na mashirika ya serikali. Jisajili kuhifadhi ufadhili, kupata vikumbusho vya tarehe za mwisho na kuunganisha na waandishi."
+    },
+    "grantWriters": {
+      "title": "Pata mwandishi wa ufadhili",
+      "description": "Waandishi waliothibitishwa wenye rekodi za NIH, NSF, taasisi na wafadhili wa afya wa kimataifa. Jisajili bila malipo kulinganisha wasifu na kuanza mradi."
+    },
+    "journals": {
+      "title": "Vinjari majarida",
+      "description": "Majarida yaliyopitiwa na wenzao katika afya ya kidijitali, utafiti wa kibayolojia, afya ya umma na uchumi wa habari. Jisajili bila malipo kufuatilia mawasilisho na kuchagua malengo."
+    }
+  },
+  "faq": {
+    "eyebrow": "Maswali Yanayoulizwa Mara kwa Mara",
+    "heading": "Majibu, kwa haraka.",
+    "intro": "Vinjari maswali yanayoulizwa zaidi kuhusu akaunti, ankara, nafasi, faragha na utatuzi wa matatizo. Chuja kwa kategoria au tafuta kwa neno muhimu.",
+    "didntFindHeading": "Hujapata jibu lako?",
+    "didntFindBody": "Timu yetu ya msaada iko tayari kusaidia — majibu mengi yanafika ndani ya siku moja ya kazi.",
+    "contactSupport": "Wasiliana na msaada",
+    "howItWorks": "Jinsi inavyofanya kazi"
+  },
+  "support": {
+    "eyebrow": "Msaada",
+    "heading": "Tuko hapa kusaidia.",
+    "intro": "Vinjari rasilimali za kujihudumia, fikia timu yetu moja kwa moja, au tuma ombi la msaada — kile kinachofaa zaidi kwako.",
+    "reachUsHeading": "Wasiliana nasi moja kwa moja",
+    "reachUsIntro": "Unapendelea barua pepe, simu, au gumzo? Chagua njia inayofaa."
+  },
+  "subscribe": {
+    "success": {
+      "heading": "Malipo yamefanikiwa — karibu SandiLink Pro!",
+      "body": "Usajili wako uko hai na wasifu wako wa mtoa huduma uko tayari kuanza. Tumetuma risiti na orodha ya kuanza haraka kupitia barua pepe.",
+      "dashboardCardTitle": "Hatua 5 — Fikia dashibodi yako",
+      "dashboardCardDescription": "Maliza wasifu wako, weka upatikanaji, na ukubali nafasi zako za kwanza.",
+      "goToDashboard": "Nenda kwenye dashibodi ya mtoa huduma",
+      "receiptCardTitle": "Risiti na ankara",
+      "receiptCardDescription": "Simamia mpango wako, njia ya malipo na historia wakati wowote.",
+      "openBilling": "Fungua ankara",
+      "needAnything": "Unahitaji chochote? Wasiliana na timu yetu kwenye"
+    },
+    "failed": {
+      "heading": "Malipo yameshindikana — sasisha kadi yako au jaribu tena.",
+      "body": "Usajili wako haukuanzishwa na hujatozwa. Hizi ni sababu za kawaida za hili.",
+      "commonReasonsTitle": "Sababu za kawaida",
+      "commonReasonsBody": "Yoyote kati ya yafuatayo yanaweza kusimamisha malipo. Jaribu tena na kadi au njia tofauti.",
+      "reasonCardDeclined": "Kadi imekataliwa au imeisha muda.",
+      "reasonInsufficientFunds": "Hakuna fedha za kutosha kwenye njia ya malipo.",
+      "reasonBankFlagged": "Benki yako imeashiria muamala kama wa kutilia shaka.",
+      "reasonAddressMismatch": "Anwani ya ankara haifanani na ile iliyoko kwenye benki yako.",
+      "reasonNetworkTimeout": "Muda wa mtandao au lango umekata muamala.",
+      "tryAgainTitle": "Jaribu tena",
+      "tryAgainDescription": "Tumia mpango huo huo na njia tofauti ya malipo.",
+      "backToPricing": "Rudi kwenye bei",
+      "needHelpTitle": "Unahitaji msaada?",
+      "needHelpDescription": "Timu yetu inaweza kusaidia kuchunguza na kuruhusu malipo.",
+      "contactSupport": "Wasiliana na msaada"
+    }
+  },
+  "pricing": {
+    "eyebrow": "Bei za Watoa Huduma",
+    "heading": "Bei rahisi na thabiti — bila kamisheni, kamwe.",
+    "intro": "Jisajili mara moja, orodhesha huduma zako, na uweke 100% ya kila nafasi. Chagua kila mwezi kwa unyumbufu au kila mwaka kupunguza 17%.",
+    "tabMonthly": "Kila mwezi",
+    "tabAnnual": "Kila mwaka",
+    "save17": "Okoa 17%",
+    "contextRegisterTitle": "Hatua moja imebaki — chagua mpango",
+    "contextRegisterBody": "Watoa huduma wanahitaji usajili amilifu kabla ya kufikia dashibodi. Chagua mpango hapa chini kumaliza usajili.",
+    "contextGateTitle": "Usajili unahitajika",
+    "contextGateBody": "Dashibodi yako ya mtoa huduma inahitaji usajili amilifu. Chagua mpango kurudisha ufikiaji.",
+    "usdNote": "Bei zimeorodheshwa kwa USD. Utatozwa kwa sarafu yako ya ndani, ikibadilishwa kuwa USD wakati wa malipo.",
+    "why": {
+      "heading": "Kwa nini bei zetu ni tofauti",
+      "subheading": "Masoko mengi huchukua 15–30% kutoka kila uhifadhi. Sisi hatufanyi hivyo.",
+      "earningsTitle": "Hifadhi 100% ya mapato yako",
+      "earningsBody": "SandiLink haichukui tume kwenye uhifadhi. Unalipa usajili wa kawaida, wateja wako wanakulipa, na kiasi kamili cha uhifadhi kinakuja kwako.",
+      "currencyTitle": "Lipa kwa sarafu yako ya ndani",
+      "currencyBody": "Stripe, PayPal na malango ya kikanda hushughulikia ubadilishaji. Jukwaa hutatua kwa USD; wewe na wateja wako mnaona bei kwa sarafu ya ndani.",
+      "cancelTitle": "Ghairi wakati wowote",
+      "cancelBody": "Hakuna mikataba ya muda mrefu. Ghairi kutoka dashibodi yako ya bili na uhifadhi ufikiaji hadi mwisho wa kipindi chako cha sasa."
+    },
+    "payments": {
+      "heading": "Lipa kwa njia yako",
+      "subheading": "Malango ya Awamu 1 yapo hai sasa. Malango ya kikanda ya Awamu 2 huingia kazini tunapoendelea kupanuka.",
+      "phase1Label": "Awamu 1 — inapatikana sasa",
+      "phase2Label": "Awamu 2 — upanuzi wa kimataifa"
+    },
+    "faq": {
+      "heading": "Maswali ya bei",
+      "q1": "Mnachukua tume kwenye uhifadhi wangu?",
+      "a1": "Hapana. SandiLink ni usajili tu kwa watoa huduma — unalipa ada ya kila mwezi au mwaka isiyobadilika na unahifadhi 100% ya kile wateja wako wanachokulipa.",
+      "q2": "Je, ninaweza kubadilisha mpango baadaye?",
+      "a2": "Ndiyo. Pandisha au shusha kutoka dashibodi yako ya bili wakati wowote. Kupandisha hutekeleza mara moja; kushusha kunaomba katika kipindi cha kufanya upya kijacho.",
+      "q3": "Nini hutokea ikiwa malipo yangu yanashindwa?",
+      "a3": "Tutakutumia barua pepe na kujaribu tena kwa siku chache. Ikiwa haiwezi kukusanywa, orodha yako ya umma inasimamishwa (haitafutwi) hadi usasishe njia yako ya malipo.",
+      "q4": "Ni njia gani za malipo zinazokubalika?",
+      "a4": "Kadi za mkopo na za debit, Apple Pay, Google Pay na PayPal wakati wa uzinduzi. Malango ya kikanda ikiwa ni pamoja na Flutterwave, Paystack, M-Pesa, Razorpay na MercadoPago huingia tunapopanuka kimataifa."
+    },
+    "finalCta": {
+      "heading": "Uko tayari kuanza kupata?",
+      "body": "Fungua akaunti yako ya mtoa huduma, kamilisha wasifu wako na uchague mpango unaofaa.",
+      "primary": "Fungua akaunti ya mtoa huduma",
+      "secondary": "Inavyofanya kazi"
+    }
+  },
+  "trustSafety": {
+    "eyebrow": "Imani na Usalama",
+    "heading": "Imejengwa kwa watu. Inalindwa na sera.",
+    "intro": "SandiLink ni soko la kimataifa, maana yake watu halisi wanaunda mahusiano halisi kupitia jukwaa. Hivi ndivyo tunavyolinda uzoefu huu kuwa salama, wazi na unaowajibika.",
+    "reportIssue": "Ripoti tatizo",
+    "readPrivacy": "Soma Sera ya Faragha",
+    "pillars": {
+      "heading": "Nguzo sita za usalama wa jukwaa",
+      "subheading": "Kila mwingiliano wa SandiLink unaongozwa na ulinzi huu.",
+      "verificationTitle": "Uthibitisho kwa kila usajili",
+      "verificationBody": "Watoa huduma, waelekezi, wanafunzi, watafiti na waandishi wa ufadhili huwasilisha vyeti, leseni au usajili wa programu kabla wasifu hadharani. Wasifu usio kamili hutolewa kwenye utafutaji.",
+      "moderationTitle": "Usimamizi hai",
+      "moderationBody": "Wasifu, ukaguzi na ujumbe ulioripotiwa na watumiaji au mifumo yetu huingia kwenye foleni ya usimamizi. Wasimamizi huidhinisha, kuondoa, kusimamisha au kuonya — kila hatua imerekodiwa.",
+      "privacyTitle": "Faragha na vidhibiti vya PHI",
+      "privacyBody": "Fomu za uingizaji na taarifa za afya husimbwa wakati wa usafirishaji na pumziko. PHI inaonekana tu kwa mtoa huduma aliyepewa — kamwe kwa wasimamizi wa jukwaa au watumiaji wengine.",
+      "securityTitle": "Usalama wa akaunti",
+      "securityBody": "Uthibitisho wa hatua mbili wa hiari, uthibitisho wa barua pepe, mtiririko wa kuweka upya nenosiri na rekodi ya ukaguzi kwa kila hatua nyeti hudumisha akaunti zako chini ya udhibiti wako.",
+      "paymentsTitle": "Malipo salama",
+      "paymentsBody": "Malipo hupita kupitia Stripe, PayPal na malango ya kikanda (Flutterwave, Paystack, M-Pesa, Razorpay, MercadoPago). Hatuhifadhi kamwe nambari kamili za kadi.",
+      "disputesTitle": "Utatuzi wa migogoro",
+      "disputesBody": "Ikiwa kitu kitaenda vibaya, fungua mgogoro. Timu yetu hupitia mawasiliano, hutumia sera ya jukwaa na hutoa azimio lililoandikwa."
+    },
+    "policies": {
+      "heading": "Unachostahili kujua kabla ya kuhifadhi",
+      "subheading": "SandiLink huwalinda watumiaji — lakini soko hufanya kazi vizuri zaidi watu wanapokuja wakijua.",
+      "whoTitle": "Unayeweza kupata kwenye SandiLink",
+      "whoBody": "Wataalamu wanaojitegemea hutoa huduma zao na wanawajibika kuzitoa. SandiLink ni soko — tunarahisisha muunganisho na malipo, lakini hatuwaajiri watoa huduma wala hatuhakikishii matokeo ya kliniki.",
+      "dueDiligenceTitle": "Utafiti wako binafsi ni muhimu",
+      "dueDiligenceBody": "Daima thibitisha vyeti vya mtoa huduma kwa chombo kinachofaa cha leseni, omba marejeo na kagua ukadiriaji na ukaguzi wa wasifu kabla ya kuhifadhi.",
+      "communicationTitle": "Weka mawasiliano kwenye jukwaa",
+      "communicationBody": "Ujumbe wa kwenye jukwaa huhifadhi rekodi kwa pande zote, husaidia utatuzi wa migogoro na hutuwezesha kusimamia wakati kitu kinaenda vibaya. Mawasiliano nje ya jukwaa ni kwa hatari yako mwenyewe.",
+      "emergenciesTitle": "Dharura sio za SandiLink",
+      "emergenciesBody": "SandiLink si huduma ya dharura. Kwa dharura za matibabu piga 911 (au nambari yako ya dharura ya ndani). Kwa migogoro ya afya ya akili Marekani, piga au tuma ujumbe 988."
+    },
+    "reporting": {
+      "heading": "Jinsi ya kuripoti kitu",
+      "subheading": "Ikiwa kitu kinaonekana si sawa — wasifu, ukaguzi, ujumbe, malipo — kiripoti. Tunachukua kila ripoti kwa umakini.",
+      "stepLabel": "Hatua",
+      "s1Title": "Tumia kitufe cha Ripoti",
+      "s1Body": "Kila wasifu, ukaguzi na ujumbe una chaguo la ripoti. Chagua sababu iliyo karibu zaidi na uongeze maelezo — nini kilitokea, lini na watumiaji walioshiriki.",
+      "s2Title": "Tunatatua ndani ya siku 1 ya kazi",
+      "s2Body": "Ripoti huenda kwa usimamizi wa wasimamizi na migogoro. Kesi nyeti (usalama, udanganyifu, uvunjaji wa PHI) huinuliwa mara moja.",
+      "s3Title": "Hatua inachukuliwa na kurekodiwa",
+      "s3Body": "Matokeo ni kuanzia onyo hadi kuondolewa kwa maudhui, kusimamisha akaunti au kupiga marufuku ya kudumu. Kila hatua inarekodiwa kwenye rekodi ya ukaguzi.",
+      "s4Title": "Unapata jibu",
+      "s4Body": "Tunafunga mzunguko na mtumiaji aliyeripoti — azimio, kinachofuata na jinsi ya kuinua ikiwa hukubaliani."
+    },
+    "finalCta": {
+      "heading": "Umeona kitu? Tuambie.",
+      "body": "Timu yetu ya uaminifu na usalama hujibu ripoti ndani ya siku moja ya kazi. Kwa masuala ya usalama yenye dharura, weka ujumbe wako kuwa wa dharura — tutaisuluhisha mara moja.",
+      "primary": "Wasiliana na Msaada",
+      "secondary": "Pitia FAQ"
+    }
+  },
+  "howItWorks": {
+    "eyebrow": "Jinsi inavyofanya kazi",
+    "heading": "Hatua sita kuanzia kujisajili hadi kuweka nafasi.",
+    "intro": "SandiLink inaunganisha watumiaji wa huduma, watoa huduma, wanafunzi, waelekezi, watafiti, na waandishi wa ufadhili katika masoko matatu ya kimataifa. Huu ndio mtiririko unaoendesha kila nafasi, mafunzo, na mradi wa ufadhili.",
+    "ctaCreate": "Fungua akaunti yako",
+    "ctaFaq": "Soma maswali yanayoulizwa mara kwa mara",
+    "stepLabel": "Hatua",
+    "flow": {
+      "heading": "Jinsi ushiriki wa SandiLink unavyotiririka",
+      "subheading": "Hatua sita zile zile huendesha kila uhifadhi, uwekaji na mradi wa ufadhili — washiriki tu hubadilika.",
+      "s1Title": "Fungua akaunti yako",
+      "s1Body": "Chagua jukumu lako — mtumiaji wa huduma, mtoa huduma, mwanafunzi, mwelekezi, taasisi, mtafiti au mwandishi wa ufadhili — na utuambie unachohitaji.",
+      "s2Title": "Kamilisha wasifu wako",
+      "s2Body": "Ongeza vyeti, utaalamu, upatikanaji na wasifu mfupi. Wataalamu hujisajili ili kuwasha orodha yao ya umma.",
+      "s3Title": "Pata mlinganishi sahihi",
+      "s3Body": "Tafuta katika orodha za umma au acha injini yetu ya kulinganisha ikuonyeshe watoa huduma, waelekezi au waandishi wa ufadhili bora kwako.",
+      "s4Title": "Wasiliana na ukubaliane masharti",
+      "s4Body": "Fungua mazungumzo, uliza maswali, shiriki fomu za uingizaji au mapendekezo na uthibitishe wigo kabla ya kuhifadhi.",
+      "s5Title": "Hifadhi na ulipe kwa usalama",
+      "s5Body": "Lipa kwa sarafu yako ya ndani kupitia Stripe, PayPal au lango la kikanda. Fedha hutatuliwa kwa USD upande wa jukwaa.",
+      "s6Title": "Shiriki, fuatilia na kagua",
+      "s6Body": "Endesha miadi, uwekaji au mradi kwenye jukwaa — fuatilia saa, mafanikio na tathmini — na uache ukaguzi mwishoni."
+    },
+    "verticals": {
+      "heading": "Jinsi inavyofanya kazi katika kila soko",
+      "subheading": "Wima tatu, mtiririko mmoja thabiti. Chagua iliyo karibu na unachohitaji.",
+      "healthcareTitle": "Huduma za Afya",
+      "healthcareSummary": "Watumiaji wa huduma huunganishwa na madaktari, wauguzi, wahudumu wa afya washirika, walezi, wahudumu wa ustawi na wahudumu wa afya wa jamii wanaojitegemea.",
+      "healthcareFlow1": "Tafuta watoa huduma kwa utaalamu, eneo, ukadiriaji au njia ya utoaji",
+      "healthcareFlow2": "Fungua wasifu, tuma ujumbe na uhifadhi kikao cha mtandaoni au cha ana kwa ana",
+      "healthcareFlow3": "Kamilisha uingizaji, lipa, hudhuria miadi na uache ukaguzi",
+      "healthcareCta": "Pata mtoa huduma",
+      "educationTitle": "Elimu / Preceptor Connect™",
+      "educationSummary": "Wanafunzi na taasisi huomba uwekaji wa kliniki na waelekezi wanaoorodhesha upatikanaji, uwezo na programu zinazokubalika.",
+      "educationFlow1": "Wanafunzi wanapakia vyeti na kuweka mapendeleo ya utaalamu na eneo",
+      "educationFlow2": "Tuma ombi la uwekaji na tarehe ya kuanza, saa na wigo",
+      "educationFlow3": "Mwelekezi anakubali; fuatilia saa, hati na tathmini hadi mwisho",
+      "educationCta": "Pata mwelekezi",
+      "researchTitle": "Utafiti na Ufadhili",
+      "researchSummary": "Watafiti hupata waandishi wa ufadhili, hupitia ufadhili na majarida yaliyochaguliwa na huendesha ushirikiano na mafanikio na hatua kuu.",
+      "researchFlow1": "Pitia ufadhili, majarida au waandishi wa ufadhili waliopendekezwa",
+      "researchFlow2": "Tuma ombi la ushirikiano lenye wigo, tarehe ya mwisho na kiasi cha ufadhili",
+      "researchFlow3": "Fuatilia mafanikio, miswada na mawasilisho katika nafasi ya kazi ya pamoja",
+      "researchCta": "Pata mwandishi wa ufadhili"
+    },
+    "why": {
+      "heading": "Kwa nini watu huchagua SandiLink",
+      "subheading": "Tuliondoa walinda lango bila kuondoa ulinzi.",
+      "verificationTitle": "Uthibitisho katika kila hatua",
+      "verificationBody": "Wasifu hujumuisha vyeti, leseni na usajili wa programu. Ukaguzi na usimamizi wa wasimamizi huhifadhi soko liwe la haki.",
+      "subscriptionTitle": "Usajili tu kwa watoa huduma",
+      "subscriptionBody": "Watoa huduma za malezi hulipa usajili wa kawaida na huhifadhi 100% ya mapato yao — bila tume kwa kila uhifadhi.",
+      "globalTitle": "Imejengwa kwa ufikaji wa kimataifa",
+      "globalBody": "Zaidi ya nchi 20 zinazoungwa mkono kuanzia siku ya kwanza, ikijumuisha kiolesura cha lugha nyingi cha Tier 1 (Kiingereza, Kihispania, Kifaransa) na ramani ya barabara ya Kireno, Kiarabu, Kiswahili, Mandarin na Kihindi.",
+      "pricingTitle": "Bei wazi na malipo ya ndani",
+      "pricingBody": "Lipa kwa sarafu yako ya ndani kupitia Stripe, PayPal au malango ya kikanda kama Flutterwave, Paystack, M-Pesa, Razorpay na MercadoPago."
+    },
+    "finalCta": {
+      "heading": "Uko tayari kuunganishwa?",
+      "body": "Fungua akaunti yako, chagua jukumu lako na uanze kuhifadhi, kuweka au kushirikiana ndani ya dakika.",
+      "primary": "Fungua akaunti yako",
+      "secondary": "Soma kuhusu Uaminifu na Usalama"
+    }
+  },
+  "subscribeCheckout": {
+    "backToPricing": "Rudi kwenye bei",
+    "headingPrefix": "Jiunge na",
+    "stepIndicator": "Hatua 4 ya 5 — Malipo. Baada ya kumaliza, utaelekezwa kwenye dashibodi yako ya mtoa huduma.",
+    "processing": "Inashughulikia malipo…",
+    "payNow": "Lipa sasa"
+  },
+  "serviceUserPages": {
+    "engagements": {
+      "title": "Miadi yangu",
+      "intro": "Tazama, simamia, na fuatilia miadi na miradi yako."
+    },
+    "experts": {
+      "title": "Pata wataalamu",
+      "intro": "Gundua wataalamu katika utunzaji wa kliniki, utafiti, uandishi wa ufadhili na ushauri."
+    },
+    "messages": {
+      "title": "Ujumbe",
+      "intro": "Wasiliana na watoa huduma wako wa afya."
+    },
+    "payments": {
+      "title": "Historia ya malipo",
+      "intro": "Angalia miamala yako, risiti, na simamia njia za malipo."
+    },
+    "preferences": {
+      "title": "Mapendeleo",
+      "intro": "Boresha jinsi SandiLink inavyokufanyia kazi."
+    },
+    "profile": {
+      "title": "Wasifu",
+      "intro": "Simamia maelezo yako binafsi na jinsi wengine wanavyokuona kwenye jukwaa."
+    },
+    "settings": {
+      "title": "Mipangilio ya akaunti",
+      "intro": "Simamia usalama wa akaunti yako, arifa, na data."
+    }
+  },
+  "serviceUserDetail": {
+    "bookingSuccess": {
+      "heading": "Nafasi imethibitishwa!",
+      "body": "Miadi yako imewekwa kwa mafanikio na malipo yameshughulikiwa.",
+      "confirmationIdLabel": "Kitambulisho cha uthibitisho:"
+    },
+    "reviewForm": {
+      "thankYouHeading": "Asante kwa hakiki yako!"
+    },
+    "bookingDetails": {
+      "backToBookings": "Rudi kwenye nafasi"
+    }
+  },
+  "sidebar": {
+    "groups": {
+      "overview": "Muhtasari",
+      "menu": "Menyu",
+      "content": "Maudhui",
+      "account": "Akaunti",
+      "configuration": "Usanidi",
+      "research": "Utafiti",
+      "system": "Mfumo",
+      "internationalization": "Mataifa",
+      "catalogs": "Katalogi",
+      "insights": "Maarifa",
+      "work": "Kazi",
+      "discover": "Gundua"
+    },
+    "items": {
+      "dashboard": "Dashibodi",
+      "analytics": "Uchanganuzi",
+      "users": "Watumiaji",
+      "flaggedContent": "Maudhui yaliyoripotiwa",
+      "disputes": "Migogoro",
+      "moderation": "Usimamizi",
+      "reviews": "Hakiki",
+      "plans": "Mipango",
+      "commission": "Kamisheni",
+      "matching": "Ulinganishaji",
+      "payments": "Malipo",
+      "templates": "Violezo",
+      "researchers": "Watafiti",
+      "grantWriters": "Waandishi wa ufadhili",
+      "grantsDirectory": "Saraka ya ufadhili",
+      "journals": "Majarida",
+      "researchAnalytics": "Uchanganuzi wa utafiti",
+      "researchMatching": "Ulinganishaji wa utafiti",
+      "researcherPlans": "Mipango ya watafiti",
+      "writerCommission": "Kamisheni ya mwandishi",
+      "languages": "Lugha",
+      "translations": "Tafsiri",
+      "localizedContent": "Maudhui ya kienyeji",
+      "providerCategories": "Aina za watoa huduma",
+      "specialties": "Utaalamu",
+      "serviceTypes": "Aina za huduma",
+      "credentials": "Vyeti",
+      "deliveryModes": "Njia za kutoa",
+      "roleMappings": "Ramani ya majukumu",
+      "auditLogs": "Kumbukumbu za ukaguzi",
+      "system": "Mfumo",
+      "compliance": "Utiifu",
+      "settings": "Mipangilio",
+      "findExperts": "Pata wataalamu",
+      "myEngagements": "Miadi yangu",
+      "messages": "Ujumbe",
+      "profile": "Wasifu",
+      "preferences": "Mapendeleo",
+      "myWork": "Kazi yangu",
+      "schedule": "Ratiba",
+      "earnings": "Mapato",
+      "billing": "Ankara",
+      "findMentors": "Pata washauri",
+      "myPlacements": "Nafasi zangu",
+      "availability": "Upatikanaji",
+      "requests": "Maombi",
+      "myStudents": "Wanafunzi wangu",
+      "students": "Wanafunzi",
+      "placements": "Nafasi",
+      "findPreceptors": "Pata waelekezi",
+      "agreements": "Mikataba",
+      "reports": "Ripoti",
+      "organizationProfile": "Wasifu wa shirika",
+      "myResearch": "Utafiti wangu",
+      "publications": "Machapisho",
+      "grantApplications": "Maombi ya ufadhili",
+      "findGrants": "Pata ufadhili",
+      "journalDirectory": "Saraka ya majarida",
+      "findGrantWriters": "Pata waandishi wa ufadhili",
+      "savedGrants": "Ufadhili uliohifadhiwa",
+      "submissions": "Mawasilisho",
+      "activeProjects": "Miradi inayoendelea",
+      "myClients": "Wateja wangu",
+      "portfolio": "Kumbukumbu ya kazi",
+      "deliverables": "Mafanikio",
+      "packages": "Vifurushi"
+    }
+  },
+  "chrome": {
+    "searchPlaceholder": "Tafuta...",
+    "notifications": "Arifa",
+    "adminNotifications": "Arifa za msimamizi",
+    "viewAll": "Tazama yote",
+    "viewAllNotifications": "Tazama arifa zote",
+    "signOut": "Toka",
+    "lightMode": "Hali nyepesi",
+    "darkMode": "Hali nyeusi",
+    "settings": "Mipangilio",
+    "profile": "Wasifu",
+    "newCount": "{count} mpya"
+  },
+  "dashboardCard": {
+    "shared": {
+      "viewAll": "Tazama yote",
+      "fullSchedule": "Ratiba kamili",
+      "fullAnalytics": "Uchanganuzi kamili",
+      "quickActions": "Vitendo vya haraka",
+      "accept": "Kubali",
+      "decline": "Kataa"
+    },
+    "status": {
+      "active": "Hai",
+      "pending": "Inasubiri",
+      "completed": "Imekamilika",
+      "inProgress": "Inaendelea",
+      "upcoming": "Inakuja",
+      "virtual": "Virtual",
+      "inPerson": "Ana kwa ana"
+    },
+    "provider": {
+      "statTodaysEngagements": "Miadi ya leo",
+      "statTodaysEngagementsDesc": "{virtual} virtual, {inPerson} ana kwa ana",
+      "statPendingRequests": "Maombi yanayosubiri",
+      "statPendingRequestsDesc": "Yanasubiri jibu lako",
+      "statMonthlyEarnings": "Mapato ya mwezi huu",
+      "statMonthlyEarningsDesc": "{trend} dhidi ya mwezi uliopita",
+      "statOverallRating": "Ukadiriaji wa jumla",
+      "statOverallRatingDesc": "{count} hakiki",
+      "sectionTodaysSchedule": "Ratiba ya leo",
+      "sectionPendingRequests": "Maombi yanayosubiri",
+      "sectionPendingRequestsDesc": "Yanasubiri jibu lako",
+      "actionManageSchedule": "Simamia ratiba",
+      "actionViewMessages": "Tazama ujumbe",
+      "actionEarnings": "Mapato",
+      "actionClientReviews": "Hakiki za wateja"
+    },
+    "student": {
+      "statActivePlacements": "Nafasi zinazoendelea",
+      "statPendingRequests": "Maombi yanayosubiri",
+      "statPendingRequestsDesc": "Yanasubiri jibu la mwelekezi",
+      "statHoursCompleted": "Masaa yaliyokamilika",
+      "statHoursCompletedDesc": "kati ya {total} zinazohitajika",
+      "statCredentials": "Vyeti",
+      "statCredentialsDesc": "{pending} zinasubiri uthibitisho",
+      "sectionActivePlacements": "Nafasi zinazoendelea",
+      "sectionActivePlacementsDesc": "Nafasi zako za kliniki za sasa",
+      "sectionPendingRequests": "Maombi yanayosubiri",
+      "sectionPendingRequestsDesc": "Yanasubiri jibu la mwelekezi",
+      "clinicalHoursLabel": "Masaa ya kliniki",
+      "sentLabel": "Imetumwa {date}",
+      "actionFindPreceptors": "Pata waelekezi",
+      "actionUploadCredentials": "Pakia vyeti",
+      "actionMessages": "Ujumbe",
+      "actionMyProfile": "Wasifu wangu"
+    },
+    "preceptor": {
+      "statActiveStudents": "Wanafunzi waliopo",
+      "statActiveStudentsDesc": "kati ya uwezo wa juu wa {max}",
+      "statPendingRequests": "Maombi yanayosubiri",
+      "statPendingRequestsDesc": "Yanasubiri jibu lako",
+      "statTotalMentored": "Jumla iliyoshauriwa",
+      "statTotalMentoredDesc": "Jumla ya kazi",
+      "statAvgRating": "Wastani wa ukadiriaji",
+      "statAvgRatingDesc": "Kutoka kwa hakiki {count}",
+      "sectionActiveStudents": "Wanafunzi waliopo",
+      "sectionActiveStudentsDesc": "Wanafunzi walioko katika mzunguko wako",
+      "sectionPendingRequests": "Maombi yanayosubiri",
+      "sectionPendingRequestsDesc": "Maombi mapya ya nafasi",
+      "hoursLabel": "Masaa",
+      "sinceLabel": "Tangu {date}",
+      "actionManageSchedule": "Simamia ratiba",
+      "actionViewRequests": "Tazama maombi",
+      "actionMessages": "Ujumbe",
+      "actionMyProfile": "Wasifu wangu"
+    },
+    "institution": {
+      "statTotalStudents": "Jumla ya wanafunzi",
+      "statTotalStudentsDesc": "{active} wapo kwenye nafasi",
+      "statActivePlacements": "Nafasi zinazoendelea",
+      "statActivePlacementsDesc": "Pamoja na waelekezi {count}",
+      "statPendingRequests": "Maombi yanayosubiri",
+      "statPendingRequestsDesc": "Yanasubiri jibu la mwelekezi",
+      "statPlacementRate": "Kiwango cha nafasi",
+      "statPlacementRateDesc": "{trend} dhidi ya muhula uliopita",
+      "sectionRecentPlacements": "Nafasi za hivi karibuni",
+      "sectionRecentPlacementsDesc": "Shughuli ya nafasi za wanafunzi",
+      "actionManageStudents": "Simamia wanafunzi",
+      "actionFindPreceptors": "Pata waelekezi",
+      "actionAssignPlacements": "Pangia nafasi",
+      "actionImportStudents": "Ingiza wanafunzi",
+      "actionViewReports": "Tazama ripoti",
+      "actionAgreements": "Mikataba"
+    },
+    "researcher": {
+      "statActiveProjects": "Miradi inayoendelea",
+      "statActiveProjectsDesc": "{funded} zimefadhiliwa, {inProgress} zinaendelea",
+      "statGrantApplications": "Maombi ya ufadhili",
+      "statGrantApplicationsDesc": "{awarded} zimepewa, {pending} zinakaguliwa",
+      "statPublications": "Machapisho",
+      "statPublicationsDesc": "{review} zinakaguliwa",
+      "statHIndex": "Kielelezo cha h",
+      "statHIndexDesc": "{trend} mwaka huu",
+      "sectionActiveGrants": "Ufadhili unaoendelea",
+      "sectionActiveGrantsDesc": "Maombi yako yaliyofadhiliwa na yanayosubiri",
+      "sectionUpcomingDeadlines": "Tarehe za mwisho zinazokuja",
+      "sectionUpcomingDeadlinesDesc": "Ufadhili, mawasilisho na ripoti",
+      "sectionRecentPublications": "Machapisho ya hivi karibuni",
+      "sectionRecentPublicationsDesc": "Matokeo yako ya hivi karibuni ya utafiti",
+      "actionFindGrants": "Pata ufadhili",
+      "actionSubmitManuscript": "Wasilisha hati",
+      "actionFindGrantWriters": "Pata waandishi wa ufadhili",
+      "actionBrowseJournals": "Vinjari majarida"
+    },
+    "grantWriter": {
+      "statActiveProjects": "Miradi inayoendelea",
+      "statActiveProjectsDesc": "{proposals} mapendekezo, {revisions} marekebisho, {reviews} ukaguzi",
+      "statEarningsMtd": "Mapato (mwezi hadi sasa)",
+      "statEarningsMtdDesc": "{trend} dhidi ya mwezi uliopita",
+      "statSuccessRate": "Kiwango cha mafanikio",
+      "statSuccessRateDesc": "{won} kati ya {total} zilizofadhiliwa",
+      "statClientRating": "Ukadiriaji wa wateja",
+      "statClientRatingDesc": "{count} hakiki",
+      "sectionActiveProjects": "Miradi inayoendelea",
+      "sectionActiveProjectsDesc": "Mapendekezo na mapitio yanayoendelea",
+      "sectionPendingRequests": "Maombi yanayosubiri",
+      "sectionPendingRequestsDesc": "Maombi mapya ya ushirikiano",
+      "sectionRecentWins": "Mafanikio ya hivi karibuni",
+      "sectionRecentWinsDesc": "Ufadhili uliosaidia kupata",
+      "actionViewRequests": "Tazama maombi",
+      "actionEarnings": "Mapato",
+      "actionMessages": "Ujumbe",
+      "actionMyProfile": "Wasifu wangu"
+    },
+    "admin": {
+      "statTotalUsers": "Jumla ya watumiaji",
+      "statActiveBookings": "Nafasi zinazoendelea",
+      "statRevenueMtd": "Mapato (mwezi hadi sasa)",
+      "statActivePlacements": "Nafasi zinazoendelea",
+      "sectionUserRegistration": "Usajili wa watumiaji kwa jukumu",
+      "sectionUserRegistrationDesc": "Mchanganuo wa watumiaji wote waliosajiliwa",
+      "actionViewUsers": "Tazama watumiaji",
+      "actionAnalytics": "Uchanganuzi",
+      "actionDisputes": "Migogoro",
+      "actionRevenue": "Mapato",
+      "actionFlagged": "Iliyoripotiwa",
+      "actionAuditLogs": "Kumbukumbu za ukaguzi"
+    }
+  },
+  "landing": {
+    "hero": {
+      "badge": "Inamuaminika na wataalamu zaidi ya 500 katika nchi zaidi ya 20",
+      "headlinePart1": "Kuunganisha watu kwa",
+      "headlineHighlight": "huduma za afya, kujifunza, na utafiti",
+      "headlinePart2": "— popote duniani.",
+      "subheadline": "SandiLink ni soko la kimataifa linalounganisha watumiaji wa huduma za afya, watoa huduma, wanafunzi, waelekezi, watafiti, na waandishi wa ufadhili katika jukwaa moja la pamoja la kibinadamu.",
+      "primaryCta": "Anza",
+      "secondaryCta": "Vinjari Huduma"
+    },
+    "explainer": {
+      "eyebrow": "Muhtasari wa sekunde 60",
+      "heading": "Ona SandiLink inavyofanya kazi.",
+      "subheading": "Je, ikiwa kuungana na huduma ya afya, mshauri, au mwandishi wa ufadhili ingekuwa rahisi kama kubofya mara moja?",
+      "placeholderTitle": "Video ya muhtasari wa sekunde 60",
+      "placeholderSubtitle": "Inakuja hivi karibuni — inayohifadhiwa kwenye YouTube, bofya kucheza."
+    },
+    "about": {
+      "eyebrow": "Kuhusu SandiLink",
+      "heading": "Jukwaa moja. Njia zisizo na kikomo za msaada na utaalamu.",
+      "lede": "Soko la kimataifa lililojengwa kwa upatikanaji, muunganiko, na fursa.",
+      "body": "SandiLink ni soko kuu la One Sandi Platform — lililoundwa kuondoa vizuizi na kurahisisha watu kupata msaada, utaalamu, na njia wanazohitaji. Mtu akitafuta huduma za afya, nafasi za mafunzo ya kliniki, au ushirikiano wa utafiti, SandiLink hukusanya kila kitu katika mfumo mmoja wa kueleweka, wa kujumuisha, na unaopatikana kimataifa.",
+      "tilesHealthcare": "Afya",
+      "tilesHealthcareDesc": "Watoa huduma, ustawi, walezi",
+      "tilesEducation": "Elimu",
+      "tilesEducationDesc": "Wanafunzi, waelekezi, shule",
+      "tilesResearch": "Utafiti",
+      "tilesResearchDesc": "Ufadhili, majarida, ushirikiano",
+      "tilesGlobal": "Kimataifa",
+      "tilesGlobalDesc": "Nchi 20+, dhamira moja"
+    },
+    "marketplaces": {
+      "heading": "Jukwaa moja. Masoko matatu yanayounganishwa.",
+      "subheading": "Uwezekano usio na kikomo.",
+      "healthcare": {
+        "tag": "Huduma za Afya",
+        "title": "Soko la Huduma za Afya",
+        "lede": "Kituo cha upatikanaji wa kimataifa cha msaada wa afya.",
+        "body": "Watu binafsi, familia, na jamii zinaweza kuungana na wataalamu wa afya huru na wasio wataalamu — ikiwa ni pamoja na madaktari, muuguzi, watoa huduma za afya rafiki, walezi, wataalamu wa ustawi, wafanyakazi wa afya ya jamii, na washirika wa malezi ya msaada.",
+        "callout": "SandiLink inapanua upatikanaji, inapunguza vizuizi, na inasaidia watu kupata huduma sahihi kwa wakati sahihi.",
+        "cta": "Tafuta Mtoa Huduma",
+        "roleDoctors": "Madaktari & Wataalamu",
+        "roleNurses": "Muuguzi & Afya Rafiki",
+        "roleWellness": "Ustawi & Walezi",
+        "roleCommunity": "Wafanyakazi wa Afya ya Jamii"
+      },
+      "education": {
+        "tag": "Preceptor Connect™",
+        "title": "Soko la Elimu",
+        "lede": "Njia maalum ya mahali pa mafunzo ya kliniki na uelekezaji.",
+        "bullet1": "Wanafunzi wanaweza kupata waelekezi na waalimu wa kliniki",
+        "bullet2": "Waelekezi wanaweza kuorodhesha upatikanaji wao na utaalamu wao",
+        "bullet3": "Shule na programu za kitaaluma zinapata muundo, uwazi, na uwazi",
+        "callout": "SandiLink hurahisisha mchakato wa kuweka wanafunzi katika mafunzo ya kliniki na inasaidia maendeleo ya kitaaluma.",
+        "cta": "Tafuta Mwelekezi",
+        "studentsLabel": "Wanafunzi",
+        "preceptorsLabel": "Waelekezi"
+      },
+      "research": {
+        "tag": "Utafiti & Ufadhili",
+        "title": "Soko la Utafiti & Ufadhili",
+        "lede": "Kituo cha kimataifa cha ushirikiano wa utafiti na msaada wa ufadhili.",
+        "bullet1": "Watafiti wanaweza kuungana na waandishi wa ufadhili, kuchunguza ufadhili, na kufikia majarida",
+        "bullet2": "Waandishi wa ufadhili wanaweza kuonyesha utaalamu wao na kukuza biashara yao",
+        "bullet3": "Majarida na timu za kitaaluma zinapata nafasi moja ya ushirikiano",
+        "callout": "SandiLink inaunganisha jamii ya utafiti ya kimataifa na zana na watu wanazohitaji.",
+        "cta": "Tafuta Mwandishi wa Ufadhili",
+        "stat1Label": "Uchunguzi wa Ufadhili",
+        "stat1Value": "Ufadhili 1,200+",
+        "stat2Label": "Ulinganifu wa Wataalamu",
+        "stat2Value": "Wataalamu 67",
+        "stat3Label": "Upatikanaji wa Majarida",
+        "stat3Value": "Majarida 45+"
+      }
+    },
+    "whySandilink": {
+      "heading": "Kwa nini SandiLink?",
+      "subheading": "Majira halisi. Watu halisi. Kufikia halisi — katika masoko matatu.",
+      "groups": {
+        "healthcare": "Afya",
+        "education": "Elimu / Preceptor Connect™",
+        "research": "Utafiti & Ufadhili"
+      },
+      "scenarios": {
+        "hc1Headline": "Mwanaume mjini Houston anaungana na daktari nchini Sierra Leone kumtunza mama yake — mipaka haina nguvu.",
+        "hc1Body": "SandiLink inawezesha familia kuratibu huduma za wapendwa wao barani mbalimbali.",
+        "hc2Headline": "Msichana mdogo mjini Atlanta anapata muuguzi mwenye kujulikana mjini Lagos kwa mwongozo wa afya ya uzazi mtandaoni.",
+        "hc2Body": "Upatikanaji wa huduma zinazolingana kiutamaduni unakuwa rahisi, salama, na moja kwa moja.",
+        "hc3Headline": "Mlezi mjini New Jersey anaungana na mfanyakazi wa afya ya jamii nchini Ghana kusaidia mahitaji ya kila siku ya baba yake mkongwe.",
+        "hc3Body": "SandiLink inapanua mitandao ya huduma zaidi ya jiografia, lugha, na rasilimali za ndani.",
+        "ed1Headline": "Mwanafunzi wa uuguzi nchini Ufilipino anaungana na mwelekezi aliyethibitishwa mjini Houston — hakuna mlinzi, hakuna orodha ya kusubiri.",
+        "ed1Body": "SandiLink inaondoa vizuizi vya kujifunza kliniki na uelekezaji.",
+        "ed2Headline": "Mwanafunzi wa afya ya umma nchini India anapata mafunzo ya mbali na mshauri kutoka Marekani anayeelewa malengo yake.",
+        "ed2Body": "Jiografia haikubagui tena maendeleo ya kitaaluma.",
+        "ed3Headline": "Mwelekezi mjini Mississippi anaorodhesha upatikanaji wake na anaunganika mara moja na wanafunzi wanaohitaji mahali sasa.",
+        "ed3Body": "SandiLink inasaidia pande zote mbili za safari ya kujifunza.",
+        "rg1Headline": "Mtafiti mjini Nairobi anaungana na mwandishi wa ufadhili mjini London kuandaa maombi ya ufadhili wa kimataifa.",
+        "rg1Body": "SandiLink inaongeza kasi ya utafiti kwa kuunganisha utaalamu kuvuka mipaka.",
+        "rg2Headline": "Mwanafunzi wa shahada ya uzamivu mjini Chicago anapata mhariri wa jarida Afrika Kusini kumwongoza katika uwasilishaji wa maandishi yake.",
+        "rg2Body": "Msaada unakuwa wa kufikiwa, wa kibinafsi, na kwa wakati.",
+        "rg3Headline": "Timu ya utafiti nchini Brazil inashirikiana na waandishi wa ufadhili kutoka Marekani kupata ufadhili wa mradi wa afya ya jamii.",
+        "rg3Body": "SandiLink inaimarisha ugunduzi wa kimataifa kupitia ushirikiano wa maana."
+      }
+    },
+    "approach": {
+      "heading": "Teknolojia iliyoundwa kuzunguka watu — si taasisi.",
+      "pillar1Title": "Ubunifu Unaolenga Mtu",
+      "pillar1Body": "Imejengwa kuzunguka uzoefu halisi, mahitaji halisi, na changamoto halisi zinazokabili watu wanaotafuta huduma, elimu, na ushirikiano.",
+      "pillar2Title": "Upatikanaji wa Kimataifa",
+      "pillar2Body": "Imeundwa kupanua kuvuka mipaka, tamaduni, na jamii — ikifanya msaada wa wataalamu kuwa wa kufikiwa kwa kila mtu, popote.",
+      "pillar3Title": "Imani & Uwazi",
+      "pillar3Body": "Ubunifu wa maadili, mawasiliano ya wazi, na kanuni zinazolenga mtumiaji. Kila mtaalamu anathibitishwa kabla ya kuwa hai.",
+      "pillar4Title": "Uomatishaji kwa Lengo",
+      "pillar4Body": "Ulinganifu mwerevu, mtiririko wa kazi uliorahisishwa, na zana zenye akili zinazopunguza mgongano ili watu waweze kuzingatia muhimu."
+    },
+    "mission": {
+      "eyebrow": "Dhamira Yetu",
+      "heading": "Kwa sababu upatikanaji unapaswa kuwa rahisi — si wa kuleta msongo.",
+      "lede": "SandiLink iliundwa kutatua tatizo la kimataifa: watu kila mahali wanakumbana na upatikanaji wa huduma, kupata nafasi za mafunzo ya kliniki, au kupata msaada wa utafiti.",
+      "missionTitle": "Dhamira Yetu",
+      "missionBody": "Kujenga mifumo inayoweza kupanuliwa na inayolenga binadamu inayowawezesha watu bila kujali jiografia, asili, au rasilimali.",
+      "visionTitle": "Dira Yetu",
+      "visionBody": "Dunia ambapo huduma za afya zinapatikana, elimu inasaidiwa, na utafiti ni wa ushirikiano na umeunganishwa kimataifa.",
+      "tileHealthcare": "Afya",
+      "tileHealthcareValue": "Inayopatikana",
+      "tileEducation": "Elimu",
+      "tileEducationValue": "Inayosaidiwa",
+      "tileResearch": "Utafiti",
+      "tileResearchValue": "Umeunganishwa",
+      "tileCommunity": "Jamii",
+      "tileCommunityValue": "Ya Kimataifa"
+    },
+    "community": {
+      "heading": "Jamii ya kimataifa ya watumiaji, watoa huduma, na washirika.",
+      "body": "SandiLink inasaidia watu binafsi, familia, watoa huduma za afya, wanafunzi, waelekezi, watafiti, waandishi wa ufadhili, majarida, na taasisi duniani kote.",
+      "accent": "Tunajenga mfumo wa kiikolojia uliounganika unaouimarisha huduma, kujifunza, na ugunduzi.",
+      "cta": "Jiunge na Jamii",
+      "roleServiceUsers": "Watumiaji wa Huduma",
+      "roleProviders": "Watoa Huduma",
+      "roleStudents": "Wanafunzi",
+      "rolePreceptors": "Waelekezi",
+      "roleResearchers": "Watafiti",
+      "roleGrantWriters": "Waandishi wa Ufadhili",
+      "roleInstitutions": "Taasisi"
+    },
+    "founding": {
+      "statProviders": "Watoa Huduma",
+      "statCountries": "Nchi",
+      "statMarketplaces": "Masoko",
+      "statMission": "Dhamira",
+      "testimonialsHeading": "Wanachosema Wanachama Wetu",
+      "testimonialsBody": "Sauti halisi kutoka kwa jamii ya mapema ya SandiLink.",
+      "founderBadge": "Ujumbe kutoka kwa Mwanzilishi Wetu",
+      "founderQuote": "Tulijenga SandiLink kwa sababu kipaji hakipaswi kuwa na kikomo cha upatikanaji. Kutoka huduma za afya hadi uelekezaji wa kliniki hadi utafiti na ufadhili, tunaunganisha watu kuvuka masoko matatu yaliyotengenezwa kwa madhumuni. Tumekwisha tu — na kila mtu anayejiunga sasa husaidia kuunda kile kitakachokuja.",
+      "founderRole": "Mwanzilishi & Mkurugenzi Mtendaji",
+      "founderCompany": "SandiLink",
+      "limitedTime": "Muda Mfupi",
+      "heading": "Kuwa Mwanachama Mwanzilishi",
+      "subheading": "Jiunga sasa upokee faida za kipekee zilizohifadhiwa kwa wanachama wetu wa mapema.",
+      "benefit1Title": "Upatikanaji wa Mapema",
+      "benefit1Body": "Kuwa wa kwanza katika masoko matatu: Huduma za Afya, Preceptor Connect™, na Utafiti & Ufadhili.",
+      "benefit2Title": "Weka Kipaumbele",
+      "benefit2Body": "Wanachama wanaopatajiwa wanapokea nafasi ya kipaumbele katika orodha, ikifanya uweze kuonekana zaidi kwa wajifunzaji, washirika, na fursa.",
+      "benefit3Title": "Mchango Moja kwa Moja wa Vipengele",
+      "benefit3Body": "Chapa jukwaa. Wanachama wanaopatajiwa wanapokea mstari wa moja kwa moja wa timu ya bidhaa, na maoni yako yanayoathiri kile tunachojenga.",
+      "benefit4Title": "Bendi ya Mwanachama Mwanzilishi Maisha Yote",
+      "benefit4Body": "Bendi ya kudumu katika wasifu wako inayoashiria kuwa ulikuwa hapa tangu mwanzo — inayoonekana na kila mtumiaji anayeangalia wasifu wako.",
+      "cta": "Kuwa Mwanachama Mwanzilishi"
+    },
+    "finalCta": {
+      "heading": "Jiunge na jukwaa linaloainisha upya muunganiko wa kimataifa.",
+      "body": "Unda akaunti yako and uanze kuunganika na watoa huduma za afya, waalimu, watafiti, na waandishi wa ufadhili leo.",
+      "primary": "Unda Akaunti Yako",
+      "secondary": "Ingia"
+    }
+  },
+  "profilePages": {
+    "provider": {
+      "title": "Wasifu wa mtoa huduma",
+      "intro": "Simamia wasifu wako wa kitaalamu, vyeti na viwango."
+    },
+    "student": {
+      "title": "Wasifu wa mwanafunzi",
+      "intro": "Simamia maelezo yako ya kibinafsi na ya kitaaluma."
+    },
+    "institution": {
+      "title": "Wasifu wa shirika",
+      "intro": "Simamia maelezo ya taasisi yako."
+    },
+    "preceptor": {
+      "title": "Wasifu wa mwelekezi",
+      "intro": "Simamia wasifu wako, utaalamu, uwezo na upatikanaji."
+    },
+    "researcher": {
+      "title": "Wasifu wa mtafiti",
+      "intro": "Simamia maelezo yako ya kibinafsi, kitaasisi na ya utafiti."
+    },
+    "grantWriter": {
+      "title": "Wasifu wa mwandishi wa ufadhili",
+      "intro": "Simamia wasifu wako wa kitaalamu, ujuzi na viwango."
+    }
+  }
+}

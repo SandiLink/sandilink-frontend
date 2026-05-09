@@ -1,0 +1,966 @@
+{
+  "common": {
+    "signIn": "登录",
+    "getStarted": "开始使用",
+    "createAccount": "创建您的账户",
+    "openMenu": "打开菜单",
+    "comingSoon": "即将推出"
+  },
+  "nav": {
+    "marketplaces": "市场",
+    "howItWorks": "运作方式",
+    "pricing": "价格",
+    "resources": "资源",
+    "marketplacesEyebrow": "三个互联市场",
+    "resourcesEyebrow": "帮助和文档",
+    "marketplacesCta": "了解 SandiLink 的运作方式",
+    "resourcesCta": "联系我们的团队",
+    "items": {
+      "healthcare": {
+        "title": "医疗服务",
+        "description": "用户可与医生、护士、辅助医疗人员、护理人员和健康从业者建立联系。"
+      },
+      "preceptor": {
+        "title": "Preceptor Connect™",
+        "description": "学生和机构可向经过认证的临床导师申请实习安排。"
+      },
+      "research": {
+        "title": "研究与资助",
+        "description": "研究人员可寻找资助申请撰稿人、浏览精选资助和期刊,并管理协作。"
+      },
+      "faq": {
+        "title": "常见问题",
+        "description": "关于 SandiLink 最常见问题的解答。"
+      },
+      "trust": {
+        "title": "信任与安全",
+        "description": "我们如何验证用户、保护数据和解决争议。"
+      },
+      "support": {
+        "title": "支持",
+        "description": "联系我们的团队或提交支持请求。"
+      }
+    }
+  },
+  "footer": {
+    "tagline": "连接护理、学习和研究的全球服务市场。",
+    "marketplacesHeading": "市场",
+    "platformHeading": "平台",
+    "getStartedHeading": "开始使用",
+    "legalHeading": "法律",
+    "links": {
+      "healthcare": "医疗服务",
+      "preceptor": "Preceptor Connect™",
+      "research": "研究与资助",
+      "howItWorks": "运作方式",
+      "pricing": "价格",
+      "trust": "信任与安全",
+      "faq": "常见问题",
+      "support": "支持",
+      "signIn": "登录",
+      "createAccount": "创建账户",
+      "forgotPassword": "忘记密码",
+      "terms": "服务条款",
+      "privacy": "隐私政策",
+      "cookies": "Cookie 政策",
+      "termsShort": "条款",
+      "privacyShort": "隐私",
+      "cookiesShort": "Cookie",
+      "grantWriters": "Grant Writers",
+      "journals": "Journals",
+      "providerAgreement": "服务提供者协议"
+    },
+    "disclaimer": "<strong>免责声明:</strong>SandiLink 不提供医疗护理或临床服务。我们不验证资质;用户必须自行进行尽职调查。如遇医疗紧急情况,请拨打 911 或当地紧急号码。",
+    "rights": "© {year} One Sandi。保留所有权利。"
+  },
+  "languageSwitcher": {
+    "label": "语言",
+    "current": "当前语言:{language}",
+    "tier1": "现已可用",
+    "tier2": "即将推出",
+    "untranslated": "翻译中"
+  },
+  "auth": {
+    "shared": {
+      "or": "或",
+      "orSignInManually": "或手动登录",
+      "showPassword": "显示密码",
+      "hidePassword": "隐藏密码",
+      "continueWithGoogle": "使用 Google 继续",
+      "rememberPassword": "记得您的密码？",
+      "signIn": "登录",
+      "signUp": "注册",
+      "backToSignIn": "返回登录",
+      "sidePanelTagline": "将医疗专业人员、学生和机构连接到一个无缝的平台。"
+    },
+    "login": {
+      "pageTitle": "欢迎回来",
+      "pageDescription": "登录以访问您的 SandiLink 帐户",
+      "quickDemoLogin": "快速演示登录",
+      "emailLabel": "电子邮件地址",
+      "emailPlaceholder": "you@example.com",
+      "passwordLabel": "密码",
+      "passwordPlaceholder": "输入您的密码",
+      "forgotPassword": "忘记密码？",
+      "rememberMe": "记住我",
+      "signingIn": "登录中…",
+      "signIn": "登录",
+      "noAccount": "没有帐户？"
+    },
+    "register": {
+      "pageTitle": "创建您的帐户",
+      "pageDescription": "加入 SandiLink 即可开始使用",
+      "selectRolePrompt": "选择最能描述您的角色",
+      "continue": "继续",
+      "firstNameLabel": "名字",
+      "lastNameLabel": "姓氏",
+      "emailLabel": "电子邮件地址",
+      "passwordLabel": "密码",
+      "passwordPlaceholder": "创建密码",
+      "passwordHint": "至少 8 个字符",
+      "termsAgreementBefore": "我同意 ",
+      "termsAgreementAnd": " 和 ",
+      "termsLink": "服务条款",
+      "privacyLink": "隐私政策",
+      "back": "返回",
+      "creatingAccount": "正在创建帐户…",
+      "createAccount": "创建帐户",
+      "haveAccount": "已经有帐户？",
+      "roles": {
+        "serviceUserLabel": "服务用户",
+        "serviceUserDescription": "搜索并预约医疗服务提供者",
+        "careProviderLabel": "医疗服务提供者",
+        "careProviderDescription": "提供您的医疗服务",
+        "studentLabel": "医疗保健学生",
+        "studentDescription": "寻找临床实习和导师",
+        "institutionLabel": "教育机构",
+        "institutionDescription": "大规模管理学生实习",
+        "preceptorLabel": "临床导师",
+        "preceptorDescription": "在临床环境中指导学生",
+        "researcherLabel": "研究员",
+        "researcherDescription": "发现资助、发布研究并寻找合作伙伴",
+        "grantWriterLabel": "资助提案撰写者",
+        "grantWriterDescription": "帮助研究人员撰写成功的资助提案"
+      }
+    },
+    "forgotPassword": {
+      "pageTitle": "忘记密码？",
+      "pageDescription": "别担心，我们会帮您重置",
+      "instructions": "输入与您帐户关联的电子邮件地址，我们将向您发送重置密码的链接。",
+      "sendingLink": "正在发送链接…",
+      "sendResetLink": "发送重置链接",
+      "successPrefix": "如果存在以下帐户",
+      "successInstructions": "您稍后会收到重置密码的链接。请查看收件箱和垃圾邮件文件夹。"
+    },
+    "resetPassword": {
+      "pageTitle": "设置新密码",
+      "pageDescription": "为您的帐户创建一个强密码",
+      "newPasswordLabel": "新密码",
+      "newPasswordPlaceholder": "输入新密码",
+      "confirmPasswordLabel": "确认密码",
+      "confirmPasswordPlaceholder": "确认新密码",
+      "resettingPassword": "正在重置密码…",
+      "resetPassword": "重置密码",
+      "successHeading": "密码重置成功",
+      "successDescription": "您的密码已更新。您现在可以使用新密码登录。"
+    },
+    "mfaSetup": {
+      "pageTitle": "保护您的帐户",
+      "pageDescription": "设置双重验证",
+      "introCopy": "启用使用身份验证应用的双重验证，为您的帐户添加额外一层安全保障。",
+      "youllNeed": "您需要",
+      "youllNeedAuthApp": "身份验证器应用（Google Authenticator、Authy 等）",
+      "getStarted": "开始使用",
+      "doLater": "我稍后再做",
+      "scanInstructions": "用您的身份验证器应用扫描下方的 QR 码，或手动输入密钥。",
+      "qrPlaceholder": "QR 码将显示在此处",
+      "cantScan": "无法扫描？请手动输入此密钥：",
+      "iScanned": "我已扫描代码",
+      "verifyInstructions": "输入身份验证器应用中的 6 位代码以验证设置。",
+      "verifying": "正在验证…",
+      "verifyAndActivate": "验证并激活",
+      "backToQr": "返回 QR 码",
+      "doneHeading": "双重验证已启用",
+      "doneDescription": "每次登录时都需要输入验证码。请保持身份验证器应用可访问。",
+      "continue": "继续"
+    },
+    "verifyEmail": {
+      "pageTitle": "检查您的邮箱",
+      "pageDescription": "输入验证码以继续",
+      "sentCodeTo": "我们已发送 6 位代码至",
+      "verifying": "正在验证…",
+      "verifyEmail": "验证邮箱",
+      "didntReceive": "没收到代码？",
+      "resendIn": "{seconds} 秒后重新发送",
+      "sending": "正在发送…",
+      "resendCode": "重新发送代码"
+    }
+  },
+  "dashboards": {
+    "serviceUser": {
+      "welcomeBack": "欢迎回来！",
+      "welcomeSubhead": "以下是您的活动概览和即将到来的预约。"
+    },
+    "provider": {
+      "greetingMorning": "早上好，约翰逊医生",
+      "welcomeSubhead": "您今天有 {engagements} 次会面和 {requests} 个待处理请求。"
+    },
+    "student": {
+      "welcomeBack": "欢迎回来，Jane",
+      "welcomeSubhead": "跟踪您的临床实习、小时数和资格凭证。"
+    },
+    "preceptor": {
+      "welcomeBack": "欢迎回来，Williams 医生",
+      "welcomeSubhead": "管理您的学生、实习申请和指导活动。"
+    },
+    "institution": {
+      "pageTitle": "机构仪表板",
+      "welcomeSubhead": "管理您的学生、实习和导师关系。"
+    },
+    "researcher": {
+      "welcomeBack": "欢迎回来，Rashid 医生",
+      "welcomeSubhead": "跟踪您的研究项目、资助和发表成果。"
+    },
+    "grantWriter": {
+      "welcomeBack": "欢迎回来，Lisa",
+      "welcomeSubhead": "管理您的项目、跟踪收入，并扩大您的资助提案撰写业务。"
+    },
+    "admin": {
+      "pageTitle": "平台概览",
+      "welcomeSubhead": "监控平台健康状况、用户活动和收入指标。"
+    }
+  },
+  "publicHero": {
+    "eyebrow": "公开目录",
+    "signUpFree": "免费注册",
+    "signIn": "登录"
+  },
+  "publicDirectories": {
+    "experts": {
+      "title": "寻找医疗专家",
+      "description": "浏览经过验证的临床护理、治疗、研究、指导等领域的服务提供者。免费注册以发送消息、预订或保存档案。"
+    },
+    "preceptors": {
+      "title": "寻找临床导师",
+      "description": "与护理、PA、DNP 和相关健康计划中经过验证的导师建立联系。免费注册以申请实习。"
+    },
+    "grants": {
+      "title": "浏览开放资助",
+      "description": "跟踪 NIH、NSF、WHO、基金会和政府机构的资助机会。注册以保存资助、获取截止日期提醒并匹配撰写者。"
+    },
+    "grantWriters": {
+      "title": "寻找资助撰写者",
+      "description": "在 NIH、NSF、基金会和全球健康资助者方面有业绩记录的经过验证的撰写者。免费注册以比较档案并启动项目。"
+    },
+    "journals": {
+      "title": "浏览期刊",
+      "description": "数字健康、生物医学研究、公共卫生和信息学领域的同行评审期刊。免费注册以跟踪投稿并筛选目标。"
+    }
+  },
+  "faq": {
+    "eyebrow": "常见问题",
+    "heading": "快速答案。",
+    "intro": "浏览有关帐户、计费、实习、隐私和故障排除的最常见问题。按类别筛选或按关键字搜索。",
+    "didntFindHeading": "找不到答案？",
+    "didntFindBody": "我们的支持团队随时为您提供帮助 — 大多数回复在一个工作日内送达。",
+    "contactSupport": "联系支持",
+    "howItWorks": "工作原理"
+  },
+  "support": {
+    "eyebrow": "支持",
+    "heading": "我们随时为您服务。",
+    "intro": "浏览自助资源、直接联系我们的团队，或提交支持请求 — 哪种最适合您所需。",
+    "reachUsHeading": "直接联系我们",
+    "reachUsIntro": "更喜欢电子邮件、电话或聊天？选择适合您的渠道。"
+  },
+  "subscribe": {
+    "success": {
+      "heading": "付款成功 — 欢迎来到 SandiLink Pro！",
+      "body": "您的订阅已激活，您的服务提供者档案已准备就绪。我们已通过电子邮件向您发送了收据和快速入门清单。",
+      "dashboardCardTitle": "步骤 5 — 访问您的仪表板",
+      "dashboardCardDescription": "完善您的档案、设置可用时间并接受您的第一笔预订。",
+      "goToDashboard": "进入服务提供者仪表板",
+      "receiptCardTitle": "收据和账单",
+      "receiptCardDescription": "随时管理您的方案、支付方式和历史记录。",
+      "openBilling": "打开账单",
+      "needAnything": "需要任何帮助？请通过以下方式联系我们的团队"
+    },
+    "failed": {
+      "heading": "支付失败 — 请更新您的银行卡或重试。",
+      "body": "您的订阅未激活，且未产生任何费用。以下是常见原因。",
+      "commonReasonsTitle": "常见原因",
+      "commonReasonsBody": "下列任何原因都可能阻止支付。请尝试使用不同的银行卡或方式。",
+      "reasonCardDeclined": "银行卡被拒绝或已过期。",
+      "reasonInsufficientFunds": "支付方式的余额不足。",
+      "reasonBankFlagged": "您的银行将该交易标记为可疑。",
+      "reasonAddressMismatch": "账单地址与银行档案不符。",
+      "reasonNetworkTimeout": "网络或网关超时中断了交易。",
+      "tryAgainTitle": "重试",
+      "tryAgainDescription": "使用相同方案搭配其他支付方式。",
+      "backToPricing": "返回定价",
+      "needHelpTitle": "需要帮助？",
+      "needHelpDescription": "我们的团队可以帮您诊断并解锁支付。",
+      "contactSupport": "联系支持"
+    }
+  },
+  "pricing": {
+    "eyebrow": "服务提供者价格",
+    "heading": "简单、统一的价格 — 永不收佣金。",
+    "intro": "一次订阅，列出您的服务，并保留每笔预订的 100%。选择月付以获得灵活性，或选择年付以节省 17%。",
+    "tabMonthly": "月付",
+    "tabAnnual": "年付",
+    "save17": "节省 17%",
+    "contextRegisterTitle": "还差一步 — 选择方案",
+    "contextRegisterBody": "服务提供者需要有效订阅才能访问仪表板。请在下方选择方案以完成注册。",
+    "contextGateTitle": "需要订阅",
+    "contextGateBody": "您的服务提供者仪表板需要有效订阅。请选择方案以恢复访问。",
+    "usdNote": "价格以美元列出。结账时将按当地货币计费并按汇率换算为美元。",
+    "why": {
+      "heading": "我们的定价为何不同",
+      "subheading": "大多数市场会从每笔预订中抽取 15-30%。我们不会。",
+      "earningsTitle": "保留 100% 收入",
+      "earningsBody": "SandiLink 不收取预订佣金。您支付固定订阅，客户付款给您，整笔预订金额归您所有。",
+      "currencyTitle": "以本地货币付款",
+      "currencyBody": "Stripe、PayPal 和区域通道处理换算。平台以美元结算；您和客户看到的是本地货币价格。",
+      "cancelTitle": "随时取消",
+      "cancelBody": "无长期合约。在计费仪表盘取消并保留访问到当前周期结束。"
+    },
+    "payments": {
+      "heading": "按您的方式付款",
+      "subheading": "第一阶段通道现已上线。第二阶段区域通道将随我们扩张陆续启用。",
+      "phase1Label": "第一阶段——现已可用",
+      "phase2Label": "第二阶段——全球扩张"
+    },
+    "faq": {
+      "heading": "定价常见问题",
+      "q1": "你们会从我的预订中抽佣金吗？",
+      "a1": "不会。SandiLink 对服务提供者仅采用订阅制——您支付固定的月度或年度费用，并保留客户付款的 100%。",
+      "q2": "我以后能否切换计划？",
+      "a2": "可以。随时在服务提供者的计费仪表盘升级或降级。升级立即生效；降级在下次续订时应用。",
+      "q3": "如果付款失败会怎样？",
+      "a3": "我们会发送邮件并在几天内重试。如无法收取，您的公开列表将暂停（不会删除）直至更新付款方式。",
+      "q4": "支持哪些付款方式？",
+      "a4": "上线时支持信用卡和借记卡、Apple Pay、Google Pay 和 PayPal。随着全球扩张，将启用 Flutterwave、Paystack、M-Pesa、Razorpay 和 MercadoPago 等区域通道。"
+    },
+    "finalCta": {
+      "heading": "准备开始赚取了吗？",
+      "body": "创建服务提供者账户，完善资料并选择合适的计划。",
+      "primary": "创建服务提供者账户",
+      "secondary": "运作方式"
+    }
+  },
+  "trustSafety": {
+    "eyebrow": "信任与安全",
+    "heading": "为人而建，由政策守护。",
+    "intro": "SandiLink 是一个全球市场，这意味着真实的人通过它建立真实的联系。这就是我们如何让这种体验保持安全、透明和负责。",
+    "reportIssue": "报告问题",
+    "readPrivacy": "阅读隐私政策",
+    "pillars": {
+      "heading": "平台安全的六大支柱",
+      "subheading": "SandiLink 上的每一次互动都受这些护栏约束。",
+      "verificationTitle": "每次注册都验证",
+      "verificationBody": "服务提供者、导师、学生、研究人员和资助撰写人在档案公开前提交资历、执照或项目注册。资料不全的档案不会出现在搜索中。",
+      "moderationTitle": "积极审核",
+      "moderationBody": "被用户或我们系统标记的档案、评价和消息进入审核队列。管理员批准、移除、暂停或警告——每个动作都有记录。",
+      "privacyTitle": "隐私与 PHI 控制",
+      "privacyBody": "接收表单和健康信息在传输和存储中均加密。PHI 仅对指定的护理提供者可见——绝不对平台管理员或其他用户可见。",
+      "securityTitle": "账户安全",
+      "securityBody": "可选的双因素认证、邮件验证、密码重置流程，以及对每个敏感操作的审计日志，让账户始终在您掌控之中。",
+      "paymentsTitle": "安全支付",
+      "paymentsBody": "支付通过 Stripe、PayPal 和区域通道（Flutterwave、Paystack、M-Pesa、Razorpay、MercadoPago）进行。我们绝不存储完整卡号。",
+      "disputesTitle": "争议解决",
+      "disputesBody": "若出现问题，请提交争议。我们的团队会审查沟通、应用平台政策并出具书面裁决。"
+    },
+    "policies": {
+      "heading": "预订前您应了解",
+      "subheading": "SandiLink 保护用户——但当所有人都做好准备时市场最为有效。",
+      "whoTitle": "在 SandiLink 上能找到谁",
+      "whoBody": "独立专业人员提供自身服务并对此负责。SandiLink 是一个市场——我们促进连接和支付，但不雇用服务提供者，也不保证临床结果。",
+      "dueDiligenceTitle": "您的尽职调查很重要",
+      "dueDiligenceBody": "始终通过相应的执照机构核实服务提供者的资历，索取参考，并在预订前查看档案评分和评价。",
+      "communicationTitle": "保持沟通在平台内",
+      "communicationBody": "平台内消息为双方留存记录、支持争议解决，并允许我们在出问题时介入审核。平台外联系自负风险。",
+      "emergenciesTitle": "紧急情况不属于 SandiLink",
+      "emergenciesBody": "SandiLink 不是紧急服务。医疗紧急情况请拨打 911（或您当地的紧急电话）。美国心理健康危机请拨打或发送短信 988。"
+    },
+    "reporting": {
+      "heading": "如何举报",
+      "subheading": "如果有什么不对劲——档案、评价、消息或付款——请举报。我们认真对待每一份举报。",
+      "stepLabel": "步骤",
+      "s1Title": "使用举报按钮",
+      "s1Body": "每个档案、评价和消息都有举报选项。选择最接近的原因并补充细节——发生了什么、何时以及涉及的用户。",
+      "s2Title": "我们在 1 个工作日内分流",
+      "s2Body": "举报进入管理员审核和争议处理。敏感案例（安全、欺诈、PHI 泄露）立即升级。",
+      "s3Title": "采取行动并记录",
+      "s3Body": "结果可能从警告到内容删除、账户暂停或永久封禁。每一步都记录在审计日志中。",
+      "s4Title": "您会收到回复",
+      "s4Body": "我们与举报用户闭环——结果、后续步骤，以及如有不同意见如何升级。"
+    },
+    "finalCta": {
+      "heading": "看到了什么？告诉我们。",
+      "body": "信任与安全团队会在一个工作日内回复举报。紧急安全问题请将消息标记为紧急——我们会立即处理。",
+      "primary": "联系支持",
+      "secondary": "浏览常见问题"
+    }
+  },
+  "howItWorks": {
+    "eyebrow": "工作原理",
+    "heading": "从注册到预订只需六步。",
+    "intro": "SandiLink 在三个全球市场中连接服务用户、服务提供者、学生、导师、研究人员和资助撰写者。以下流程驱动每一次预订、实习和资助项目。",
+    "ctaCreate": "创建您的账户",
+    "ctaFaq": "阅读常见问题",
+    "stepLabel": "步骤",
+    "flow": {
+      "heading": "SandiLink 合作流程",
+      "subheading": "同样的六个步骤驱动每一次预订、安置和资助项目——只是参与者不同。",
+      "s1Title": "创建您的账户",
+      "s1Body": "选择您的角色——服务用户、护理服务提供者、学生、导师、机构、研究人员或资助撰写人——并告诉我们您的需求。",
+      "s2Title": "完善个人资料",
+      "s2Body": "添加资历、专长、可用时间和简短简介。专业人员订阅以激活公开列表。",
+      "s3Title": "找到合适的匹配",
+      "s3Body": "搜索公开目录或让我们的匹配引擎为您呈现最合适的服务提供者、导师或资助撰写人。",
+      "s4Title": "沟通并约定条款",
+      "s4Body": "开启对话、提问、共享接收表单或提案，并在预订前确认范围。",
+      "s5Title": "安全预订与付款",
+      "s5Body": "通过 Stripe、PayPal 或区域支付通道以您当地货币付款。资金在平台侧以美元结算。",
+      "s6Title": "参与、跟踪与评价",
+      "s6Body": "在平台上完成预约、安置或项目——跟踪小时、可交付物和评估——并在结束时留下评价。"
+    },
+    "verticals": {
+      "heading": "在每个市场中如何运作",
+      "subheading": "三个垂直领域，一致的流程。选择最贴近您需求的一个。",
+      "healthcareTitle": "医疗服务",
+      "healthcareSummary": "服务用户与独立的医生、护士、相关健康专业人员、护理人员、健康从业者和社区卫生工作者建立联系。",
+      "healthcareFlow1": "按专业、地点、评分或交付方式搜索服务提供者",
+      "healthcareFlow2": "打开档案、发送消息并预订线上或线下会面",
+      "healthcareFlow3": "完成接收、付款、参加预约并留下评价",
+      "healthcareCta": "查找服务提供者",
+      "educationTitle": "教育 / Preceptor Connect™",
+      "educationSummary": "学生和机构向列出可用时间、容量和接受项目的导师申请临床实习。",
+      "educationFlow1": "学生上传资历并设置专业和地点偏好",
+      "educationFlow2": "发送包含开始日期、小时和范围的安置请求",
+      "educationFlow3": "导师接受；跟踪小时、文件、评估直至完成",
+      "educationCta": "查找导师",
+      "researchTitle": "研究与资助",
+      "researchSummary": "研究人员寻找资助撰写人，浏览精选资助和期刊，并通过可交付物和里程碑开展协作。",
+      "researchFlow1": "浏览资助、期刊或推荐的资助撰写人",
+      "researchFlow2": "发送包含范围、截止日期和资助金额的协作请求",
+      "researchFlow3": "在共享工作区跟踪可交付物、稿件和提交",
+      "researchCta": "查找资助撰写人"
+    },
+    "why": {
+      "heading": "人们为何选择 SandiLink",
+      "subheading": "我们去除了把关人，但保留了护栏。",
+      "verificationTitle": "每一步都有验证",
+      "verificationBody": "档案包含资历、执照和项目注册。评价和管理员审核保持市场公正。",
+      "subscriptionTitle": "服务提供者仅订阅制",
+      "subscriptionBody": "护理服务提供者支付固定订阅，并保留 100% 收入——无每次预订佣金。",
+      "globalTitle": "为全球覆盖而构建",
+      "globalBody": "首日支持 20 多个国家，配备一级多语言界面（英语、西班牙语、法语），并规划葡萄牙语、阿拉伯语、斯瓦希里语、普通话和印地语。",
+      "pricingTitle": "透明定价与本地支付",
+      "pricingBody": "通过 Stripe、PayPal 或 Flutterwave、Paystack、M-Pesa、Razorpay 和 MercadoPago 等区域通道，以您当地货币付款。"
+    },
+    "finalCta": {
+      "heading": "准备好建立连接了吗？",
+      "body": "创建您的账户，选择角色，并在几分钟内开始预订、安置或协作。",
+      "primary": "创建您的账户",
+      "secondary": "了解信任与安全"
+    }
+  },
+  "subscribeCheckout": {
+    "backToPricing": "返回定价",
+    "headingPrefix": "订阅",
+    "stepIndicator": "第 4 步 / 共 5 步 — 付款。结账后，您将被重定向到服务提供者仪表板。",
+    "processing": "正在处理付款…",
+    "payNow": "立即付款"
+  },
+  "serviceUserPages": {
+    "engagements": {
+      "title": "我的预约",
+      "intro": "查看、管理并跟踪您的预约和项目。"
+    },
+    "experts": {
+      "title": "寻找专家",
+      "intro": "在临床护理、研究、资助撰写和指导领域发现专业人士。"
+    },
+    "messages": {
+      "title": "消息",
+      "intro": "与您的医疗服务提供者沟通。"
+    },
+    "payments": {
+      "title": "付款历史",
+      "intro": "查看您的交易、收据并管理支付方式。"
+    },
+    "preferences": {
+      "title": "偏好设置",
+      "intro": "自定义 SandiLink 的使用方式。"
+    },
+    "profile": {
+      "title": "个人资料",
+      "intro": "管理您的个人信息以及其他人在平台上看到您的方式。"
+    },
+    "settings": {
+      "title": "帐户设置",
+      "intro": "管理您的帐户安全、通知和数据。"
+    }
+  },
+  "serviceUserDetail": {
+    "bookingSuccess": {
+      "heading": "预订已确认！",
+      "body": "您的预约已成功预订，付款已处理。",
+      "confirmationIdLabel": "确认编号："
+    },
+    "reviewForm": {
+      "thankYouHeading": "感谢您的评价！"
+    },
+    "bookingDetails": {
+      "backToBookings": "返回预订"
+    }
+  },
+  "sidebar": {
+    "groups": {
+      "overview": "概览",
+      "menu": "菜单",
+      "content": "内容",
+      "account": "帐户",
+      "configuration": "配置",
+      "research": "研究",
+      "system": "系统",
+      "internationalization": "国际化",
+      "catalogs": "目录",
+      "insights": "洞察",
+      "work": "工作",
+      "discover": "发现"
+    },
+    "items": {
+      "dashboard": "仪表板",
+      "analytics": "分析",
+      "users": "用户",
+      "flaggedContent": "已标记内容",
+      "disputes": "争议",
+      "moderation": "审核",
+      "reviews": "评价",
+      "plans": "方案",
+      "commission": "佣金",
+      "matching": "匹配",
+      "payments": "支付",
+      "templates": "模板",
+      "researchers": "研究人员",
+      "grantWriters": "资助撰写者",
+      "grantsDirectory": "资助目录",
+      "journals": "期刊",
+      "researchAnalytics": "研究分析",
+      "researchMatching": "研究匹配",
+      "researcherPlans": "研究人员方案",
+      "writerCommission": "撰写者佣金",
+      "languages": "语言",
+      "translations": "翻译",
+      "localizedContent": "本地化内容",
+      "providerCategories": "服务提供者类别",
+      "specialties": "专科",
+      "serviceTypes": "服务类型",
+      "credentials": "凭证",
+      "deliveryModes": "交付方式",
+      "roleMappings": "角色映射",
+      "auditLogs": "审计日志",
+      "system": "系统",
+      "compliance": "合规",
+      "settings": "设置",
+      "findExperts": "寻找专家",
+      "myEngagements": "我的预约",
+      "messages": "消息",
+      "profile": "个人资料",
+      "preferences": "偏好",
+      "myWork": "我的工作",
+      "schedule": "日程",
+      "earnings": "收入",
+      "billing": "账单",
+      "findMentors": "寻找导师",
+      "myPlacements": "我的实习",
+      "availability": "可用时间",
+      "requests": "请求",
+      "myStudents": "我的学生",
+      "students": "学生",
+      "placements": "实习",
+      "findPreceptors": "寻找导师",
+      "agreements": "协议",
+      "reports": "报告",
+      "organizationProfile": "组织资料",
+      "myResearch": "我的研究",
+      "publications": "出版物",
+      "grantApplications": "资助申请",
+      "findGrants": "寻找资助",
+      "journalDirectory": "期刊目录",
+      "findGrantWriters": "寻找资助撰写者",
+      "savedGrants": "已保存的资助",
+      "submissions": "投稿",
+      "activeProjects": "活动项目",
+      "myClients": "我的客户",
+      "portfolio": "作品集",
+      "deliverables": "交付物",
+      "packages": "套餐"
+    }
+  },
+  "chrome": {
+    "searchPlaceholder": "搜索…",
+    "notifications": "通知",
+    "adminNotifications": "管理员通知",
+    "viewAll": "查看全部",
+    "viewAllNotifications": "查看所有通知",
+    "signOut": "退出",
+    "lightMode": "浅色模式",
+    "darkMode": "深色模式",
+    "settings": "设置",
+    "profile": "个人资料",
+    "newCount": "{count} 条新"
+  },
+  "dashboardCard": {
+    "shared": {
+      "viewAll": "查看全部",
+      "fullSchedule": "完整日程",
+      "fullAnalytics": "完整分析",
+      "quickActions": "快捷操作",
+      "accept": "接受",
+      "decline": "拒绝"
+    },
+    "status": {
+      "active": "进行中",
+      "pending": "待处理",
+      "completed": "已完成",
+      "inProgress": "进行中",
+      "upcoming": "即将开始",
+      "virtual": "线上",
+      "inPerson": "线下"
+    },
+    "provider": {
+      "statTodaysEngagements": "今日预约",
+      "statTodaysEngagementsDesc": "{virtual} 线上，{inPerson} 线下",
+      "statPendingRequests": "待处理请求",
+      "statPendingRequestsDesc": "等待您的回复",
+      "statMonthlyEarnings": "本月收入",
+      "statMonthlyEarningsDesc": "对比上月 {trend}",
+      "statOverallRating": "总体评分",
+      "statOverallRatingDesc": "{count} 条评价",
+      "sectionTodaysSchedule": "今日日程",
+      "sectionPendingRequests": "待处理请求",
+      "sectionPendingRequestsDesc": "等待您的回复",
+      "actionManageSchedule": "管理日程",
+      "actionViewMessages": "查看消息",
+      "actionEarnings": "收入",
+      "actionClientReviews": "客户评价"
+    },
+    "student": {
+      "statActivePlacements": "进行中实习",
+      "statPendingRequests": "待处理请求",
+      "statPendingRequestsDesc": "等待导师回复",
+      "statHoursCompleted": "已完成小时数",
+      "statHoursCompletedDesc": "共需 {total}",
+      "statCredentials": "凭证",
+      "statCredentialsDesc": "{pending} 待验证",
+      "sectionActivePlacements": "进行中实习",
+      "sectionActivePlacementsDesc": "您当前的临床实习",
+      "sectionPendingRequests": "待处理请求",
+      "sectionPendingRequestsDesc": "等待导师回复",
+      "clinicalHoursLabel": "临床小时数",
+      "sentLabel": "已发送 {date}",
+      "actionFindPreceptors": "寻找导师",
+      "actionUploadCredentials": "上传凭证",
+      "actionMessages": "消息",
+      "actionMyProfile": "我的档案"
+    },
+    "preceptor": {
+      "statActiveStudents": "在校学生",
+      "statActiveStudentsDesc": "共 {max} 名容量",
+      "statPendingRequests": "待处理请求",
+      "statPendingRequestsDesc": "等待您的回复",
+      "statTotalMentored": "已指导总数",
+      "statTotalMentoredDesc": "职业总计",
+      "statAvgRating": "平均学生评分",
+      "statAvgRatingDesc": "来自 {count} 条评价",
+      "sectionActiveStudents": "在校学生",
+      "sectionActiveStudentsDesc": "目前在您轮转中的学生",
+      "sectionPendingRequests": "待处理请求",
+      "sectionPendingRequestsDesc": "新的实习申请",
+      "hoursLabel": "小时",
+      "sinceLabel": "自 {date}",
+      "actionManageSchedule": "管理日程",
+      "actionViewRequests": "查看请求",
+      "actionMessages": "消息",
+      "actionMyProfile": "我的档案"
+    },
+    "institution": {
+      "statTotalStudents": "学生总数",
+      "statTotalStudentsDesc": "{active} 名实习中",
+      "statActivePlacements": "进行中实习",
+      "statActivePlacementsDesc": "涉及 {count} 名导师",
+      "statPendingRequests": "待处理请求",
+      "statPendingRequestsDesc": "等待导师回复",
+      "statPlacementRate": "实习率",
+      "statPlacementRateDesc": "对比上学期 {trend}",
+      "sectionRecentPlacements": "最近实习",
+      "sectionRecentPlacementsDesc": "学生实习动态",
+      "actionManageStudents": "管理学生",
+      "actionFindPreceptors": "寻找导师",
+      "actionAssignPlacements": "分配实习",
+      "actionImportStudents": "导入学生",
+      "actionViewReports": "查看报告",
+      "actionAgreements": "协议"
+    },
+    "researcher": {
+      "statActiveProjects": "活动项目",
+      "statActiveProjectsDesc": "{funded} 已资助，{inProgress} 进行中",
+      "statGrantApplications": "资助申请",
+      "statGrantApplicationsDesc": "{awarded} 已获，{pending} 审核中",
+      "statPublications": "出版物",
+      "statPublicationsDesc": "{review} 审核中",
+      "statHIndex": "h 指数",
+      "statHIndexDesc": "今年 {trend}",
+      "sectionActiveGrants": "活动资助",
+      "sectionActiveGrantsDesc": "您已资助和待审的资助申请",
+      "sectionUpcomingDeadlines": "即将到来的截止日期",
+      "sectionUpcomingDeadlinesDesc": "资助、投稿和报告",
+      "sectionRecentPublications": "最近出版物",
+      "sectionRecentPublicationsDesc": "您最近的研究成果",
+      "actionFindGrants": "寻找资助",
+      "actionSubmitManuscript": "提交手稿",
+      "actionFindGrantWriters": "寻找资助撰写者",
+      "actionBrowseJournals": "浏览期刊"
+    },
+    "grantWriter": {
+      "statActiveProjects": "活动项目",
+      "statActiveProjectsDesc": "{proposals} 项提案，{revisions} 项修订，{reviews} 项审查",
+      "statEarningsMtd": "本月收入",
+      "statEarningsMtdDesc": "对比上月 {trend}",
+      "statSuccessRate": "成功率",
+      "statSuccessRateDesc": "{total} 项资助中已获 {won} 项",
+      "statClientRating": "客户评分",
+      "statClientRatingDesc": "{count} 条评价",
+      "sectionActiveProjects": "活动项目",
+      "sectionActiveProjectsDesc": "正在进行的提案和审查",
+      "sectionPendingRequests": "待处理请求",
+      "sectionPendingRequestsDesc": "新的合作请求",
+      "sectionRecentWins": "最近成就",
+      "sectionRecentWinsDesc": "您协助获得的资助",
+      "actionViewRequests": "查看请求",
+      "actionEarnings": "收入",
+      "actionMessages": "消息",
+      "actionMyProfile": "我的档案"
+    },
+    "admin": {
+      "statTotalUsers": "用户总数",
+      "statActiveBookings": "活跃预订",
+      "statRevenueMtd": "本月收入",
+      "statActivePlacements": "进行中实习",
+      "sectionUserRegistration": "按角色注册用户",
+      "sectionUserRegistrationDesc": "所有注册用户的分布",
+      "actionViewUsers": "查看用户",
+      "actionAnalytics": "分析",
+      "actionDisputes": "争议",
+      "actionRevenue": "收入",
+      "actionFlagged": "已标记",
+      "actionAuditLogs": "审计日志"
+    }
+  },
+  "landing": {
+    "hero": {
+      "badge": "受到 20 多个国家 500 多名专业人士的信赖",
+      "headlinePart1": "将人们与",
+      "headlineHighlight": "医疗、学习和研究",
+      "headlinePart2": "连接起来 — 遍及世界各地。",
+      "subheadline": "SandiLink 是全球性市场平台，将医疗服务用户、服务提供者、学生、临床导师、研究人员和资助撰写人汇聚在一个无缝、以人为中心的平台上。",
+      "primaryCta": "开始使用",
+      "secondaryCta": "浏览服务"
+    },
+    "explainer": {
+      "eyebrow": "60 秒概览",
+      "heading": "了解 SandiLink 如何运作。",
+      "subheading": "如果连接医疗、导师或资助撰写人可以像一键点击一样简单呢？",
+      "placeholderTitle": "60 秒讲解视频",
+      "placeholderSubtitle": "即将推出 — 托管于 YouTube，点击播放。"
+    },
+    "about": {
+      "eyebrow": "关于 SandiLink",
+      "heading": "一个平台。无限的支持与专业途径。",
+      "lede": "一个为全球通达、连接与机遇而打造的市场。",
+      "body": "SandiLink 是 One Sandi 平台的旗舰市场 — 旨在消除障碍，让人们更轻松地找到所需的支持、专业知识和路径。无论是寻求医疗服务、临床实习还是研究合作，SandiLink 都将一切汇聚在一个直观、包容且全球可及的系统中。",
+      "tilesHealthcare": "医疗",
+      "tilesHealthcareDesc": "服务提供者、健康、护理人员",
+      "tilesEducation": "教育",
+      "tilesEducationDesc": "学生、导师、学校",
+      "tilesResearch": "研究",
+      "tilesResearchDesc": "资助、期刊、合作",
+      "tilesGlobal": "全球",
+      "tilesGlobalDesc": "20 多个国家，同一个使命"
+    },
+    "marketplaces": {
+      "heading": "一个平台。三个互联互通的市场。",
+      "subheading": "无限可能。",
+      "healthcare": {
+        "tag": "医疗服务",
+        "title": "医疗服务市场",
+        "lede": "全球医疗支持接入点。",
+        "body": "个人、家庭和社区可以与独立的医疗专业人员和非专业人员建立联系 — 包括医生、护士、联合医疗提供者、护理人员、健康从业者、社区卫生工作者和支持性护理伙伴。",
+        "callout": "SandiLink 扩大可及性，减少障碍，帮助人们在正确的时间找到正确的护理。",
+        "cta": "寻找服务提供者",
+        "roleDoctors": "医生与专家",
+        "roleNurses": "护士与联合医疗",
+        "roleWellness": "健康与护理人员",
+        "roleCommunity": "社区卫生工作者"
+      },
+      "education": {
+        "tag": "Preceptor Connect™",
+        "title": "教育市场",
+        "lede": "专注于临床实习和指导的专属通道。",
+        "bullet1": "学生可以找到临床导师和带教老师",
+        "bullet2": "导师可以列出自己的空闲时间和专业领域",
+        "bullet3": "学校和学术项目获得结构、清晰度和透明度",
+        "callout": "SandiLink 简化临床实习流程，支持职业发展。",
+        "cta": "寻找临床导师",
+        "studentsLabel": "学生",
+        "preceptorsLabel": "导师"
+      },
+      "research": {
+        "tag": "研究与资助",
+        "title": "研究与资助市场",
+        "lede": "全球研究合作与资助支持中心。",
+        "bullet1": "研究人员可以连接资助撰写人、探索资助机会并访问期刊",
+        "bullet2": "资助撰写人可以展示专业知识并拓展业务",
+        "bullet3": "期刊和学术团队获得统一的协作空间",
+        "callout": "SandiLink 将全球研究社区与他们需要的工具和人员连接起来。",
+        "cta": "寻找资助撰写人",
+        "stat1Label": "资助发现",
+        "stat1Value": "1,200+ 项资助",
+        "stat2Label": "专家匹配",
+        "stat2Value": "67 位专家",
+        "stat3Label": "期刊访问",
+        "stat3Value": "45+ 种期刊"
+      }
+    },
+    "whySandilink": {
+      "heading": "为什么选择 SandiLink？",
+      "subheading": "真实场景。真实人物。真实影响力 — 跨越三个市场。",
+      "groups": {
+        "healthcare": "医疗",
+        "education": "教育 / Preceptor Connect™",
+        "research": "研究与资助"
+      },
+      "scenarios": {
+        "hc1Headline": "休斯顿的一位儿子与塞拉利昂的一位医生建立联系，为母亲提供护理 — 国界不再是障碍。",
+        "hc1Body": "SandiLink 让家庭能够跨越大洲协调亲人的护理。",
+        "hc2Headline": "亚特兰大的一位年轻女性找到了拉各斯一位值得信赖的执业护士，获得虚拟生殖健康指导。",
+        "hc2Body": "获得文化契合的医疗服务变得简单、安全且直接。",
+        "hc3Headline": "新泽西州的一位护理人员与加纳的一位社区卫生工作者建立联系，帮助支持年迈父亲的日常需求。",
+        "hc3Body": "SandiLink 将护理网络扩展到地理、语言和本地资源之外。",
+        "ed1Headline": "菲律宾的一位护理专业学生与休斯顿一位通过委员会认证的临床导师建立联系 — 无需中间人，没有等待名单。",
+        "ed1Body": "SandiLink 消除了临床学习和指导的障碍。",
+        "ed2Headline": "印度的一位公共卫生学生在美国导师的指导下获得了远程实习机会，导师理解她的目标。",
+        "ed2Body": "地理不再限制职业发展。",
+        "ed3Headline": "密西西比州的一位导师列出空闲时间，立即与现在需要实习安排的学生建立联系。",
+        "ed3Body": "SandiLink 支持学习旅程的双方。",
+        "rg1Headline": "内罗毕的一位研究人员与伦敦的一位资助撰写人建立联系，准备一份有竞争力的全球资助申请。",
+        "rg1Body": "SandiLink 通过连接跨境专业知识加速研究。",
+        "rg2Headline": "芝加哥的一位博士生找到了南非的一位期刊编辑，指导她提交稿件。",
+        "rg2Body": "支持变得可及、个性化且及时。",
+        "rg3Headline": "巴西的一个研究团队与美国的资助撰写人合作，为一个社区卫生项目争取资金。",
+        "rg3Body": "SandiLink 通过有意义的合作伙伴关系加强全球发现。"
+      }
+    },
+    "approach": {
+      "heading": "围绕人而非机构设计的科技。",
+      "pillar1Title": "以人为本的设计",
+      "pillar1Body": "围绕寻求医疗、教育和合作的人们所面临的真实经历、真实需求和真实挑战而构建。",
+      "pillar2Title": "全球可及性",
+      "pillar2Body": "旨在跨越国界、文化和社区进行扩展 — 让每个人都能随时随地获得专家支持。",
+      "pillar3Title": "信任与透明",
+      "pillar3Body": "道德设计、清晰沟通和用户至上原则。每位专业人士上线前都经过验证。",
+      "pillar4Title": "有目的的自动化",
+      "pillar4Body": "智能匹配、精简的工作流程和智能工具，减少摩擦，让人们能够专注于重要的事情。"
+    },
+    "mission": {
+      "eyebrow": "我们的使命",
+      "heading": "因为获取应该简单 — 而不是令人压力重重。",
+      "lede": "SandiLink 的创立是为了解决一个全球性问题：各地的人们都在努力获取医疗服务、确保临床实习或找到研究支持。",
+      "missionTitle": "我们的使命",
+      "missionBody": "构建可扩展的、以人为本的系统，使人们无论地理位置、背景或资源如何都能获得自主权。",
+      "visionTitle": "我们的愿景",
+      "visionBody": "一个医疗保健可及、教育受支持、研究具有协作性和全球连接性的世界。",
+      "tileHealthcare": "医疗",
+      "tileHealthcareValue": "可及",
+      "tileEducation": "教育",
+      "tileEducationValue": "受支持",
+      "tileResearch": "研究",
+      "tileResearchValue": "互联",
+      "tileCommunity": "社区",
+      "tileCommunityValue": "全球"
+    },
+    "community": {
+      "heading": "一个由用户、服务提供者和合作伙伴组成的全球社区。",
+      "body": "SandiLink 支持全球各地的个人、家庭、医疗服务提供者、学生、临床导师、研究人员、资助撰写人、期刊和机构。",
+      "accent": "我们正在构建一个互联的生态系统，加强护理、学习和发现。",
+      "cta": "加入社区",
+      "roleServiceUsers": "服务用户",
+      "roleProviders": "服务提供者",
+      "roleStudents": "学生",
+      "rolePreceptors": "导师",
+      "roleResearchers": "研究人员",
+      "roleGrantWriters": "资助撰写人",
+      "roleInstitutions": "机构"
+    },
+    "founding": {
+      "statProviders": "服务提供者",
+      "statCountries": "国家",
+      "statMarketplaces": "市场",
+      "statMission": "使命",
+      "testimonialsHeading": "会员怎么说",
+      "testimonialsBody": "来自 SandiLink 最早社区的真实声音。",
+      "founderBadge": "来自创始人的寄语",
+      "founderQuote": "我们创立 SandiLink，是因为才华不应该被获取途径所限制。从医疗到临床指导，再到研究和资助，我们通过三个专门构建的市场将人们连接起来。我们才刚刚开始 — 现在加入的每个人都将帮助塑造未来。",
+      "founderRole": "创始人兼首席执行官",
+      "founderCompany": "SandiLink",
+      "limitedTime": "限时",
+      "heading": "成为创始会员",
+      "subheading": "立即加入，享受我们最早社区会员的专属福利。",
+      "benefit1Title": "抢先体验",
+      "benefit1Body": "率先进入所有三个市场：医疗服务、Preceptor Connect™ 和研究与资助。",
+      "benefit2Title": "优先展示",
+      "benefit2Body": "创始会员在目录中获得优先位置，让您对学习者、合作者和机会更加可见。",
+      "benefit3Title": "直接参与功能设计",
+      "benefit3Body": "塑造平台。创始会员与产品团队直接沟通，您的反馈将影响我们下一步的构建。",
+      "benefit4Title": "终身创始会员徽章",
+      "benefit4Body": "个人资料上的永久徽章，标志着您从一开始就参与其中 — 每个查看您资料的用户都能看到。",
+      "cta": "成为创始会员"
+    },
+    "finalCta": {
+      "heading": "加入重新定义全球连接的平台。",
+      "body": "创建您的账户，今天就开始与医疗服务提供者、导师、研究人员和资助撰写人建立联系。",
+      "primary": "创建您的账户",
+      "secondary": "登录"
+    }
+  },
+  "profilePages": {
+    "provider": {
+      "title": "服务提供者资料",
+      "intro": "管理您的专业资料、资历和费率。"
+    },
+    "student": {
+      "title": "学生资料",
+      "intro": "管理您的个人和学术信息。"
+    },
+    "institution": {
+      "title": "机构资料",
+      "intro": "管理您所在机构的信息。"
+    },
+    "preceptor": {
+      "title": "导师资料",
+      "intro": "管理您的资料、专业、容量和可用时间。"
+    },
+    "researcher": {
+      "title": "研究人员资料",
+      "intro": "管理您的个人、机构和研究信息。"
+    },
+    "grantWriter": {
+      "title": "资助撰写人资料",
+      "intro": "管理您的专业资料、专长和费率。"
+    }
+  }
+}

@@ -1,0 +1,966 @@
+{
+  "common": {
+    "signIn": "تسجيل الدخول",
+    "getStarted": "ابدأ الآن",
+    "createAccount": "إنشاء حسابك",
+    "openMenu": "فتح القائمة",
+    "comingSoon": "قريباً"
+  },
+  "nav": {
+    "marketplaces": "الأسواق",
+    "howItWorks": "كيف يعمل",
+    "pricing": "الأسعار",
+    "resources": "المصادر",
+    "marketplacesEyebrow": "ثلاثة أسواق متصلة",
+    "resourcesEyebrow": "المساعدة والوثائق",
+    "marketplacesCta": "اطّلع على طريقة عمل SandiLink",
+    "resourcesCta": "تواصل مع فريقنا",
+    "items": {
+      "healthcare": {
+        "title": "الخدمات الصحية",
+        "description": "يتواصل المستخدمون مع الأطباء والممرضين والمهنيين الصحيين ومقدمي الرعاية وممارسي العافية."
+      },
+      "preceptor": {
+        "title": "Preceptor Connect™",
+        "description": "يطلب الطلاب والمؤسسات تدريبات سريرية مع مشرفين سريريين موثقين."
+      },
+      "research": {
+        "title": "البحوث والمنح",
+        "description": "يجد الباحثون كتّاب المنح ويستعرضون المنح والمجلات ويديرون التعاون."
+      },
+      "faq": {
+        "title": "الأسئلة الشائعة",
+        "description": "إجابات على الأسئلة الأكثر شيوعاً حول SandiLink."
+      },
+      "trust": {
+        "title": "الثقة والأمان",
+        "description": "كيف نوثق المستخدمين ونحمي البيانات ونحل النزاعات."
+      },
+      "support": {
+        "title": "الدعم",
+        "description": "تواصل مع فريقنا أو أرسل طلب دعم."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "السوق العالمي للخدمات الذي يربط بين الرعاية والتعلم والبحث.",
+    "marketplacesHeading": "الأسواق",
+    "platformHeading": "المنصة",
+    "getStartedHeading": "ابدأ",
+    "legalHeading": "قانوني",
+    "links": {
+      "healthcare": "الخدمات الصحية",
+      "preceptor": "Preceptor Connect™",
+      "research": "البحوث والمنح",
+      "howItWorks": "كيف يعمل",
+      "pricing": "الأسعار",
+      "trust": "الثقة والأمان",
+      "faq": "الأسئلة الشائعة",
+      "support": "الدعم",
+      "signIn": "تسجيل الدخول",
+      "createAccount": "إنشاء حساب",
+      "forgotPassword": "نسيت كلمة المرور",
+      "terms": "شروط الخدمة",
+      "privacy": "سياسة الخصوصية",
+      "cookies": "سياسة ملفات تعريف الارتباط",
+      "termsShort": "الشروط",
+      "privacyShort": "الخصوصية",
+      "cookiesShort": "الكوكيز",
+      "grantWriters": "Grant Writers",
+      "journals": "Journals",
+      "providerAgreement": "اتفاقية مقدم الخدمة"
+    },
+    "disclaimer": "<strong>تنبيه:</strong> لا تقدّم SandiLink رعاية طبية أو خدمات سريرية. نحن لا نتحقق من المؤهلات؛ على المستخدمين القيام بالعناية الواجبة بأنفسهم. اتصل بالرقم 911 أو رقم الطوارئ المحلي في حالات الطوارئ الطبية.",
+    "rights": "© {year} One Sandi. جميع الحقوق محفوظة."
+  },
+  "languageSwitcher": {
+    "label": "اللغة",
+    "current": "اللغة الحالية: {language}",
+    "tier1": "متاحة الآن",
+    "tier2": "قريباً",
+    "untranslated": "ترجمة قيد الإعداد"
+  },
+  "auth": {
+    "shared": {
+      "or": "أو",
+      "orSignInManually": "أو سجّل الدخول يدويًا",
+      "showPassword": "إظهار كلمة المرور",
+      "hidePassword": "إخفاء كلمة المرور",
+      "continueWithGoogle": "المتابعة مع Google",
+      "rememberPassword": "هل تتذكر كلمة المرور الخاصة بك؟",
+      "signIn": "تسجيل الدخول",
+      "signUp": "إنشاء حساب",
+      "backToSignIn": "العودة إلى تسجيل الدخول",
+      "sidePanelTagline": "نربط بين ممارسي الرعاية الصحية والطلاب والمؤسسات في منصة واحدة."
+    },
+    "login": {
+      "pageTitle": "مرحبًا بعودتك",
+      "pageDescription": "سجّل الدخول للوصول إلى حسابك في SandiLink",
+      "quickDemoLogin": "تسجيل دخول تجريبي سريع",
+      "emailLabel": "البريد الإلكتروني",
+      "emailPlaceholder": "you@example.com",
+      "passwordLabel": "كلمة المرور",
+      "passwordPlaceholder": "أدخل كلمة المرور الخاصة بك",
+      "forgotPassword": "هل نسيت كلمة المرور؟",
+      "rememberMe": "تذكرني",
+      "signingIn": "جاري تسجيل الدخول...",
+      "signIn": "تسجيل الدخول",
+      "noAccount": "ليس لديك حساب؟"
+    },
+    "register": {
+      "pageTitle": "أنشئ حسابك",
+      "pageDescription": "انضم إلى SandiLink للبدء",
+      "selectRolePrompt": "اختر الدور الذي يصفك بشكل أفضل",
+      "continue": "متابعة",
+      "firstNameLabel": "الاسم الأول",
+      "lastNameLabel": "اسم العائلة",
+      "emailLabel": "البريد الإلكتروني",
+      "passwordLabel": "كلمة المرور",
+      "passwordPlaceholder": "أنشئ كلمة مرور",
+      "passwordHint": "يجب ألا يقل عن 8 أحرف",
+      "termsAgreementBefore": "أوافق على ",
+      "termsAgreementAnd": " و",
+      "termsLink": "شروط الخدمة",
+      "privacyLink": "سياسة الخصوصية",
+      "back": "رجوع",
+      "creatingAccount": "جاري إنشاء الحساب...",
+      "createAccount": "إنشاء حساب",
+      "haveAccount": "هل لديك حساب بالفعل؟",
+      "roles": {
+        "serviceUserLabel": "مستخدم الخدمة",
+        "serviceUserDescription": "ابحث عن مقدمي الرعاية الصحية واحجز معهم",
+        "careProviderLabel": "مقدم رعاية",
+        "careProviderDescription": "قدّم خدمات الرعاية الصحية الخاصة بك",
+        "studentLabel": "طالب في مجال الرعاية الصحية",
+        "studentDescription": "اعثر على فرص تدريب سريرية ومرشدين",
+        "institutionLabel": "مؤسسة تعليمية",
+        "institutionDescription": "أدِر تدريبات الطلاب على نطاق واسع",
+        "preceptorLabel": "مرشد سريري",
+        "preceptorDescription": "قدّم التوجيه للطلاب في البيئات السريرية",
+        "researcherLabel": "باحث",
+        "researcherDescription": "اكتشف المنح وانشر الأبحاث واعثر على متعاونين",
+        "grantWriterLabel": "كاتب منح",
+        "grantWriterDescription": "ساعد الباحثين على كتابة مقترحات منح ناجحة"
+      }
+    },
+    "forgotPassword": {
+      "pageTitle": "هل نسيت كلمة المرور؟",
+      "pageDescription": "لا تقلق، سنساعدك في إعادة تعيينها",
+      "instructions": "أدخل البريد الإلكتروني المرتبط بحسابك وسنرسل لك رابط إعادة تعيين كلمة المرور.",
+      "sendingLink": "جاري إرسال الرابط...",
+      "sendResetLink": "إرسال رابط إعادة التعيين",
+      "successPrefix": "إذا كان هناك حساب لـ",
+      "successInstructions": "ستتلقى رابط إعادة تعيين كلمة المرور قريبًا. تحقق من البريد الوارد ومجلد البريد العشوائي."
+    },
+    "resetPassword": {
+      "pageTitle": "تعيين كلمة مرور جديدة",
+      "pageDescription": "أنشئ كلمة مرور قوية لحسابك",
+      "newPasswordLabel": "كلمة المرور الجديدة",
+      "newPasswordPlaceholder": "أدخل كلمة المرور الجديدة",
+      "confirmPasswordLabel": "تأكيد كلمة المرور",
+      "confirmPasswordPlaceholder": "أكّد كلمة المرور الجديدة",
+      "resettingPassword": "جاري إعادة تعيين كلمة المرور...",
+      "resetPassword": "إعادة تعيين كلمة المرور",
+      "successHeading": "تم إعادة تعيين كلمة المرور بنجاح",
+      "successDescription": "تم تحديث كلمة المرور. يمكنك الآن تسجيل الدخول بكلمة المرور الجديدة."
+    },
+    "mfaSetup": {
+      "pageTitle": "أمّن حسابك",
+      "pageDescription": "إعداد المصادقة الثنائية",
+      "introCopy": "أضف طبقة أمان إضافية إلى حسابك بتفعيل المصادقة الثنائية باستخدام تطبيق مصادقة.",
+      "youllNeed": "ستحتاج إلى",
+      "youllNeedAuthApp": "تطبيق مصادقة (Google Authenticator، Authy، إلخ)",
+      "getStarted": "ابدأ الآن",
+      "doLater": "سأفعل ذلك لاحقًا",
+      "scanInstructions": "امسح رمز الاستجابة السريعة باستخدام تطبيق المصادقة، أو أدخل المفتاح يدويًا.",
+      "qrPlaceholder": "سيظهر رمز QR هنا",
+      "cantScan": "غير قادر على المسح؟ أدخل هذا المفتاح يدويًا:",
+      "iScanned": "لقد قمت بمسح الرمز",
+      "verifyInstructions": "أدخل الرمز المكوّن من 6 أرقام من تطبيق المصادقة لتأكيد الإعداد.",
+      "verifying": "جاري التحقق...",
+      "verifyAndActivate": "تحقق وتفعيل",
+      "backToQr": "العودة إلى رمز QR",
+      "doneHeading": "تم تفعيل المصادقة الثنائية",
+      "doneDescription": "سيُطلب منك رمز تحقق في كل مرة تسجّل فيها الدخول. احتفظ بتطبيق المصادقة في متناول يدك.",
+      "continue": "متابعة"
+    },
+    "verifyEmail": {
+      "pageTitle": "تحقق من بريدك الإلكتروني",
+      "pageDescription": "أدخل رمز التحقق للمتابعة",
+      "sentCodeTo": "أرسلنا رمزًا مكوّنًا من 6 أرقام إلى",
+      "verifying": "جاري التحقق...",
+      "verifyEmail": "تحقق من البريد الإلكتروني",
+      "didntReceive": "لم تتلقَّ الرمز؟",
+      "resendIn": "إعادة الإرسال خلال {seconds} ث",
+      "sending": "جاري الإرسال...",
+      "resendCode": "إعادة إرسال الرمز"
+    }
+  },
+  "dashboards": {
+    "serviceUser": {
+      "welcomeBack": "مرحبًا بعودتك!",
+      "welcomeSubhead": "إليك ملخصًا لنشاطك ومواعيدك القادمة."
+    },
+    "provider": {
+      "greetingMorning": "صباح الخير، د. جونسون",
+      "welcomeSubhead": "لديك {engagements} مواعيد اليوم و{requests} طلبات معلقة."
+    },
+    "student": {
+      "welcomeBack": "مرحبًا بعودتك يا Jane",
+      "welcomeSubhead": "تابع تدريباتك السريرية وساعاتك ومؤهلاتك."
+    },
+    "preceptor": {
+      "welcomeBack": "مرحبًا بعودتك يا د. Williams",
+      "welcomeSubhead": "أدِر طلابك وطلبات التدريب وأنشطة التوجيه."
+    },
+    "institution": {
+      "pageTitle": "لوحة المؤسسة",
+      "welcomeSubhead": "أدِر طلابك وتدريباتك وعلاقاتك مع المرشدين."
+    },
+    "researcher": {
+      "welcomeBack": "مرحبًا بعودتك يا د. Rashid",
+      "welcomeSubhead": "تابع مشاريع أبحاثك ومنحك ومنشوراتك."
+    },
+    "grantWriter": {
+      "welcomeBack": "مرحبًا بعودتك يا Lisa",
+      "welcomeSubhead": "أدِر مشاريعك وتابع أرباحك ووسّع نشاط كتابة المنح الخاص بك."
+    },
+    "admin": {
+      "pageTitle": "نظرة عامة على المنصة",
+      "welcomeSubhead": "راقب صحة المنصة ونشاط المستخدمين ومقاييس الإيرادات."
+    }
+  },
+  "publicHero": {
+    "eyebrow": "الدليل العام",
+    "signUpFree": "اشترك مجانًا",
+    "signIn": "تسجيل الدخول"
+  },
+  "publicDirectories": {
+    "experts": {
+      "title": "ابحث عن خبير صحي",
+      "description": "استعرض مقدمي خدمات موثقين عبر الرعاية السريرية والعلاج والأبحاث والإرشاد والمزيد. اشترك مجانًا للمراسلة والحجز وحفظ الملفات."
+    },
+    "preceptors": {
+      "title": "ابحث عن مرشد سريري",
+      "description": "تواصل مع مرشدين سريريين موثقين في برامج التمريض و PA و DNP والمهن الصحية المساعدة. اشترك مجانًا لطلب تدريب."
+    },
+    "grants": {
+      "title": "تصفح المنح المفتوحة",
+      "description": "تابع فرص التمويل عبر NIH و NSF ومنظمة الصحة العالمية والمؤسسات والجهات الحكومية. اشترك لحفظ المنح وتلقي تذكيرات بالمواعيد والتواصل مع كتاب."
+    },
+    "grantWriters": {
+      "title": "ابحث عن كاتب منح",
+      "description": "كتاب موثقون بسجلات مع NIH و NSF والمؤسسات والممولين الصحيين العالميين. اشترك مجانًا لمقارنة الملفات وبدء مشروع."
+    },
+    "journals": {
+      "title": "تصفح المجلات",
+      "description": "مجلات محكّمة في الصحة الرقمية والبحوث الطبية الحيوية والصحة العامة والمعلوماتية. اشترك مجانًا لتتبع التقديمات وتقصير قائمة الأهداف."
+    }
+  },
+  "faq": {
+    "eyebrow": "الأسئلة الشائعة",
+    "heading": "إجابات سريعة.",
+    "intro": "تصفح الأسئلة الأكثر شيوعًا حول الحسابات والفواتير والتدريبات والخصوصية واستكشاف الأخطاء وإصلاحها. صنّف حسب الفئة أو ابحث بالكلمات المفتاحية.",
+    "didntFindHeading": "لم تجد إجابتك؟",
+    "didntFindBody": "فريق الدعم لدينا مستعد للمساعدة — معظم الردود تصل خلال يوم عمل واحد.",
+    "contactSupport": "تواصل مع الدعم",
+    "howItWorks": "كيف يعمل"
+  },
+  "support": {
+    "eyebrow": "الدعم",
+    "heading": "نحن هنا للمساعدة.",
+    "intro": "تصفح موارد الخدمة الذاتية أو تواصل مع فريقنا مباشرة أو أرسل طلب دعم — أيهما أسرع لما تحتاج.",
+    "reachUsHeading": "تواصل معنا مباشرة",
+    "reachUsIntro": "هل تفضل البريد الإلكتروني أم الهاتف أم الدردشة؟ اختر القناة المناسبة."
+  },
+  "subscribe": {
+    "success": {
+      "heading": "تم الدفع بنجاح — أهلًا بك في SandiLink Pro!",
+      "body": "اشتراكك نشط وملفك الشخصي جاهز للنشر. أرسلنا إليك الفاتورة وقائمة بدء سريعة عبر البريد الإلكتروني.",
+      "dashboardCardTitle": "الخطوة 5 — ادخل إلى لوحتك",
+      "dashboardCardDescription": "أكمل ملفك الشخصي وحدد الأوقات المتاحة واقبل حجوزاتك الأولى.",
+      "goToDashboard": "اذهب إلى لوحة مقدم الخدمة",
+      "receiptCardTitle": "الإيصال والفواتير",
+      "receiptCardDescription": "أدِر خطتك وطريقة الدفع والسجل في أي وقت.",
+      "openBilling": "فتح الفواتير",
+      "needAnything": "هل تحتاج شيئًا؟ تواصل مع فريقنا عبر"
+    },
+    "failed": {
+      "heading": "فشل الدفع — يرجى تحديث بطاقتك أو المحاولة مرة أخرى.",
+      "body": "لم يتم تفعيل اشتراكك ولم يتم خصم أي مبلغ. إليك الأسباب الشائعة لذلك.",
+      "commonReasonsTitle": "أسباب شائعة",
+      "commonReasonsBody": "أي مما يلي يمكن أن يوقف الدفع. حاول مرة أخرى ببطاقة أو وسيلة دفع مختلفة.",
+      "reasonCardDeclined": "تم رفض البطاقة أو انتهت صلاحيتها.",
+      "reasonInsufficientFunds": "لا توجد أموال كافية على وسيلة الدفع.",
+      "reasonBankFlagged": "اعتبر البنك المعاملة مشبوهة.",
+      "reasonAddressMismatch": "عنوان الفوترة لا يطابق ما لدى بنكك.",
+      "reasonNetworkTimeout": "انقطعت المعاملة بسبب مهلة في الشبكة أو البوابة.",
+      "tryAgainTitle": "حاول مرة أخرى",
+      "tryAgainDescription": "استخدم نفس الخطة بوسيلة دفع مختلفة.",
+      "backToPricing": "العودة إلى الأسعار",
+      "needHelpTitle": "هل تحتاج إلى مساعدة؟",
+      "needHelpDescription": "يمكن لفريقنا المساعدة في تشخيص الدفع وإلغاء حظره.",
+      "contactSupport": "تواصل مع الدعم"
+    }
+  },
+  "pricing": {
+    "eyebrow": "تسعير مقدمي الخدمة",
+    "heading": "تسعير بسيط وثابت — لا عمولات أبدًا.",
+    "intro": "اشترك مرة واحدة، أدرج خدماتك، واحتفظ بـ 100% من كل حجز. اختر شهريًا للمرونة أو سنويًا لتوفير 17%.",
+    "tabMonthly": "شهريًا",
+    "tabAnnual": "سنويًا",
+    "save17": "وفّر 17%",
+    "contextRegisterTitle": "خطوة واحدة متبقية — اختر خطة",
+    "contextRegisterBody": "يحتاج مقدمو الرعاية إلى اشتراك نشط قبل الوصول إلى لوحة التحكم. اختر خطة أدناه لإكمال التسجيل.",
+    "contextGateTitle": "الاشتراك مطلوب",
+    "contextGateBody": "تحتاج لوحة مقدم الخدمة إلى اشتراك نشط. اختر خطة لاستعادة الوصول.",
+    "usdNote": "الأسعار مدرجة بالدولار الأمريكي. ستُحاسب بعملتك المحلية، تُحوَّل إلى الدولار عند الدفع.",
+    "why": {
+      "heading": "لماذا تسعيرنا مختلف",
+      "subheading": "تأخذ معظم الأسواق 15–30% من كل حجز. نحن لا نفعل ذلك.",
+      "earningsTitle": "احتفظ بـ 100% من أرباحك",
+      "earningsBody": "لا تأخذ SandiLink عمولة على الحجوزات. تدفع اشتراكًا ثابتًا، يدفع لك عملاؤك، ويذهب لك المبلغ الكامل للحجز.",
+      "currencyTitle": "ادفع بعملتك المحلية",
+      "currencyBody": "تتولى Stripe وPayPal والبوابات الإقليمية التحويل. تسوّى المنصة بالدولار؛ ترى أنت وعملاؤك الأسعار بالعملة المحلية.",
+      "cancelTitle": "ألغِ في أي وقت",
+      "cancelBody": "لا عقود طويلة الأمد. ألغِ من لوحة الفوترة واحتفظ بالوصول حتى نهاية فترتك الحالية."
+    },
+    "payments": {
+      "heading": "ادفع بطريقتك",
+      "subheading": "بوابات المرحلة الأولى تعمل الآن. تأتي بوابات المرحلة الثانية الإقليمية مع توسعنا.",
+      "phase1Label": "المرحلة الأولى — متاحة الآن",
+      "phase2Label": "المرحلة الثانية — التوسع العالمي"
+    },
+    "faq": {
+      "heading": "الأسئلة الشائعة عن التسعير",
+      "q1": "هل تأخذون عمولة على حجوزاتي؟",
+      "a1": "لا. SandiLink هو اشتراك فقط للمقدمين — تدفع رسومًا شهرية أو سنوية ثابتة وتحتفظ بنسبة 100% مما يدفعه عملاؤك.",
+      "q2": "هل يمكنني تغيير الخطة لاحقًا؟",
+      "a2": "نعم. ارفع أو اخفض الخطة من لوحة فوترتك في أي وقت. تسري الترقيات فورًا؛ تنطبق التخفيضات في التجديد التالي.",
+      "q3": "ماذا يحدث إذا فشلت دفعتي؟",
+      "a3": "سنرسل إليك بريدًا إلكترونيًا ونعيد المحاولة على مدى أيام. إن لم يمكن تحصيلها، تُوقَف قائمتك العامة (لا تُحذف) حتى تحدّث طريقة الدفع.",
+      "q4": "ما طرق الدفع المدعومة؟",
+      "a4": "بطاقات الائتمان والخصم وApple Pay وGoogle Pay وPayPal عند الإطلاق. تنضم بوابات إقليمية تشمل Flutterwave وPaystack وM-Pesa وRazorpay وMercadoPago مع توسّعنا عالميًا."
+    },
+    "finalCta": {
+      "heading": "هل أنت مستعد لبدء الكسب؟",
+      "body": "أنشئ حساب مقدم الخدمة، أكمل ملفك الشخصي، واختر الخطة المناسبة.",
+      "primary": "إنشاء حساب مقدم الخدمة",
+      "secondary": "كيف يعمل"
+    }
+  },
+  "trustSafety": {
+    "eyebrow": "الثقة والأمان",
+    "heading": "مصمم للناس. محمي بسياسات.",
+    "intro": "SandiLink سوق عالمي، مما يعني أن أشخاصًا حقيقيين يقيمون روابط حقيقية من خلاله. إليك كيف نحافظ على هذه التجربة آمنة وشفافة وذات مساءلة.",
+    "reportIssue": "الإبلاغ عن مشكلة",
+    "readPrivacy": "اقرأ سياسة الخصوصية",
+    "pillars": {
+      "heading": "ستة أركان لأمان المنصة",
+      "subheading": "كل تفاعل على SandiLink تحكمه هذه الضمانات.",
+      "verificationTitle": "تحقق عند كل تسجيل",
+      "verificationBody": "يقدم مقدمو الرعاية والمرشدون والطلاب والباحثون وكتّاب المنح المؤهلات أو الترخيص أو الالتحاق بالبرنامج قبل أن يصبح الملف عامًا. تُستبعد الملفات غير المكتملة من البحث.",
+      "moderationTitle": "إشراف فعّال",
+      "moderationBody": "تنتقل الملفات والمراجعات والرسائل التي يبلغ عنها المستخدمون أو أنظمتنا إلى قائمة انتظار الإشراف. يوافق المشرفون أو يحذفون أو يوقفون أو ينبهون — وتُسجَّل كل إجراء.",
+      "privacyTitle": "ضوابط الخصوصية والمعلومات الصحية",
+      "privacyBody": "تُشفَّر نماذج الاستلام والمعلومات الصحية أثناء النقل والتخزين. تظهر المعلومات الصحية فقط لمقدم الرعاية المعيّن — أبدًا لمشرفي المنصة أو لمستخدمين آخرين.",
+      "securityTitle": "أمان الحساب",
+      "securityBody": "تحقق ثنائي اختياري، تأكيد البريد، تدفقات إعادة تعيين كلمة المرور، وتسجيل تدقيق على كل إجراء حساس — تبقى حساباتك تحت سيطرتك.",
+      "paymentsTitle": "مدفوعات آمنة",
+      "paymentsBody": "تتم المدفوعات عبر Stripe وPayPal وبوابات إقليمية (Flutterwave، Paystack، M-Pesa، Razorpay، MercadoPago). لا نخزن أرقام البطاقات الكاملة أبدًا.",
+      "disputesTitle": "حل النزاعات",
+      "disputesBody": "إن حدث خطأ، افتح نزاعًا. يستعرض فريقنا الاتصالات، ويطبق سياسة المنصة، ويصدر قرارًا موثقًا."
+    },
+    "policies": {
+      "heading": "ما يجب أن تعرفه قبل الحجز",
+      "subheading": "تحمي SandiLink مستخدميها — لكن السوق يعمل أفضل عندما يصل الجميع مطلعين.",
+      "whoTitle": "من يمكنك إيجاده على SandiLink",
+      "whoBody": "يقدم محترفون مستقلون خدماتهم وهم مسؤولون عن تقديمها. SandiLink سوق — نسهّل التواصل والدفع، لكننا لا نوظّف المقدمين ولا نضمن النتائج السريرية.",
+      "dueDiligenceTitle": "العناية الواجبة منك مهمة",
+      "dueDiligenceBody": "تحقق دائمًا من مؤهلات المقدم لدى الجهة المرخصة المناسبة، اطلب مراجع، وراجع تقييمات الملف ومراجعاته قبل الحجز.",
+      "communicationTitle": "أبقِ التواصل على المنصة",
+      "communicationBody": "تحفظ مراسلات المنصة سجلًا للطرفين، وتدعم حل النزاعات، وتتيح لنا الإشراف عند حدوث خطأ. التواصل خارج المنصة على مسؤوليتك.",
+      "emergenciesTitle": "حالات الطوارئ ليست لـ SandiLink",
+      "emergenciesBody": "SandiLink ليس خدمة طوارئ. للحالات الطبية الطارئة اتصل بـ 911 (أو رقم الطوارئ المحلي). لأزمات الصحة النفسية في الولايات المتحدة، اتصل أو راسل 988."
+    },
+    "reporting": {
+      "heading": "كيف تبلّغ عن شيء",
+      "subheading": "إذا بدا شيء غير صحيح — ملف، مراجعة، رسالة، دفعة — أبلغ عنه. نأخذ كل بلاغ بجدية.",
+      "stepLabel": "خطوة",
+      "s1Title": "استخدم زر الإبلاغ",
+      "s1Body": "كل ملف ومراجعة ورسالة بها خيار إبلاغ. اختر السبب الأقرب وأضف التفاصيل — ماذا حدث ومتى ومن المعنيون.",
+      "s2Title": "نُصنّف خلال يوم عمل واحد",
+      "s2Body": "تذهب البلاغات إلى إشراف المشرفين والنزاعات. تُصعَّد الحالات الحساسة (السلامة، الاحتيال، خرق المعلومات الصحية) فورًا.",
+      "s3Title": "يتم اتخاذ الإجراء وتسجيله",
+      "s3Body": "تتراوح النتائج من تحذير إلى إزالة محتوى أو تعليق حساب أو حظر دائم. يُسجَّل كل إجراء في سجل التدقيق.",
+      "s4Title": "يصلك الرد",
+      "s4Body": "نُغلق الحلقة مع المُبلغ — القرار، ما يلي، وكيفية التصعيد إذا لم توافق."
+    },
+    "finalCta": {
+      "heading": "هل رأيت شيئًا؟ أخبرنا.",
+      "body": "يستجيب فريق الثقة والأمان للبلاغات خلال يوم عمل واحد. للأمور العاجلة، حدد رسالتك كعاجلة — سنفرزها فورًا.",
+      "primary": "تواصل مع الدعم",
+      "secondary": "تصفح الأسئلة الشائعة"
+    }
+  },
+  "howItWorks": {
+    "eyebrow": "كيف يعمل",
+    "heading": "ست خطوات من التسجيل إلى الحجز.",
+    "intro": "تربط SandiLink مستخدمي الخدمات ومقدميها والطلاب والمرشدين والباحثين وكتاب المنح عبر ثلاث أسواق عالمية. إليك التدفق الذي يدير كل حجز وتدريب ومشروع منحة.",
+    "ctaCreate": "أنشئ حسابك",
+    "ctaFaq": "اقرأ الأسئلة الشائعة",
+    "stepLabel": "خطوة",
+    "flow": {
+      "heading": "كيف يجري التواصل عبر SandiLink",
+      "subheading": "نفس الخطوات الست تدير كل حجز ووضع تدريبي ومشروع منحة — يتغير المشاركون فقط.",
+      "s1Title": "أنشئ حسابك",
+      "s1Body": "اختر دورك — مستخدم خدمة، مقدم رعاية، طالب، مرشد سريري، مؤسسة، باحث أو كاتب منح — وأخبرنا بما تحتاجه.",
+      "s2Title": "أكمل ملفك الشخصي",
+      "s2Body": "أضف المؤهلات والاختصاصات وأوقات التوفر ونبذة قصيرة. يشترك المحترفون لتفعيل قائمتهم العامة.",
+      "s3Title": "اعثر على المطابقة المناسبة",
+      "s3Body": "ابحث في الأدلة العامة أو دع محرك المطابقة لدينا يقترح أفضل المقدمين أو المرشدين أو كتّاب المنح المناسبين لك.",
+      "s4Title": "تواصل واتفق على الشروط",
+      "s4Body": "افتح محادثة، اطرح الأسئلة، شارك نماذج الاستلام أو المقترحات وأكد النطاق قبل الحجز.",
+      "s5Title": "احجز وادفع بأمان",
+      "s5Body": "ادفع بعملتك المحلية عبر Stripe أو PayPal أو بوابة إقليمية. تتم تسوية الأموال بالدولار الأمريكي على جانب المنصة.",
+      "s6Title": "شارك وتابع وقيّم",
+      "s6Body": "أدِر الموعد أو التدريب أو المشروع على المنصة — تتبع الساعات والمخرجات والتقييمات — واترك مراجعة عند الانتهاء."
+    },
+    "verticals": {
+      "heading": "كيف يعمل في كل سوق",
+      "subheading": "ثلاث قطاعات، تدفق واحد متسق. اختر الأقرب لاحتياجك.",
+      "healthcareTitle": "خدمات الرعاية الصحية",
+      "healthcareSummary": "يتواصل مستخدمو الخدمة مع أطباء وممرضين ومتخصصي صحة مساندة ومقدمي رعاية وممارسي عافية وعاملين في صحة المجتمع مستقلين.",
+      "healthcareFlow1": "ابحث عن المقدمين حسب الاختصاص أو الموقع أو التقييم أو طريقة التقديم",
+      "healthcareFlow2": "افتح ملفًا شخصيًا، أرسل رسالة، واحجز جلسة افتراضية أو حضورية",
+      "healthcareFlow3": "أكمل الاستلام، ادفع، احضر الموعد، واترك مراجعة",
+      "healthcareCta": "ابحث عن مقدم خدمة",
+      "educationTitle": "التعليم / Preceptor Connect™",
+      "educationSummary": "يطلب الطلاب والمؤسسات تدريبات سريرية مع مرشدين يدرجون توفرهم وقدرتهم والبرامج المقبولة.",
+      "educationFlow1": "يرفع الطلاب المؤهلات ويحددون تفضيلات الاختصاص والموقع",
+      "educationFlow2": "يرسلون طلب توضيع مع تاريخ البدء والساعات والنطاق",
+      "educationFlow3": "يقبل المرشد؛ يتم تتبع الساعات والمستندات والتقييمات حتى الانتهاء",
+      "educationCta": "ابحث عن مرشد",
+      "researchTitle": "البحث والمنح",
+      "researchSummary": "يجد الباحثون كتّاب المنح، ويتصفحون منحًا ودوريات منتقاة، ويديرون تعاونات بمخرجات ومراحل.",
+      "researchFlow1": "تصفّح المنح والدوريات أو كتّاب المنح المقترحين",
+      "researchFlow2": "أرسل طلب تعاون مع النطاق والموعد ومبلغ التمويل",
+      "researchFlow3": "تابع المخرجات والمخطوطات والتقديمات في مساحة عمل مشتركة",
+      "researchCta": "ابحث عن كاتب منح"
+    },
+    "why": {
+      "heading": "لماذا يختار الناس SandiLink",
+      "subheading": "أزلنا حراس البوابات دون أن نزيل الضمانات.",
+      "verificationTitle": "تحقق في كل خطوة",
+      "verificationBody": "تتضمن الملفات المؤهلات والترخيص والالتحاق بالبرامج. تحافظ المراجعات وإشراف المشرفين على نزاهة السوق.",
+      "subscriptionTitle": "اشتراك فقط للمقدمين",
+      "subscriptionBody": "يدفع مقدمو الرعاية اشتراكًا ثابتًا ويحتفظون بنسبة 100% من أرباحهم — بدون عمولة لكل حجز.",
+      "globalTitle": "مصمم لانتشار عالمي",
+      "globalBody": "أكثر من 20 دولة مدعومة من اليوم الأول، مع واجهة متعددة اللغات من الفئة الأولى (الإنجليزية والإسبانية والفرنسية) وخارطة طريق للبرتغالية والعربية والسواحيلية والماندرين والهندية.",
+      "pricingTitle": "تسعير شفاف ومدفوعات محلية",
+      "pricingBody": "ادفع بعملتك المحلية عبر Stripe وPayPal أو بوابات إقليمية مثل Flutterwave وPaystack وM-Pesa وRazorpay وMercadoPago."
+    },
+    "finalCta": {
+      "heading": "هل أنت مستعد للتواصل؟",
+      "body": "أنشئ حسابك واختر دورك وابدأ الحجز أو التوضيع أو التعاون في دقائق.",
+      "primary": "أنشئ حسابك",
+      "secondary": "اقرأ عن الثقة والأمان"
+    }
+  },
+  "subscribeCheckout": {
+    "backToPricing": "العودة إلى الأسعار",
+    "headingPrefix": "اشترك في",
+    "stepIndicator": "الخطوة 4 من 5 — الدفع. بعد إتمام الدفع، ستتم إعادة توجيهك إلى لوحة مقدم الخدمة.",
+    "processing": "جاري معالجة الدفع…",
+    "payNow": "ادفع الآن"
+  },
+  "serviceUserPages": {
+    "engagements": {
+      "title": "ارتباطاتي",
+      "intro": "اعرض وأدِر وتابع مواعيدك ومشاريعك."
+    },
+    "experts": {
+      "title": "ابحث عن الخبراء",
+      "intro": "اكتشف محترفين في الرعاية السريرية والبحث وكتابة المنح والإرشاد."
+    },
+    "messages": {
+      "title": "الرسائل",
+      "intro": "تواصل مع مقدمي الرعاية الصحية لديك."
+    },
+    "payments": {
+      "title": "سجل المدفوعات",
+      "intro": "اعرض معاملاتك وإيصالاتك وأدِر وسائل الدفع."
+    },
+    "preferences": {
+      "title": "التفضيلات",
+      "intro": "خصّص كيفية عمل SandiLink بما يناسبك."
+    },
+    "profile": {
+      "title": "الملف الشخصي",
+      "intro": "أدِر معلوماتك الشخصية وكيف يراك الآخرون على المنصة."
+    },
+    "settings": {
+      "title": "إعدادات الحساب",
+      "intro": "أدِر أمان حسابك والإشعارات والبيانات."
+    }
+  },
+  "serviceUserDetail": {
+    "bookingSuccess": {
+      "heading": "تم تأكيد الحجز!",
+      "body": "تم حجز موعدك بنجاح وتمت معالجة الدفع.",
+      "confirmationIdLabel": "رقم التأكيد:"
+    },
+    "reviewForm": {
+      "thankYouHeading": "شكرًا على تقييمك!"
+    },
+    "bookingDetails": {
+      "backToBookings": "العودة إلى الحجوزات"
+    }
+  },
+  "sidebar": {
+    "groups": {
+      "overview": "نظرة عامة",
+      "menu": "القائمة",
+      "content": "المحتوى",
+      "account": "الحساب",
+      "configuration": "الإعدادات",
+      "research": "الأبحاث",
+      "system": "النظام",
+      "internationalization": "التدويل",
+      "catalogs": "الكتالوجات",
+      "insights": "رؤى",
+      "work": "العمل",
+      "discover": "اكتشف"
+    },
+    "items": {
+      "dashboard": "لوحة التحكم",
+      "analytics": "التحليلات",
+      "users": "المستخدمون",
+      "flaggedContent": "المحتوى المُبلَّغ",
+      "disputes": "النزاعات",
+      "moderation": "الإشراف",
+      "reviews": "المراجعات",
+      "plans": "الخطط",
+      "commission": "العمولة",
+      "matching": "المطابقة",
+      "payments": "المدفوعات",
+      "templates": "القوالب",
+      "researchers": "الباحثون",
+      "grantWriters": "كتّاب المنح",
+      "grantsDirectory": "دليل المنح",
+      "journals": "المجلات",
+      "researchAnalytics": "تحليلات الأبحاث",
+      "researchMatching": "مطابقة الأبحاث",
+      "researcherPlans": "خطط الباحثين",
+      "writerCommission": "عمولة الكاتب",
+      "languages": "اللغات",
+      "translations": "الترجمات",
+      "localizedContent": "المحتوى المحلي",
+      "providerCategories": "فئات مقدمي الخدمة",
+      "specialties": "التخصصات",
+      "serviceTypes": "أنواع الخدمات",
+      "credentials": "المؤهلات",
+      "deliveryModes": "أساليب التقديم",
+      "roleMappings": "تعيين الأدوار",
+      "auditLogs": "سجلات التدقيق",
+      "system": "النظام",
+      "compliance": "الامتثال",
+      "settings": "الإعدادات",
+      "findExperts": "ابحث عن خبراء",
+      "myEngagements": "ارتباطاتي",
+      "messages": "الرسائل",
+      "profile": "الملف الشخصي",
+      "preferences": "التفضيلات",
+      "myWork": "عملي",
+      "schedule": "الجدول",
+      "earnings": "الأرباح",
+      "billing": "الفواتير",
+      "findMentors": "ابحث عن مرشدين",
+      "myPlacements": "تدريباتي",
+      "availability": "التوفر",
+      "requests": "الطلبات",
+      "myStudents": "طلابي",
+      "students": "الطلاب",
+      "placements": "التدريبات",
+      "findPreceptors": "ابحث عن مرشدين سريريين",
+      "agreements": "الاتفاقيات",
+      "reports": "التقارير",
+      "organizationProfile": "ملف المؤسسة",
+      "myResearch": "أبحاثي",
+      "publications": "المنشورات",
+      "grantApplications": "طلبات المنح",
+      "findGrants": "ابحث عن منح",
+      "journalDirectory": "دليل المجلات",
+      "findGrantWriters": "ابحث عن كتّاب المنح",
+      "savedGrants": "المنح المحفوظة",
+      "submissions": "التقديمات",
+      "activeProjects": "المشاريع النشطة",
+      "myClients": "عملائي",
+      "portfolio": "ملف الأعمال",
+      "deliverables": "المخرجات",
+      "packages": "الباقات"
+    }
+  },
+  "chrome": {
+    "searchPlaceholder": "بحث...",
+    "notifications": "الإشعارات",
+    "adminNotifications": "إشعارات المسؤول",
+    "viewAll": "عرض الكل",
+    "viewAllNotifications": "عرض كل الإشعارات",
+    "signOut": "تسجيل الخروج",
+    "lightMode": "الوضع الفاتح",
+    "darkMode": "الوضع الداكن",
+    "settings": "الإعدادات",
+    "profile": "الملف الشخصي",
+    "newCount": "{count} جديدة"
+  },
+  "dashboardCard": {
+    "shared": {
+      "viewAll": "عرض الكل",
+      "fullSchedule": "الجدول الكامل",
+      "fullAnalytics": "تحليلات كاملة",
+      "quickActions": "إجراءات سريعة",
+      "accept": "قبول",
+      "decline": "رفض"
+    },
+    "status": {
+      "active": "نشط",
+      "pending": "قيد الانتظار",
+      "completed": "مكتمل",
+      "inProgress": "قيد التنفيذ",
+      "upcoming": "قادم",
+      "virtual": "افتراضي",
+      "inPerson": "حضوري"
+    },
+    "provider": {
+      "statTodaysEngagements": "ارتباطات اليوم",
+      "statTodaysEngagementsDesc": "{virtual} افتراضية، {inPerson} حضورية",
+      "statPendingRequests": "الطلبات المعلقة",
+      "statPendingRequestsDesc": "بانتظار ردك",
+      "statMonthlyEarnings": "أرباح هذا الشهر",
+      "statMonthlyEarningsDesc": "{trend} مقارنة بالشهر الماضي",
+      "statOverallRating": "التقييم العام",
+      "statOverallRatingDesc": "{count} مراجعات",
+      "sectionTodaysSchedule": "جدول اليوم",
+      "sectionPendingRequests": "الطلبات المعلقة",
+      "sectionPendingRequestsDesc": "بانتظار ردك",
+      "actionManageSchedule": "إدارة الجدول",
+      "actionViewMessages": "عرض الرسائل",
+      "actionEarnings": "الأرباح",
+      "actionClientReviews": "مراجعات العملاء"
+    },
+    "student": {
+      "statActivePlacements": "التدريبات النشطة",
+      "statPendingRequests": "الطلبات المعلقة",
+      "statPendingRequestsDesc": "بانتظار رد المرشد",
+      "statHoursCompleted": "الساعات المنجزة",
+      "statHoursCompletedDesc": "من أصل {total} مطلوبة",
+      "statCredentials": "المؤهلات",
+      "statCredentialsDesc": "{pending} بانتظار التحقق",
+      "sectionActivePlacements": "التدريبات النشطة",
+      "sectionActivePlacementsDesc": "تدريباتك السريرية الحالية",
+      "sectionPendingRequests": "الطلبات المعلقة",
+      "sectionPendingRequestsDesc": "بانتظار رد المرشد",
+      "clinicalHoursLabel": "الساعات السريرية",
+      "sentLabel": "أُرسلت في {date}",
+      "actionFindPreceptors": "ابحث عن مرشدين سريريين",
+      "actionUploadCredentials": "رفع المؤهلات",
+      "actionMessages": "الرسائل",
+      "actionMyProfile": "ملفي الشخصي"
+    },
+    "preceptor": {
+      "statActiveStudents": "الطلاب النشطون",
+      "statActiveStudentsDesc": "من أصل {max} الحد الأقصى",
+      "statPendingRequests": "الطلبات المعلقة",
+      "statPendingRequestsDesc": "بانتظار ردك",
+      "statTotalMentored": "إجمالي الموجهين",
+      "statTotalMentoredDesc": "إجمالي مسيرتك",
+      "statAvgRating": "متوسط التقييم",
+      "statAvgRatingDesc": "من {count} مراجعات",
+      "sectionActiveStudents": "الطلاب النشطون",
+      "sectionActiveStudentsDesc": "الطلاب في تدريبك حاليًا",
+      "sectionPendingRequests": "الطلبات المعلقة",
+      "sectionPendingRequestsDesc": "طلبات تدريب جديدة",
+      "hoursLabel": "الساعات",
+      "sinceLabel": "منذ {date}",
+      "actionManageSchedule": "إدارة الجدول",
+      "actionViewRequests": "عرض الطلبات",
+      "actionMessages": "الرسائل",
+      "actionMyProfile": "ملفي الشخصي"
+    },
+    "institution": {
+      "statTotalStudents": "إجمالي الطلاب",
+      "statTotalStudentsDesc": "{active} نشطون في التدريب",
+      "statActivePlacements": "التدريبات النشطة",
+      "statActivePlacementsDesc": "مع {count} مرشدين",
+      "statPendingRequests": "الطلبات المعلقة",
+      "statPendingRequestsDesc": "بانتظار رد المرشد",
+      "statPlacementRate": "معدل التنسيب",
+      "statPlacementRateDesc": "{trend} مقارنة بالفصل الماضي",
+      "sectionRecentPlacements": "التدريبات الأخيرة",
+      "sectionRecentPlacementsDesc": "نشاط تنسيب الطلاب",
+      "actionManageStudents": "إدارة الطلاب",
+      "actionFindPreceptors": "ابحث عن مرشدين",
+      "actionAssignPlacements": "تعيين التدريبات",
+      "actionImportStudents": "استيراد الطلاب",
+      "actionViewReports": "عرض التقارير",
+      "actionAgreements": "الاتفاقيات"
+    },
+    "researcher": {
+      "statActiveProjects": "المشاريع النشطة",
+      "statActiveProjectsDesc": "{funded} ممولة، {inProgress} قيد التنفيذ",
+      "statGrantApplications": "طلبات المنح",
+      "statGrantApplicationsDesc": "{awarded} ممنوحة، {pending} قيد المراجعة",
+      "statPublications": "المنشورات",
+      "statPublicationsDesc": "{review} قيد المراجعة",
+      "statHIndex": "مؤشر h",
+      "statHIndexDesc": "{trend} هذا العام",
+      "sectionActiveGrants": "المنح النشطة",
+      "sectionActiveGrantsDesc": "طلباتك الممولة والمعلقة",
+      "sectionUpcomingDeadlines": "المواعيد النهائية القادمة",
+      "sectionUpcomingDeadlinesDesc": "المنح والتقديمات والتقارير",
+      "sectionRecentPublications": "المنشورات الأخيرة",
+      "sectionRecentPublicationsDesc": "أحدث إنتاج بحثي لك",
+      "actionFindGrants": "ابحث عن منح",
+      "actionSubmitManuscript": "إرسال مخطوطة",
+      "actionFindGrantWriters": "ابحث عن كتّاب المنح",
+      "actionBrowseJournals": "تصفح المجلات"
+    },
+    "grantWriter": {
+      "statActiveProjects": "المشاريع النشطة",
+      "statActiveProjectsDesc": "{proposals} مقترحات، {revisions} مراجعة، {reviews} استعراض",
+      "statEarningsMtd": "الأرباح (الشهر حتى الآن)",
+      "statEarningsMtdDesc": "{trend} مقارنة بالشهر الماضي",
+      "statSuccessRate": "معدل النجاح",
+      "statSuccessRateDesc": "{won} من {total} منح ممولة",
+      "statClientRating": "تقييم العميل",
+      "statClientRatingDesc": "{count} مراجعات",
+      "sectionActiveProjects": "المشاريع النشطة",
+      "sectionActiveProjectsDesc": "المقترحات والمراجعات قيد التنفيذ",
+      "sectionPendingRequests": "الطلبات المعلقة",
+      "sectionPendingRequestsDesc": "طلبات تعاون جديدة",
+      "sectionRecentWins": "إنجازات حديثة",
+      "sectionRecentWinsDesc": "المنح التي ساعدت في تمويلها",
+      "actionViewRequests": "عرض الطلبات",
+      "actionEarnings": "الأرباح",
+      "actionMessages": "الرسائل",
+      "actionMyProfile": "ملفي الشخصي"
+    },
+    "admin": {
+      "statTotalUsers": "إجمالي المستخدمين",
+      "statActiveBookings": "الحجوزات النشطة",
+      "statRevenueMtd": "الإيرادات (الشهر حتى الآن)",
+      "statActivePlacements": "التدريبات النشطة",
+      "sectionUserRegistration": "تسجيل المستخدمين حسب الدور",
+      "sectionUserRegistrationDesc": "تفصيل جميع المستخدمين المسجلين",
+      "actionViewUsers": "عرض المستخدمين",
+      "actionAnalytics": "التحليلات",
+      "actionDisputes": "النزاعات",
+      "actionRevenue": "الإيرادات",
+      "actionFlagged": "المُبلَّغ عنه",
+      "actionAuditLogs": "سجلات التدقيق"
+    }
+  },
+  "landing": {
+    "hero": {
+      "badge": "موثوق به من قبل أكثر من 500 محترف في أكثر من 20 دولة",
+      "headlinePart1": "ربط الناس بـ",
+      "headlineHighlight": "الرعاية والتعلم والبحث",
+      "headlinePart2": "— في أي مكان في العالم.",
+      "subheadline": "SandiLink هو السوق العالمي الذي يجمع بين مستخدمي الخدمات الصحية ومقدمي الخدمات والطلاب والمرشدين السريريين والباحثين وكتاب المنح في منصة سلسة وموجهة نحو الإنسان.",
+      "primaryCta": "البدء",
+      "secondaryCta": "تصفح الخدمات"
+    },
+    "explainer": {
+      "eyebrow": "نظرة عامة لمدة 60 ثانية",
+      "heading": "شاهد كيف يعمل SandiLink.",
+      "subheading": "ماذا لو كان الاتصال برعاية صحية أو مرشد أو كاتب منح سهلاً مثل النقر فوق زر؟",
+      "placeholderTitle": "فيديو توضيحي لمدة 60 ثانية",
+      "placeholderSubtitle": "قريباً — مستضاف على YouTube، انقر للتشغيل."
+    },
+    "about": {
+      "eyebrow": "حول SandiLink",
+      "heading": "منصة واحدة. طرق لا حصر لها للوصول إلى الدعم والخبرة.",
+      "lede": "سوق عالمي مبني من أجل الوصول والتواصل والفرص.",
+      "body": "SandiLink هو السوق الرائد لمنصة One Sandi — مصمم لإزالة الحواجز وتسهيل العثور على الدعم والخبرة والمسارات التي يحتاجها الناس. سواء كان البحث عن خدمات الرعاية الصحية أو التدريبات السريرية أو التعاون البحثي، يجمع SandiLink كل شيء في نظام واحد بديهي وشامل ومتاح عالمياً.",
+      "tilesHealthcare": "الرعاية الصحية",
+      "tilesHealthcareDesc": "مقدمو الخدمات، الصحة، مقدمو الرعاية",
+      "tilesEducation": "التعليم",
+      "tilesEducationDesc": "الطلاب، المرشدون، المدارس",
+      "tilesResearch": "البحث",
+      "tilesResearchDesc": "المنح، المجلات، التعاون",
+      "tilesGlobal": "عالمي",
+      "tilesGlobalDesc": "أكثر من 20 دولة، مهمة واحدة"
+    },
+    "marketplaces": {
+      "heading": "منصة واحدة. ثلاثة أسواق مترابطة.",
+      "subheading": "إمكانيات لا حصر لها.",
+      "healthcare": {
+        "tag": "الخدمات الصحية",
+        "title": "سوق الخدمات الصحية",
+        "lede": "بوابة وصول عالمية للدعم الصحي.",
+        "body": "يمكن للأفراد والعائلات والمجتمعات التواصل مع متخصصي الرعاية الصحية المستقلين وغير المحترفين — بما في ذلك الأطباء والممرضين ومقدمي الرعاية الصحية المساعدين ومقدمي الرعاية وممارسي الصحة والعاملين الصحيين المجتمعيين ومرافقي الرعاية الداعمة.",
+        "callout": "يوسع SandiLink الوصول ويقلل الحواجز ويساعد الناس في العثور على الرعاية المناسبة في الوقت المناسب.",
+        "cta": "البحث عن مقدم خدمة",
+        "roleDoctors": "الأطباء والمتخصصون",
+        "roleNurses": "الممرضون والصحة المساعدة",
+        "roleWellness": "الصحة والعافية ومقدمو الرعاية",
+        "roleCommunity": "العاملون الصحيون المجتمعيون"
+      },
+      "education": {
+        "tag": "Preceptor Connect™",
+        "title": "سوق التعليم",
+        "lede": "مسار مخصص للتدريب السريري والإرشاد.",
+        "bullet1": "يمكن للطلاب العثور على مرشدين سريريين ومعلمين",
+        "bullet2": "يمكن للمرشدين السريريين إدراج توافرهم وتخصصاتهم",
+        "bullet3": "تكتسب المدارس والبرامج الأكاديمية بنية ووضوح وشفافية",
+        "callout": "يبسط SandiLink عملية التدريب السريري ويدعم التطوير المهني.",
+        "cta": "البحث عن مرشد سريري",
+        "studentsLabel": "الطلاب",
+        "preceptorsLabel": "المرشدون"
+      },
+      "research": {
+        "tag": "البحث والمنح",
+        "title": "سوق البحث والمنح",
+        "lede": "مركز عالمي للتعاون البحثي ودعم التمويل.",
+        "bullet1": "يمكن للباحثين التواصل مع كتاب المنح واستكشاف التمويل والوصول إلى المجلات",
+        "bullet2": "يمكن لكتاب المنح عرض خبراتهم وتنمية ممارستهم",
+        "bullet3": "تحصل المجلات والفرق الأكاديمية على مساحة موحدة للتعاون",
+        "callout": "يربط SandiLink مجتمع البحث العالمي بالأدوات والأشخاص الذين يحتاجون إليهم.",
+        "cta": "البحث عن كاتب منح",
+        "stat1Label": "اكتشاف المنح",
+        "stat1Value": "أكثر من 1200 منحة",
+        "stat2Label": "ربط الخبراء",
+        "stat2Value": "67 خبيراً",
+        "stat3Label": "الوصول إلى المجلات",
+        "stat3Value": "أكثر من 45 مجلة"
+      }
+    },
+    "whySandilink": {
+      "heading": "لماذا SandiLink؟",
+      "subheading": "سيناريوهات حقيقية. أشخاص حقيقيون. تأثير حقيقي — عبر ثلاثة أسواق.",
+      "groups": {
+        "healthcare": "الرعاية الصحية",
+        "education": "التعليم / Preceptor Connect™",
+        "research": "البحث والمنح"
+      },
+      "scenarios": {
+        "hc1Headline": "يتواصل ابن في هيوستن مع طبيب في سيراليون لرعاية أمه — دون أن تقف الحدود في طريقهما.",
+        "hc1Body": "يجعل SandiLink من الممكن للعائلات تنسيق الرعاية لأحبائهم عبر القارات.",
+        "hc2Headline": "تجد شابة في أتلانتا ممرضة موثوقة في لاغوس للحصول على إرشاد صحي تناسلي افتراضي.",
+        "hc2Body": "يصبح الوصول إلى رعاية متوافقة ثقافياً بسيطاً وآمناً ومباشراً.",
+        "hc3Headline": "تتواصل مقدمة رعاية في نيوجيرسي مع عامل صحي مجتمعي في غانا لدعم احتياجات والدها المسن اليومية.",
+        "hc3Body": "يمتد SandiLink بشبكات الرعاية إلى ما وراء الجغرافيا واللغة والموارد المحلية.",
+        "ed1Headline": "تتواصل طالبة تمريض في الفلبين مع مرشد سريري معتمد في هيوستن — بدون حراس أو قوائم انتظار.",
+        "ed1Body": "يزيل SandiLink الحواجز أمام التعلم السريري والإرشاد.",
+        "ed2Headline": "تحصل طالبة صحة عامة في الهند على تدريب عملي عن بُعد مع مرشع مقره الولايات المتحدة يفهم أهدافها.",
+        "ed2Body": "الجغرافيا لم تعد تحد من التطوير المهني.",
+        "ed3Headline": "يُدرج مرشد سريري في مسيسيبي توافره ويتواصل فوراً مع الطلاب الذين يحتاجون إلى تدريب الآن.",
+        "ed3Body": "يدعم SandiLink كلا جانبي رحلة التعلم.",
+        "rg1Headline": "يتواصل باحث في نيروبي مع كاتب منح في لندن لإعداد طلب تمويل عالمي تنافسي.",
+        "rg1Body": "يسرع SandiLink البحث من خلال ربط الخبرات عبر الحدود.",
+        "rg2Headline": "تجد طالبة دكتوراه في شيكاغو محرر مجلة في جنوب أفريقيا لإرشادها في تقديم مخطوطتها.",
+        "rg2Body": "يصبح الدعم متاحاً وشخصياً وسريعاً.",
+        "rg3Headline": "تتعاون فريق بحث في البرازيل مع كتاب منح أمريكيين لتأمين تمويل لمشروع صحة مجتمعية.",
+        "rg3Body": "يقوي SandiLink الاكتشاف العالمي من خلال شراكات ذات معنى."
+      }
+    },
+    "approach": {
+      "heading": "تصميم تكنولوجي يدور حول الناس — لا المؤسسات.",
+      "pillar1Title": "تصميم موجه نحو الإنسان",
+      "pillar1Body": "مبني حول التجارب الحقيقية والاحتياجات الحقيقية والتحديات الحقيقية التي يواجهها الناس الباحثون عن رعاية وتعليم وتعاون.",
+      "pillar2Title": "الإمكانية الوصول العالمية",
+      "pillar2Body": "مصمم للتوسع عبر الحدود والثقافات والمجتمعات — مما يجعل دعم الخبراء متاحاً للجميع، في كل مكان.",
+      "pillar3Title": "الثقة والشفافية",
+      "pillar3Body": "تصميم أخلاقي، وتواصل واضح، ومبادئ تضع المستخدم أولاً. يتم التحقق من كل محترف قبل الظهور.",
+      "pillar4Title": "الأتمتة بهدف",
+      "pillar4Body": "ربط ذكي، وسير عمل مبسط، وأدوات ذكية تقلل الاحتكاك حتى يمكن للناس التركيز على ما يهم."
+    },
+    "mission": {
+      "eyebrow": "مهمتنا",
+      "heading": "لأن الوصول يجب أن يكون بسيطاً — وليس مرهقاً.",
+      "lede": "تم إنشاء SandiLink لحل مشكلة عالمية: يكافح الناس في كل مكان للوصول إلى الرعاية، وتأمين التدريبات السريرية، أو العثور على دعم بحثي.",
+      "missionTitle": "مهمتنا",
+      "missionBody": "بناء أنظمة قابلة للتطوير وموجهة نحو الإنسان تمكّن الناس بغض النظر عن الجغرافيا أو الخلفية أو الموارد.",
+      "visionTitle": "رؤيتنا",
+      "visionBody": "عالم تكون فيه الرعاية الصحية متاحة، والتعليم مدعوم، والبحث تعاوني ومتصل عالمياً.",
+      "tileHealthcare": "الصحة",
+      "tileHealthcareValue": "متاحة",
+      "tileEducation": "التعليم",
+      "tileEducationValue": "مدعوم",
+      "tileResearch": "البحث",
+      "tileResearchValue": "متصل",
+      "tileCommunity": "المجتمع",
+      "tileCommunityValue": "عالمي"
+    },
+    "community": {
+      "heading": "مجتمع عالمي من المستخدمين ومقدمي الخدمات والشركاء.",
+      "body": "يدعم SandiLink الأفراد والعائلات ومقدمي الرعاية الصحية والطلاب والمرشدين السريريين والباحثين وكتاب المنح والمجلات والمؤسسات حول العالم.",
+      "accent": "نبني نظاماً بيئياً متصلاً يقوي الرعاية والتعلم والاكتشاف.",
+      "cta": "انضم إلى المجتمع",
+      "roleServiceUsers": "مستخدمي الخدمات",
+      "roleProviders": "مقدمو الخدمات",
+      "roleStudents": "الطلاب",
+      "rolePreceptors": "المرشدون",
+      "roleResearchers": "الباحثون",
+      "roleGrantWriters": "كتاب المنح",
+      "roleInstitutions": "المؤسسات"
+    },
+    "founding": {
+      "statProviders": "مقدمو الخدمات",
+      "statCountries": "الدول",
+      "statMarketplaces": "الأسواق",
+      "statMission": "المهمة",
+      "testimonialsHeading": "ماذا يقول أعضاؤنا",
+      "testimonialsBody": "أصوات حقيقية من أول مجتمع SandiLink.",
+      "founderBadge": "رسالة من مؤسستنا",
+      "founderQuote": "بنينا SandiLink لأن المواهب لا يجب أن تكون محدودة بالوصول. من الرعاية الصحية إلى الإرشاد السريري إلى البحث والمنح، نربط الناس عبر ثلاثة أسواق مخصصة. لقد بدأنا للتو — وكل من ينضم إلينا الآن يساعد في تشكيل ما سيأتي.",
+      "founderRole": "المؤسسة والرئيسة التنفيذية",
+      "founderCompany": "SandiLink",
+      "limitedTime": "وقت محدود",
+      "heading": "كن عضواً مؤسساً",
+      "subheading": "انضم الآن واحصل على مزايا حصرية محفوظة لأوائل أعضاء مجتمعنا.",
+      "benefit1Title": "وصول مبكر",
+      "benefit1Body": "كن من أوائل المستخدمين للأسواق الثلاثة: الخدمات الصحية، وPreceptor Connect™، والبحث والمنح.",
+      "benefit2Title": "الموضع المسبق",
+      "benefit2Body": "يحصل الأعضاء المؤسسون على موضع مسبق في الدليل، مما يجعلك أكثر وضوحاً للمتعلمين والمتعاونين والفرص.",
+      "benefit3Title": "مساهمة مباشرة في الميزات",
+      "benefit3Body": "شكّل المنصة. يحصل الأعضاء المؤسسون على خط مباشر مع فريق المنتج، وتؤثر ملاحظاتك على ما سنبنيه لاحقاً.",
+      "benefit4Title": "شارة عضو مؤسس مدى الحياة",
+      "benefit4Body": "شارة دائمة على ملفك الشخصي تشير إلى أنك كنت هنا منذ البداية — مرئية لكل مستخدم يعرض ملفك.",
+      "cta": "كن عضواً مؤسساً"
+    },
+    "finalCta": {
+      "heading": "انضم إلى المنصة التي تعيد تعريف التواصل العالمي.",
+      "body": "أنشئ حسابك وابدأ بالتواصل مع مقدمي الرعاية الصحية والمرشدين والباحثين وكتاب المنح اليوم.",
+      "primary": "إنشاء حسابك",
+      "secondary": "تسجيل الدخول"
+    }
+  },
+  "profilePages": {
+    "provider": {
+      "title": "ملف مقدم الخدمة",
+      "intro": "أدِر ملفك المهني وشهاداتك وأسعارك."
+    },
+    "student": {
+      "title": "ملف الطالب",
+      "intro": "أدِر معلوماتك الشخصية والأكاديمية."
+    },
+    "institution": {
+      "title": "ملف المنظمة",
+      "intro": "أدِر معلومات مؤسستك."
+    },
+    "preceptor": {
+      "title": "ملف المرشد السريري",
+      "intro": "أدِر ملفك واختصاصك وقدرتك الاستيعابية وأوقات توفّرك."
+    },
+    "researcher": {
+      "title": "ملف الباحث",
+      "intro": "أدِر معلوماتك الشخصية والمؤسسية والبحثية."
+    },
+    "grantWriter": {
+      "title": "ملف كاتب المنح",
+      "intro": "أدِر ملفك المهني وخبرتك وأسعارك."
+    }
+  }
+}

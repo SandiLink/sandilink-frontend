@@ -1,0 +1,1071 @@
+{
+  "common": {
+    "signIn": "Sign in",
+    "getStarted": "Get started",
+    "createAccount": "Create your account",
+    "openMenu": "Open menu",
+    "comingSoon": "Coming soon"
+  },
+  "nav": {
+    "marketplaces": "Marketplaces",
+    "howItWorks": "How It Works",
+    "pricing": "Pricing",
+    "resources": "Resources",
+    "marketplacesEyebrow": "Three connected marketplaces",
+    "resourcesEyebrow": "Help & documentation",
+    "marketplacesCta": "See how SandiLink works",
+    "resourcesCta": "Talk to our team",
+    "items": {
+      "healthcare": {
+        "title": "Healthcare Services",
+        "description": "Service users connect with doctors, nurses, allied health, caregivers, and wellness practitioners."
+      },
+      "preceptor": {
+        "title": "Preceptor Connect™",
+        "description": "Students and institutions request clinical placements with verified preceptors."
+      },
+      "research": {
+        "title": "Research & Grants",
+        "description": "Researchers find grant writers, browse curated grants and journals, and run collaborations."
+      },
+      "faq": {
+        "title": "FAQ",
+        "description": "Answers to the most common questions about SandiLink."
+      },
+      "trust": {
+        "title": "Trust & Safety",
+        "description": "How we verify users, protect data, and resolve disputes."
+      },
+      "support": {
+        "title": "Support",
+        "description": "Reach our team or submit a support request."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "The global services marketplace connecting care, learning, and research.",
+    "marketplacesHeading": "Marketplaces",
+    "platformHeading": "Platform",
+    "getStartedHeading": "Get Started",
+    "legalHeading": "Legal",
+    "links": {
+      "healthcare": "Healthcare Services",
+      "preceptor": "Preceptor Connect™",
+      "research": "Research & Grants",
+      "grantWriters": "Grant Writers",
+      "journals": "Journals",
+      "howItWorks": "How It Works",
+      "pricing": "Pricing",
+      "trust": "Trust & Safety",
+      "faq": "FAQ",
+      "support": "Support",
+      "signIn": "Sign In",
+      "createAccount": "Create Account",
+      "forgotPassword": "Forgot Password",
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy",
+      "cookies": "Cookies Policy",
+      "termsShort": "Terms",
+      "privacyShort": "Privacy",
+      "cookiesShort": "Cookies",
+      "providerAgreement": "Provider Agreement"
+    },
+    "disclaimer": "<strong>Disclaimer:</strong> SandiLink does not provide medical care or clinical services. We do not verify credentials; users must conduct their own due diligence. Call 911 or your local emergency number for medical emergencies.",
+    "rights": "© {year} One Sandi. All rights reserved."
+  },
+  "languageSwitcher": {
+    "label": "Language",
+    "current": "Current language: {language}",
+    "tier1": "Available now",
+    "tier2": "Coming soon",
+    "untranslated": "Translation pending"
+  },
+  "landing": {
+    "hero": {
+      "badge": "Trusted by 500+ professionals in 20+ countries",
+      "headlinePart1": "Connecting people to",
+      "headlineHighlight": "care, learning, and research",
+      "headlinePart2": "— anywhere in the world.",
+      "subheadline": "SandiLink is the global marketplace that brings together healthcare service users, providers, students, preceptors, researchers, and grant writers in one seamless, human-centered platform.",
+      "primaryCta": "Get started",
+      "secondaryCta": "Browse Services"
+    },
+    "explainer": {
+      "eyebrow": "60-second overview",
+      "heading": "See how SandiLink works.",
+      "subheading": "What if connecting to care, a mentor, or a grant writer was as easy as one click?",
+      "placeholderTitle": "60-second explainer video",
+      "placeholderSubtitle": "Coming soon — hosted on YouTube, click-to-play."
+    },
+    "about": {
+      "eyebrow": "About SandiLink",
+      "heading": "One platform. Unlimited pathways to support and expertise.",
+      "lede": "A global marketplace built for access, connection, and opportunity.",
+      "body": "SandiLink is the flagship marketplace of One Sandi Platform — designed to remove barriers and make it easier for people to find the support, expertise, and pathways they need. Whether someone is seeking healthcare services, clinical placements, or research collaboration, SandiLink brings everything together in one intuitive, inclusive, and globally accessible system.",
+      "tilesHealthcare": "Healthcare",
+      "tilesHealthcareDesc": "Providers, wellness, caregivers",
+      "tilesEducation": "Education",
+      "tilesEducationDesc": "Students, preceptors, schools",
+      "tilesResearch": "Research",
+      "tilesResearchDesc": "Grants, journals, collaboration",
+      "tilesGlobal": "Global",
+      "tilesGlobalDesc": "20+ countries, one mission"
+    },
+    "marketplaces": {
+      "heading": "One platform. Three interconnected marketplaces.",
+      "subheading": "Unlimited possibility.",
+      "healthcare": {
+        "tag": "Healthcare Services",
+        "title": "Healthcare Services Marketplace",
+        "lede": "A global access point for healthcare support.",
+        "body": "Individuals, families, and communities can connect with independent healthcare professionals and non-professionals — including doctors, nurses, allied health providers, caregivers, wellness practitioners, community health workers, and supportive care companions.",
+        "callout": "SandiLink expands access, reduces barriers, and helps people find the right care at the right time.",
+        "cta": "Find a Provider",
+        "roleDoctors": "Doctors & Specialists",
+        "roleNurses": "Nurses & Allied Health",
+        "roleWellness": "Wellness & Caregivers",
+        "roleCommunity": "Community Health Workers"
+      },
+      "education": {
+        "tag": "Preceptor Connect™",
+        "title": "Education Marketplace",
+        "lede": "A dedicated pathway for clinical placements and mentorship.",
+        "bullet1": "Students can find preceptors and clinical mentors",
+        "bullet2": "Preceptors can list their availability and specialties",
+        "bullet3": "Schools and academic programs gain structure, clarity, and transparency",
+        "callout": "SandiLink simplifies the clinical placement process and supports professional development.",
+        "cta": "Find a Preceptor",
+        "studentsLabel": "Students",
+        "preceptorsLabel": "Preceptors"
+      },
+      "research": {
+        "tag": "Research & Grants",
+        "title": "Research & Grants Marketplace",
+        "lede": "A global hub for research collaboration and funding support.",
+        "bullet1": "Researchers can connect with grant writers, explore funding, and access journal pathways",
+        "bullet2": "Grant writers can showcase expertise and grow their practice",
+        "bullet3": "Journals and academic teams gain a unified space for collaboration",
+        "callout": "SandiLink connects the global research community with the tools and people they need.",
+        "cta": "Find a Grant Writer",
+        "stat1Label": "Grant Discovery",
+        "stat1Value": "1,200+ grants",
+        "stat2Label": "Writer Matching",
+        "stat2Value": "67 experts",
+        "stat3Label": "Journal Access",
+        "stat3Value": "45+ journals"
+      }
+    },
+    "whySandilink": {
+      "heading": "Why SandiLink?",
+      "subheading": "Real scenarios. Real people. Real reach — across three marketplaces.",
+      "groups": {
+        "healthcare": "Healthcare",
+        "education": "Education / Preceptor Connect™",
+        "research": "Research & Grants"
+      },
+      "scenarios": {
+        "hc1Headline": "A son in Houston connects with a physician in Sierra Leone to care for his mother — without borders standing in the way.",
+        "hc1Body": "SandiLink makes it possible for families to coordinate care for loved ones across continents.",
+        "hc2Headline": "A young woman in Atlanta finds a trusted nurse practitioner in Lagos for virtual reproductive health guidance.",
+        "hc2Body": "Access to culturally aligned care becomes simple, safe, and direct.",
+        "hc3Headline": "A caregiver in New Jersey connects with a community health worker in Ghana to support her aging father's daily needs.",
+        "hc3Body": "SandiLink extends care networks beyond geography, language, and local resources.",
+        "ed1Headline": "A nursing student in the Philippines connects with a board-certified preceptor in Houston — no gatekeepers, no waiting lists.",
+        "ed1Body": "SandiLink removes barriers to clinical learning and mentorship.",
+        "ed2Headline": "A public health student in India secures a remote practicum with a U.S.-based mentor who understands her goals.",
+        "ed2Body": "Geography no longer limits professional development.",
+        "ed3Headline": "A preceptor in Mississippi lists availability and instantly connects with students who need placements now.",
+        "ed3Body": "SandiLink supports both sides of the learning journey.",
+        "rg1Headline": "A researcher in Nairobi connects with a grant writer in London to prepare a competitive global funding application.",
+        "rg1Body": "SandiLink accelerates research by connecting expertise across borders.",
+        "rg2Headline": "A doctoral student in Chicago finds a journal editor in South Africa to guide her manuscript submission.",
+        "rg2Body": "Support becomes accessible, personal, and timely.",
+        "rg3Headline": "A research team in Brazil collaborates with U.S. grant writers to secure funding for a community health project.",
+        "rg3Body": "SandiLink strengthens global discovery through meaningful partnerships."
+      }
+    },
+    "approach": {
+      "heading": "Technology designed around people — not institutions.",
+      "pillar1Title": "Human-Centered Design",
+      "pillar1Body": "Built around real experiences, real needs, and real challenges faced by people seeking care, education, and collaboration.",
+      "pillar2Title": "Global Accessibility",
+      "pillar2Body": "Designed to scale across borders, cultures, and communities — making expert support available to everyone, everywhere.",
+      "pillar3Title": "Trust & Transparency",
+      "pillar3Body": "Ethical design, clear communication, and user-first principles. Every professional is verified before going live.",
+      "pillar4Title": "Automation with Purpose",
+      "pillar4Body": "Smart matching, streamlined workflows, and intelligent tools that reduce friction so people can focus on what matters."
+    },
+    "mission": {
+      "eyebrow": "Our Mission",
+      "heading": "Because access should be simple — not stressful.",
+      "lede": "SandiLink was created to solve a global problem: people everywhere struggle to access care, secure clinical placements, or find research support.",
+      "missionTitle": "Our Mission",
+      "missionBody": "To build scalable, human-centered systems that empower people regardless of geography, background, or resources.",
+      "visionTitle": "Our Vision",
+      "visionBody": "A world where healthcare is accessible, education is supported, and research is collaborative and globally connected.",
+      "tileHealthcare": "Healthcare",
+      "tileHealthcareValue": "Accessible",
+      "tileEducation": "Education",
+      "tileEducationValue": "Supported",
+      "tileResearch": "Research",
+      "tileResearchValue": "Connected",
+      "tileCommunity": "Community",
+      "tileCommunityValue": "Global"
+    },
+    "community": {
+      "heading": "A global community of users, providers, and partners.",
+      "body": "SandiLink supports individuals, families, healthcare providers, students, preceptors, researchers, grant writers, journals, and institutions across the world.",
+      "accent": "We're building a connected ecosystem that strengthens care, learning, and discovery.",
+      "cta": "Join the community",
+      "roleServiceUsers": "Service Users",
+      "roleProviders": "Providers",
+      "roleStudents": "Students",
+      "rolePreceptors": "Preceptors",
+      "roleResearchers": "Researchers",
+      "roleGrantWriters": "Grant Writers",
+      "roleInstitutions": "Institutions"
+    },
+    "founding": {
+      "statProviders": "Providers",
+      "statCountries": "Countries",
+      "statMarketplaces": "Marketplaces",
+      "statMission": "Mission",
+      "testimonialsHeading": "What Our Members Say",
+      "testimonialsBody": "Real voices from SandiLink's earliest community.",
+      "founderBadge": "A Message from Our Founder",
+      "founderQuote": "We built SandiLink because talent shouldn't be limited by access. From healthcare to preceptorship to research and grants, we connect people across three purpose-built marketplaces. We're just getting started — and everyone who joins now helps shape what comes next.",
+      "founderRole": "Founder & CEO",
+      "founderCompany": "SandiLink",
+      "limitedTime": "Limited Time",
+      "heading": "Become a Founding Member",
+      "subheading": "Join now and receive exclusive benefits reserved for our earliest community members.",
+      "benefit1Title": "Early Access",
+      "benefit1Body": "Be first into all three marketplaces: Healthcare Services, Preceptor Connect™, and Research & Grants.",
+      "benefit2Title": "Priority Placement",
+      "benefit2Body": "Founding members receive priority positioning in the directory, making you more visible to learners, collaborators, and opportunities.",
+      "benefit3Title": "Direct Input on Features",
+      "benefit3Body": "Shape the platform. Founding members get a direct line to the product team, with your feedback influencing what we build next.",
+      "benefit4Title": "Lifetime Founding Member Badge",
+      "benefit4Body": "A permanent badge on your profile that signals you were here from the beginning — visible to every user who views your profile.",
+      "cta": "Become a Founding Member"
+    },
+    "finalCta": {
+      "heading": "Join the platform redefining global connection.",
+      "body": "Create your account and start connecting with healthcare providers, mentors, researchers, and grant writers today.",
+      "primary": "Create your account",
+      "secondary": "Sign in"
+    }
+  },
+  "auth": {
+    "shared": {
+      "or": "or",
+      "orSignInManually": "or sign in manually",
+      "showPassword": "Show password",
+      "hidePassword": "Hide password",
+      "continueWithGoogle": "Continue with Google",
+      "rememberPassword": "Remember your password?",
+      "signIn": "Sign in",
+      "signUp": "Sign up",
+      "backToSignIn": "Back to sign in",
+      "sidePanelTagline": "Connecting healthcare professionals, students, and institutions on one seamless platform."
+    },
+    "login": {
+      "pageTitle": "Welcome back",
+      "pageDescription": "Sign in to access your SandiLink account",
+      "quickDemoLogin": "Quick demo login",
+      "emailLabel": "Email address",
+      "emailPlaceholder": "you@example.com",
+      "passwordLabel": "Password",
+      "passwordPlaceholder": "Enter your password",
+      "forgotPassword": "Forgot password?",
+      "rememberMe": "Remember me",
+      "signingIn": "Signing in...",
+      "signIn": "Sign in",
+      "noAccount": "Don't have an account?"
+    },
+    "register": {
+      "pageTitle": "Create your account",
+      "pageDescription": "Join SandiLink to get started",
+      "selectRolePrompt": "Select the role that best describes you",
+      "continue": "Continue",
+      "firstNameLabel": "First name",
+      "lastNameLabel": "Last name",
+      "emailLabel": "Email address",
+      "passwordLabel": "Password",
+      "passwordPlaceholder": "Create a password",
+      "passwordHint": "Must be at least 8 characters",
+      "termsAgreementBefore": "I agree to the ",
+      "termsAgreementAnd": " and ",
+      "termsLink": "Terms of Service",
+      "privacyLink": "Privacy Policy",
+      "back": "Back",
+      "creatingAccount": "Creating account...",
+      "createAccount": "Create account",
+      "haveAccount": "Already have an account?",
+      "roles": {
+        "serviceUserLabel": "Service User",
+        "serviceUserDescription": "Search and book healthcare providers",
+        "careProviderLabel": "Care Provider",
+        "careProviderDescription": "Offer your healthcare services",
+        "studentLabel": "Healthcare Student",
+        "studentDescription": "Find clinical placements and preceptors",
+        "institutionLabel": "Educational Institution",
+        "institutionDescription": "Manage student placements at scale",
+        "preceptorLabel": "Preceptor",
+        "preceptorDescription": "Mentor students in clinical settings",
+        "researcherLabel": "Researcher",
+        "researcherDescription": "Discover grants, publish research, and find collaborators",
+        "grantWriterLabel": "Grant Writer",
+        "grantWriterDescription": "Help researchers write winning grant proposals"
+      }
+    },
+    "forgotPassword": {
+      "pageTitle": "Forgot your password?",
+      "pageDescription": "No worries, we'll help you reset it",
+      "instructions": "Enter the email address associated with your account and we'll send you a link to reset your password.",
+      "sendingLink": "Sending link...",
+      "sendResetLink": "Send reset link",
+      "successPrefix": "If an account exists for",
+      "successInstructions": "you'll receive a password reset link shortly. Check your inbox and spam folder."
+    },
+    "resetPassword": {
+      "pageTitle": "Set new password",
+      "pageDescription": "Create a strong password for your account",
+      "newPasswordLabel": "New password",
+      "newPasswordPlaceholder": "Enter new password",
+      "confirmPasswordLabel": "Confirm password",
+      "confirmPasswordPlaceholder": "Confirm new password",
+      "resettingPassword": "Resetting password...",
+      "resetPassword": "Reset password",
+      "successHeading": "Password reset successfully",
+      "successDescription": "Your password has been updated. You can now sign in with your new password."
+    },
+    "mfaSetup": {
+      "pageTitle": "Secure your account",
+      "pageDescription": "Set up two-factor authentication",
+      "introCopy": "Add an extra layer of security to your account by enabling two-factor authentication using an authenticator app.",
+      "youllNeed": "You'll need",
+      "youllNeedAuthApp": "An authenticator app (Google Authenticator, Authy, etc.)",
+      "getStarted": "Get started",
+      "doLater": "I'll do this later",
+      "scanInstructions": "Scan the QR code below with your authenticator app, or enter the setup key manually.",
+      "qrPlaceholder": "QR code will appear here",
+      "cantScan": "Can't scan? Enter this key manually:",
+      "iScanned": "I've scanned the code",
+      "verifyInstructions": "Enter the 6-digit code from your authenticator app to verify the setup.",
+      "verifying": "Verifying...",
+      "verifyAndActivate": "Verify and activate",
+      "backToQr": "Back to QR code",
+      "doneHeading": "Two-factor authentication is now active",
+      "doneDescription": "You'll be asked for a verification code each time you sign in. Keep your authenticator app accessible.",
+      "continue": "Continue"
+    },
+    "verifyEmail": {
+      "pageTitle": "Check your email",
+      "pageDescription": "Enter the verification code to continue",
+      "sentCodeTo": "We sent a 6-digit code to",
+      "verifying": "Verifying...",
+      "verifyEmail": "Verify email",
+      "didntReceive": "Didn't receive the code?",
+      "resendIn": "Resend in {seconds}s",
+      "sending": "Sending...",
+      "resendCode": "Resend code"
+    }
+  },
+  "dashboards": {
+    "serviceUser": {
+      "welcomeBack": "Welcome back!",
+      "welcomeSubhead": "Here's an overview of your activity and upcoming appointments."
+    },
+    "provider": {
+      "greetingMorning": "Good morning, Dr. Johnson",
+      "welcomeSubhead": "You have {engagements} engagements today and {requests} pending requests."
+    },
+    "student": {
+      "welcomeBack": "Welcome back, Jane",
+      "welcomeSubhead": "Track your clinical placements, hours, and credentials."
+    },
+    "preceptor": {
+      "welcomeBack": "Welcome back, Dr. Williams",
+      "welcomeSubhead": "Manage your students, placement requests, and mentorship activities."
+    },
+    "institution": {
+      "pageTitle": "Institution Dashboard",
+      "welcomeSubhead": "Manage your students, placements, and preceptor relationships."
+    },
+    "researcher": {
+      "welcomeBack": "Welcome back, Dr. Rashid",
+      "welcomeSubhead": "Track your research projects, grants, and publications."
+    },
+    "grantWriter": {
+      "welcomeBack": "Welcome back, Lisa",
+      "welcomeSubhead": "Manage your projects, track earnings, and grow your grant writing practice."
+    },
+    "admin": {
+      "pageTitle": "Platform Overview",
+      "welcomeSubhead": "Monitor platform health, user activity, and revenue metrics.",
+      "statTotalUsers": "Total Users",
+      "statTotalUsersTrend": "+124 this week",
+      "statActiveBookings": "Active Bookings",
+      "statActiveBookingsTrend": "+8% vs last month",
+      "statRevenueMtd": "Revenue (MTD)",
+      "statRevenueMtdTrend": "+15% vs last month",
+      "statActivePlacements": "Active Placements",
+      "statActivePlacementsTrend": "+12% vs last semester",
+      "roleServiceUsers": "Service Users",
+      "roleCareProviders": "Care Providers",
+      "roleStudents": "Students",
+      "roleInstitutions": "Institutions",
+      "rolePreceptors": "Preceptors",
+      "registrationHeading": "User Registration by Role",
+      "registrationSub": "Breakdown of all registered users",
+      "fullAnalytics": "Full analytics",
+      "quickActions": "Quick Actions",
+      "reviewBadge": "Review",
+      "alertOpenDisputes": "{count} open disputes",
+      "alertOpenDisputesDesc": "Billing issues need review",
+      "alertFlaggedReviews": "{count} flagged reviews",
+      "alertFlaggedReviewsDesc": "Reported as inappropriate",
+      "alertPendingApprovals": "{count} pending approvals",
+      "alertPendingApprovalsDesc": "New provider accounts awaiting verification",
+      "actionViewUsers": "View Users",
+      "actionAnalytics": "Analytics",
+      "actionDisputes": "Disputes",
+      "actionRevenue": "Revenue",
+      "actionFlagged": "Flagged",
+      "actionAuditLogs": "Audit Logs"
+    },
+    "adminDisputes": {
+      "pageTitle": "Disputes",
+      "pageIntro": "Manage reported issues and disputes",
+      "openDisputesCount": "{count} Open Disputes",
+      "tabOpen": "Open ({count})",
+      "tabResolved": "Resolved ({count})",
+      "cardOpenTitle": "Open Disputes",
+      "cardOpenDesc": "Disputes that require attention and resolution",
+      "cardResolvedTitle": "Resolved Disputes",
+      "cardResolvedDesc": "Disputes that have been resolved",
+      "colId": "ID",
+      "colReporter": "Reporter",
+      "colSubject": "Subject",
+      "colDate": "Date",
+      "colSeverity": "Severity",
+      "colStatus": "Status",
+      "colActions": "Actions",
+      "viewDetail": "View Detail",
+      "emptyMessage": "No disputes found.",
+      "severityHigh": "High",
+      "severityMedium": "Medium",
+      "severityLow": "Low",
+      "statusOpen": "Open",
+      "statusResolved": "Resolved"
+    },
+    "providerEarnings": {
+      "statTotalEarnings": "Total Earnings",
+      "statTotalEarningsDesc": "This year",
+      "statThisMonth": "This Month",
+      "statThisMonthDesc": "March 2026",
+      "statPendingPayout": "Pending Payout",
+      "statPendingPayoutDesc": "Next payout: Apr 7",
+      "statTotalPatients": "Total Patients",
+      "statTotalPatientsDesc": "+8 this month",
+      "recentTitle": "Recent Earnings",
+      "recentDesc": "Per-appointment breakdown",
+      "payoutTitle": "Payout History",
+      "payoutDesc": "Weekly payouts to your bank account",
+      "rangeAll": "All time",
+      "rangeMonth": "This month",
+      "rangeQuarter": "This quarter",
+      "colDate": "Date",
+      "colPatient": "Patient",
+      "colType": "Type",
+      "colGross": "Gross",
+      "colFee": "Fee (10%)",
+      "colNet": "Net",
+      "colAppointments": "Appointments",
+      "colMethod": "Method",
+      "colStatus": "Status",
+      "colAmount": "Amount",
+      "sessions": "{count} sessions",
+      "emptyRecent": "No recent records found.",
+      "emptyPayouts": "No payouts found.",
+      "statusCompleted": "Completed"
+    },
+    "grantWriterEarnings": {
+      "pageTitle": "Earnings",
+      "pageIntro": "Track your revenue, payments, and financial history.",
+      "exportCsv": "Export CSV",
+      "statTotalEarnings": "Total Earnings",
+      "statTotalEarningsTrend": "+18% YoY",
+      "statThisMonth": "This Month",
+      "statThisMonthTrend": "+22% vs last month",
+      "statPendingPayments": "Pending Payments",
+      "statPendingPaymentsTrend": "{count} invoices",
+      "statAvgPerProject": "Avg Per Project",
+      "statAvgPerProjectTrend": "+8% vs last year",
+      "monthlyTitle": "Monthly Earnings",
+      "monthlyDesc": "Revenue over the last 7 months",
+      "tabAll": "All ({count})",
+      "tabPaid": "Paid ({count})",
+      "tabPending": "Pending ({count})"
+    }
+  },
+  "publicHero": {
+    "eyebrow": "Public directory",
+    "signUpFree": "Sign up free",
+    "signIn": "Sign in"
+  },
+  "publicDirectories": {
+    "experts": {
+      "title": "Find a healthcare expert",
+      "description": "Browse verified providers across clinical care, therapy, research, mentorship, and more. Sign up free to message, book, or save profiles."
+    },
+    "preceptors": {
+      "title": "Find a preceptor",
+      "description": "Connect with verified preceptors across nursing, PA, DNP, and allied-health programs. Sign up free to request a placement."
+    },
+    "grants": {
+      "title": "Browse open grants",
+      "description": "Track funding opportunities across NIH, NSF, WHO, foundations, and government agencies. Sign up to save grants, get deadline reminders, and match with writers."
+    },
+    "grantWriters": {
+      "title": "Find a grant writer",
+      "description": "Verified writers with track records across NIH, NSF, foundations, and global-health funders. Sign up free to compare profiles and start a project."
+    },
+    "journals": {
+      "title": "Browse journals",
+      "description": "Peer-reviewed venues across digital health, biomedical research, public health, and informatics. Sign up free to track submissions and shortlist targets."
+    }
+  },
+  "faq": {
+    "eyebrow": "Frequently Asked Questions",
+    "heading": "Answers, fast.",
+    "intro": "Browse the most common questions across accounts, billing, placements, privacy, and troubleshooting. Filter by category or search by keyword.",
+    "didntFindHeading": "Didn't find your answer?",
+    "didntFindBody": "Our support team is ready to help — most replies land within one business day.",
+    "contactSupport": "Contact Support",
+    "howItWorks": "How It Works"
+  },
+  "support": {
+    "eyebrow": "Support",
+    "heading": "We're here to help.",
+    "intro": "Browse self-serve resources, reach our team directly, or submit a support request — whichever is fastest for what you need.",
+    "reachUsHeading": "Reach us directly",
+    "reachUsIntro": "Prefer email, phone, or chat? Pick the channel that fits."
+  },
+  "subscribe": {
+    "success": {
+      "heading": "Payment successful — welcome to SandiLink Pro!",
+      "body": "Your subscription is active and your provider profile is ready to go live. We've emailed your receipt and a quick-start checklist.",
+      "dashboardCardTitle": "Step 5 — Access your dashboard",
+      "dashboardCardDescription": "Finish your profile, set availability, and accept your first bookings.",
+      "goToDashboard": "Go to provider dashboard",
+      "receiptCardTitle": "Receipt & billing",
+      "receiptCardDescription": "Manage your plan, payment method, and history at any time.",
+      "openBilling": "Open billing",
+      "needAnything": "Need anything? Reach our team at"
+    },
+    "failed": {
+      "heading": "Payment failed — please update your card or try again.",
+      "body": "Your subscription was not activated and you have not been charged. Here are the common reasons this happens.",
+      "commonReasonsTitle": "Common reasons",
+      "commonReasonsBody": "Any of the below can stop a payment. Try again with a different card or method.",
+      "reasonCardDeclined": "The card was declined or has expired.",
+      "reasonInsufficientFunds": "Insufficient funds available on the payment method.",
+      "reasonBankFlagged": "Your bank flagged the transaction as suspicious.",
+      "reasonAddressMismatch": "The billing address didn't match what your bank has on file.",
+      "reasonNetworkTimeout": "A network or gateway timeout interrupted the transaction.",
+      "tryAgainTitle": "Try again",
+      "tryAgainDescription": "Use the same plan with a different payment method.",
+      "backToPricing": "Back to pricing",
+      "needHelpTitle": "Need help?",
+      "needHelpDescription": "Our team can help diagnose and unblock the payment.",
+      "contactSupport": "Contact support"
+    }
+  },
+  "pricing": {
+    "eyebrow": "Provider Pricing",
+    "heading": "Simple, flat pricing — no commission, ever.",
+    "intro": "Subscribe once, list your services, and keep 100% of every booking. Choose monthly for flexibility or annual to save 17%.",
+    "tabMonthly": "Monthly",
+    "tabAnnual": "Annual",
+    "save17": "Save 17%",
+    "contextRegisterTitle": "One step left — pick a plan",
+    "contextRegisterBody": "Care providers need an active subscription before reaching the dashboard. Choose a plan below to finish registration.",
+    "contextGateTitle": "Subscription required",
+    "contextGateBody": "Your provider dashboard needs an active subscription. Pick a plan to restore access.",
+    "usdNote": "Prices listed in USD. You will be charged in your local currency, converted to USD at checkout.",
+    "why": {
+      "heading": "Why our pricing is different",
+      "subheading": "Most marketplaces take 15–30% off every booking. We don't.",
+      "earningsTitle": "Keep 100% of your earnings",
+      "earningsBody": "SandiLink takes no commission on bookings. You pay a flat subscription, your clients pay you, and the full booking amount goes to you.",
+      "currencyTitle": "Pay in your local currency",
+      "currencyBody": "Stripe, PayPal, and regional gateways handle conversion. The platform settles in USD; you and your clients see prices in your local currency.",
+      "cancelTitle": "Cancel anytime",
+      "cancelBody": "No long-term contracts. Cancel from your billing dashboard and keep access until the end of your current period."
+    },
+    "payments": {
+      "heading": "Pay your way",
+      "subheading": "Phase 1 gateways are live now. Phase 2 regional gateways come online as we expand.",
+      "phase1Label": "Phase 1 — available now",
+      "phase2Label": "Phase 2 — global expansion"
+    },
+    "faq": {
+      "heading": "Pricing FAQ",
+      "q1": "Do you take a commission on my bookings?",
+      "a1": "No. SandiLink is subscription-only for providers — you pay a flat monthly or annual fee, and you keep 100% of what your clients pay you.",
+      "q2": "Can I switch plans later?",
+      "a2": "Yes. Upgrade or downgrade from your provider billing dashboard at any time. Upgrades take effect immediately; downgrades apply at your next renewal.",
+      "q3": "What happens if my payment fails?",
+      "a3": "We'll email you and retry over a few days. If it can't be collected, your public listing is paused (not deleted) until you update your payment method.",
+      "q4": "Which payment methods are supported?",
+      "a4": "Credit and debit cards, Apple Pay, Google Pay, and PayPal at launch. Regional gateways including Flutterwave, Paystack, M-Pesa, Razorpay, and MercadoPago come online as we expand globally."
+    },
+    "finalCta": {
+      "heading": "Ready to start earning?",
+      "body": "Create your provider account, complete your profile, and pick the plan that fits.",
+      "primary": "Create provider account",
+      "secondary": "How it works"
+    }
+  },
+  "trustSafety": {
+    "eyebrow": "Trust & Safety",
+    "heading": "Built for people. Protected by policy.",
+    "intro": "SandiLink is a global marketplace, which means real people make real connections through it. Here's how we keep that experience safe, transparent, and accountable.",
+    "reportIssue": "Report an issue",
+    "readPrivacy": "Read the Privacy Policy",
+    "pillars": {
+      "heading": "Six pillars of platform safety",
+      "subheading": "Every SandiLink interaction is shaped by these guardrails.",
+      "verificationTitle": "Verification at every signup",
+      "verificationBody": "Care providers, preceptors, students, researchers, and grant writers submit credentials, licensure, or program enrollment before a profile goes public. Incomplete profiles are excluded from search.",
+      "moderationTitle": "Active moderation",
+      "moderationBody": "Profiles, reviews, and messages flagged by users or our systems land in a moderation queue. Admins approve, remove, suspend, or warn — every action is logged.",
+      "privacyTitle": "Privacy and PHI controls",
+      "privacyBody": "Intake forms and health information are encrypted in transit and at rest. PHI is visible only to the assigned care provider — never to platform admins or other users.",
+      "securityTitle": "Account security",
+      "securityBody": "Optional two-factor authentication, email verification, password reset flows, and audit logging on every sensitive action keep accounts under your control.",
+      "paymentsTitle": "Secure payments",
+      "paymentsBody": "Payments run through Stripe, PayPal, and regional gateways (Flutterwave, Paystack, M-Pesa, Razorpay, MercadoPago). We never store full card numbers.",
+      "disputesTitle": "Dispute resolution",
+      "disputesBody": "If something goes wrong, file a dispute. Our team reviews communications, applies platform policy, and issues a documented resolution."
+    },
+    "policies": {
+      "heading": "What you should know before you book",
+      "subheading": "SandiLink protects users — but a marketplace works best when everyone shows up informed.",
+      "whoTitle": "Who you can find on SandiLink",
+      "whoBody": "Independent professionals offer their own services and are responsible for delivering them. SandiLink is a marketplace — we facilitate connection and payment, but we do not employ providers or guarantee clinical outcomes.",
+      "dueDiligenceTitle": "Your due diligence matters",
+      "dueDiligenceBody": "Always confirm a provider's credentials with the appropriate licensing body, ask for references, and review profile ratings and reviews before booking.",
+      "communicationTitle": "Keep communication on the platform",
+      "communicationBody": "On-platform messaging gives both sides a record, supports dispute resolution, and lets us moderate when something goes wrong. Off-platform contact is at your own risk.",
+      "emergenciesTitle": "Emergencies are not for SandiLink",
+      "emergenciesBody": "SandiLink is not an emergency service. For medical emergencies call 911 (or your local emergency number). For mental health crises in the US, call or text 988."
+    },
+    "reporting": {
+      "heading": "How to report something",
+      "subheading": "If something feels off — a profile, a review, a message, a payment — report it. We take every report seriously.",
+      "stepLabel": "Step",
+      "s1Title": "Use the Report button",
+      "s1Body": "Every profile, review, and message has a report option. Pick the closest reason and add detail — what happened, when, and the user(s) involved.",
+      "s2Title": "We triage within 1 business day",
+      "s2Body": "Reports go to admin moderation and disputes. Sensitive cases (safety, fraud, PHI breach) are escalated immediately.",
+      "s3Title": "Action is taken and logged",
+      "s3Body": "Outcomes range from a warning to content removal, account suspension, or permanent ban. Every step is recorded in the audit log.",
+      "s4Title": "You hear back",
+      "s4Body": "We close the loop with the reporting user — the resolution, what happens next, and how to escalate if you disagree."
+    },
+    "finalCta": {
+      "heading": "See something? Tell us.",
+      "body": "Our trust & safety team responds to reports within one business day. For urgent safety issues, mark your message as urgent — we'll triage it immediately.",
+      "primary": "Contact Support",
+      "secondary": "Browse the FAQ"
+    }
+  },
+  "howItWorks": {
+    "eyebrow": "How it works",
+    "heading": "Six steps from sign-up to booking.",
+    "intro": "SandiLink connects service users, providers, students, preceptors, researchers, and grant writers across three global marketplaces. Here's the flow that powers every booking, placement, and grant project.",
+    "ctaCreate": "Create your account",
+    "ctaFaq": "Read the FAQ",
+    "stepLabel": "Step",
+    "flow": {
+      "heading": "How a SandiLink engagement flows",
+      "subheading": "The same six steps power every booking, placement, and grant project — only the participants change.",
+      "s1Title": "Create your account",
+      "s1Body": "Choose your role — service user, care provider, student, preceptor, institution, researcher, or grant writer — and tell us what you need.",
+      "s2Title": "Complete your profile",
+      "s2Body": "Add credentials, specialties, availability, and a short bio. Professionals subscribe to activate their public listing.",
+      "s3Title": "Discover the right match",
+      "s3Body": "Search public directories or let our matching engine surface the best providers, preceptors, or grant writers for you.",
+      "s4Title": "Message and agree on terms",
+      "s4Body": "Open a thread, ask questions, share intake forms or proposals, and confirm scope before booking.",
+      "s5Title": "Book and pay securely",
+      "s5Body": "Pay in your local currency through Stripe, PayPal, or a regional gateway. Funds are settled in USD on the platform side.",
+      "s6Title": "Engage, track, and review",
+      "s6Body": "Run the appointment, placement, or project on the platform — track hours, deliverables, evaluations — and leave a review at completion."
+    },
+    "verticals": {
+      "heading": "How it works in each marketplace",
+      "subheading": "Three verticals, one consistent flow. Pick the one closest to what you need.",
+      "healthcareTitle": "Healthcare Services",
+      "healthcareSummary": "Service users connect with independent doctors, nurses, allied health, caregivers, wellness practitioners, and community health workers.",
+      "healthcareFlow1": "Search providers by specialty, location, rating, or delivery mode",
+      "healthcareFlow2": "Open a profile, message, and book a virtual or in-person session",
+      "healthcareFlow3": "Complete intake, pay, attend the appointment, and leave a review",
+      "healthcareCta": "Find a Provider",
+      "educationTitle": "Education / Preceptor Connect™",
+      "educationSummary": "Students and institutions request clinical placements with preceptors who list their availability, capacity, and accepted programs.",
+      "educationFlow1": "Students upload credentials and set specialty + location preferences",
+      "educationFlow2": "Send a placement request with start date, hours, and scope",
+      "educationFlow3": "Preceptor accepts; track hours, documents, evaluations through completion",
+      "educationCta": "Find a Preceptor",
+      "researchTitle": "Research & Grants",
+      "researchSummary": "Researchers find grant writers, browse curated grants and journals, and run collaborations with deliverables and milestones.",
+      "researchFlow1": "Browse grants, journals, or matched grant writers",
+      "researchFlow2": "Send a collaboration request with scope, deadline, and funding amount",
+      "researchFlow3": "Track deliverables, manuscripts, and submissions in a shared workspace",
+      "researchCta": "Find a Grant Writer"
+    },
+    "why": {
+      "heading": "Why people choose SandiLink",
+      "subheading": "We removed the gatekeepers without removing the guardrails.",
+      "verificationTitle": "Verification at every step",
+      "verificationBody": "Profiles include credentials, licensure, and program enrollment. Reviews and admin moderation keep the marketplace honest.",
+      "subscriptionTitle": "Subscription-only for providers",
+      "subscriptionBody": "Care providers pay a flat subscription and keep 100% of their earnings — no per-booking commission.",
+      "globalTitle": "Built for global reach",
+      "globalBody": "20+ countries supported on day one, with Tier 1 multilingual UI (English, Spanish, French) and a roadmap for Portuguese, Arabic, Swahili, Mandarin, and Hindi.",
+      "pricingTitle": "Transparent pricing & local payments",
+      "pricingBody": "Pay in your local currency via Stripe, PayPal, or regional gateways like Flutterwave, Paystack, M-Pesa, Razorpay, and MercadoPago."
+    },
+    "finalCta": {
+      "heading": "Ready to get connected?",
+      "body": "Create your account, choose your role, and start booking, placing, or collaborating in minutes.",
+      "primary": "Create your account",
+      "secondary": "Read about Trust & Safety"
+    }
+  },
+  "subscribeCheckout": {
+    "backToPricing": "Back to pricing",
+    "headingPrefix": "Subscribe to",
+    "stepIndicator": "Step 4 of 5 — Payment. After checkout, you'll be redirected to your provider dashboard.",
+    "processing": "Processing payment…",
+    "payNow": "Pay now"
+  },
+  "profilePages": {
+    "provider": {
+      "title": "Provider Profile",
+      "intro": "Manage your professional profile, credentials, and rates."
+    },
+    "student": {
+      "title": "Student Profile",
+      "intro": "Manage your personal and academic information."
+    },
+    "institution": {
+      "title": "Organization Profile",
+      "intro": "Manage your institution's information."
+    },
+    "preceptor": {
+      "title": "Preceptor Profile",
+      "intro": "Manage your profile, specialty, capacity, and availability."
+    },
+    "researcher": {
+      "title": "Researcher Profile",
+      "intro": "Manage your personal, institutional, and research information."
+    },
+    "grantWriter": {
+      "title": "Grant Writer Profile",
+      "intro": "Manage your professional profile, expertise, and rates."
+    }
+  },
+  "serviceUserPages": {
+    "engagements": {
+      "title": "My Engagements",
+      "intro": "View, manage, and track your appointments and projects."
+    },
+    "experts": {
+      "title": "Find Experts",
+      "intro": "Discover professionals across clinical care, research, grant writing, and mentorship."
+    },
+    "messages": {
+      "title": "Messages",
+      "intro": "Communicate with your healthcare providers."
+    },
+    "payments": {
+      "title": "Payment History",
+      "intro": "View your transactions, receipts, and manage payment methods."
+    },
+    "preferences": {
+      "title": "Preferences",
+      "intro": "Customize how SandiLink works for you."
+    },
+    "profile": {
+      "title": "Profile",
+      "intro": "Manage your personal information and how others see you on the platform."
+    },
+    "settings": {
+      "title": "Account Settings",
+      "intro": "Manage your account security, notifications, and data."
+    }
+  },
+  "serviceUserDetail": {
+    "bookingSuccess": {
+      "heading": "Booking Confirmed!",
+      "body": "Your appointment has been successfully booked and payment processed.",
+      "confirmationIdLabel": "Confirmation ID:"
+    },
+    "reviewForm": {
+      "thankYouHeading": "Thank you for your review!"
+    },
+    "bookingDetails": {
+      "backToBookings": "Back to bookings"
+    }
+  },
+  "sidebar": {
+    "groups": {
+      "overview": "Overview",
+      "menu": "Menu",
+      "content": "Content",
+      "account": "Account",
+      "configuration": "Configuration",
+      "research": "Research",
+      "system": "System",
+      "internationalization": "Internationalization",
+      "catalogs": "Catalogs",
+      "insights": "Insights",
+      "work": "Work",
+      "discover": "Discover"
+    },
+    "items": {
+      "dashboard": "Dashboard",
+      "analytics": "Analytics",
+      "users": "Users",
+      "flaggedContent": "Flagged Content",
+      "disputes": "Disputes",
+      "moderation": "Moderation",
+      "reviews": "Reviews",
+      "plans": "Plans",
+      "commission": "Commission",
+      "matching": "Matching",
+      "payments": "Payments",
+      "templates": "Templates",
+      "researchers": "Researchers",
+      "grantWriters": "Grant Writers",
+      "grantsDirectory": "Grants Directory",
+      "journals": "Journals",
+      "researchAnalytics": "Research Analytics",
+      "researchMatching": "Research Matching",
+      "researcherPlans": "Researcher Plans",
+      "writerCommission": "Writer Commission",
+      "languages": "Languages",
+      "translations": "Translations",
+      "localizedContent": "Localized Content",
+      "providerCategories": "Provider Categories",
+      "specialties": "Specialties",
+      "serviceTypes": "Service Types",
+      "credentials": "Credentials",
+      "deliveryModes": "Delivery Modes",
+      "roleMappings": "Role Mappings",
+      "auditLogs": "Audit Logs",
+      "system": "System",
+      "compliance": "Compliance",
+      "settings": "Settings",
+      "findExperts": "Find Experts",
+      "myEngagements": "My Engagements",
+      "messages": "Messages",
+      "profile": "Profile",
+      "preferences": "Preferences",
+      "myWork": "My Work",
+      "schedule": "Schedule",
+      "earnings": "Earnings",
+      "billing": "Billing",
+      "findMentors": "Find Mentors",
+      "myPlacements": "My Placements",
+      "availability": "Availability",
+      "requests": "Requests",
+      "myStudents": "My Students",
+      "students": "Students",
+      "placements": "Placements",
+      "findPreceptors": "Find Preceptors",
+      "agreements": "Agreements",
+      "reports": "Reports",
+      "organizationProfile": "Organization Profile",
+      "myResearch": "My Research",
+      "publications": "Publications",
+      "grantApplications": "Grant Applications",
+      "findGrants": "Find Grants",
+      "journalDirectory": "Journal Directory",
+      "findGrantWriters": "Find Grant Writers",
+      "savedGrants": "Saved Grants",
+      "submissions": "Submissions",
+      "activeProjects": "Active Projects",
+      "myClients": "My Clients",
+      "portfolio": "Portfolio",
+      "deliverables": "Deliverables",
+      "packages": "Packages"
+    }
+  },
+  "chrome": {
+    "searchPlaceholder": "Search...",
+    "notifications": "Notifications",
+    "adminNotifications": "Admin Notifications",
+    "viewAll": "View all",
+    "viewAllNotifications": "View all notifications",
+    "signOut": "Sign out",
+    "lightMode": "Light mode",
+    "darkMode": "Dark mode",
+    "settings": "Settings",
+    "profile": "Profile",
+    "newCount": "{count} new"
+  },
+  "dashboardCard": {
+    "shared": {
+      "viewAll": "View all",
+      "fullSchedule": "Full schedule",
+      "fullAnalytics": "Full analytics",
+      "quickActions": "Quick Actions",
+      "accept": "Accept",
+      "decline": "Decline",
+      "projectProgress": "Project progress"
+    },
+    "status": {
+      "active": "Active",
+      "pending": "Pending",
+      "completed": "Completed",
+      "inProgress": "In Progress",
+      "upcoming": "Upcoming",
+      "virtual": "Virtual",
+      "inPerson": "In-person"
+    },
+    "provider": {
+      "statTodaysEngagements": "Today's Engagements",
+      "statTodaysEngagementsDesc": "{virtual} virtual, {inPerson} in-person",
+      "statPendingRequests": "Pending Requests",
+      "statPendingRequestsDesc": "Awaiting your response",
+      "statMonthlyEarnings": "This Month's Earnings",
+      "statMonthlyEarningsDesc": "{trend} vs last month",
+      "statOverallRating": "Overall Rating",
+      "statOverallRatingDesc": "{count} reviews",
+      "sectionTodaysSchedule": "Today's Schedule",
+      "sectionPendingRequests": "Pending Requests",
+      "sectionPendingRequestsDesc": "Awaiting your response",
+      "actionManageSchedule": "Manage Schedule",
+      "actionViewMessages": "View Messages",
+      "actionEarnings": "Earnings",
+      "actionClientReviews": "Client Reviews"
+    },
+    "student": {
+      "statActivePlacements": "Active Placements",
+      "statPendingRequests": "Pending Requests",
+      "statPendingRequestsDesc": "Awaiting preceptor response",
+      "statHoursCompleted": "Hours Completed",
+      "statHoursCompletedDesc": "of {total} required",
+      "statCredentials": "Credentials",
+      "statCredentialsDesc": "{pending} pending verification",
+      "sectionActivePlacements": "Active Placements",
+      "sectionActivePlacementsDesc": "Your current clinical rotations",
+      "sectionPendingRequests": "Pending Requests",
+      "sectionPendingRequestsDesc": "Awaiting preceptor response",
+      "clinicalHoursLabel": "Clinical hours",
+      "sentLabel": "Sent {date}",
+      "actionFindPreceptors": "Find Preceptors",
+      "actionUploadCredentials": "Upload Credentials",
+      "actionMessages": "Messages",
+      "actionMyProfile": "My Profile"
+    },
+    "preceptor": {
+      "statActiveStudents": "Active Students",
+      "statActiveStudentsDesc": "of {max} max capacity",
+      "statPendingRequests": "Pending Requests",
+      "statPendingRequestsDesc": "Awaiting your response",
+      "statTotalMentored": "Total Mentored",
+      "statTotalMentoredDesc": "Career total",
+      "statAvgRating": "Avg. Student Rating",
+      "statAvgRatingDesc": "From {count} reviews",
+      "sectionActiveStudents": "Active Students",
+      "sectionActiveStudentsDesc": "Students currently in your rotation",
+      "sectionPendingRequests": "Pending Requests",
+      "sectionPendingRequestsDesc": "New placement requests",
+      "hoursLabel": "Hours",
+      "sinceLabel": "Since {date}",
+      "actionManageSchedule": "Manage Schedule",
+      "actionViewRequests": "View Requests",
+      "actionMessages": "Messages",
+      "actionMyProfile": "My Profile"
+    },
+    "institution": {
+      "statTotalStudents": "Total Students",
+      "statTotalStudentsDesc": "{active} active in placements",
+      "statActivePlacements": "Active Placements",
+      "statActivePlacementsDesc": "Across {count} preceptors",
+      "statPendingRequests": "Pending Requests",
+      "statPendingRequestsDesc": "Awaiting preceptor response",
+      "statPlacementRate": "Placement Rate",
+      "statPlacementRateDesc": "{trend} vs last semester",
+      "sectionRecentPlacements": "Recent Placements",
+      "sectionRecentPlacementsDesc": "Student placement activity",
+      "actionManageStudents": "Manage Students",
+      "actionFindPreceptors": "Find Preceptors",
+      "actionAssignPlacements": "Assign Placements",
+      "actionImportStudents": "Import Students",
+      "actionViewReports": "View Reports",
+      "actionAgreements": "Agreements"
+    },
+    "researcher": {
+      "statActiveProjects": "Active Projects",
+      "statActiveProjectsDesc": "{funded} funded, {inProgress} in progress",
+      "statGrantApplications": "Grant Applications",
+      "statGrantApplicationsDesc": "{awarded} awarded, {pending} pending review",
+      "statPublications": "Publications",
+      "statPublicationsDesc": "{review} under review",
+      "statHIndex": "h-index",
+      "statHIndexDesc": "{trend} this year",
+      "sectionActiveGrants": "Active Grants",
+      "sectionActiveGrantsDesc": "Your funded and pending grant applications",
+      "sectionUpcomingDeadlines": "Upcoming Deadlines",
+      "sectionUpcomingDeadlinesDesc": "Grants, submissions & reports",
+      "sectionRecentPublications": "Recent Publications",
+      "sectionRecentPublicationsDesc": "Your latest research output",
+      "actionFindGrants": "Find Grants",
+      "actionSubmitManuscript": "Submit Manuscript",
+      "actionFindGrantWriters": "Find Grant Writers",
+      "actionBrowseJournals": "Browse Journals"
+    },
+    "grantWriter": {
+      "statActiveProjects": "Active Projects",
+      "statActiveProjectsDesc": "{proposals} proposals, {revisions} revision, {reviews} review",
+      "statEarningsMtd": "Earnings (MTD)",
+      "statEarningsMtdDesc": "{trend} vs last month",
+      "statSuccessRate": "Success Rate",
+      "statSuccessRateDesc": "{won} of {total} grants funded",
+      "statClientRating": "Client Rating",
+      "statClientRatingDesc": "{count} reviews",
+      "sectionActiveProjects": "Active Projects",
+      "sectionActiveProjectsDesc": "Proposals and reviews in progress",
+      "sectionPendingRequests": "Pending Requests",
+      "sectionPendingRequestsDesc": "New collaboration requests",
+      "sectionRecentWins": "Recent Wins",
+      "sectionRecentWinsDesc": "Grants you helped fund",
+      "actionViewRequests": "View Requests",
+      "actionEarnings": "Earnings",
+      "actionMessages": "Messages",
+      "actionMyProfile": "My Profile"
+    },
+    "admin": {
+      "statTotalUsers": "Total Users",
+      "statActiveBookings": "Active Bookings",
+      "statRevenueMtd": "Revenue (MTD)",
+      "statActivePlacements": "Active Placements",
+      "sectionUserRegistration": "User Registration by Role",
+      "sectionUserRegistrationDesc": "Breakdown of all registered users",
+      "actionViewUsers": "View Users",
+      "actionAnalytics": "Analytics",
+      "actionDisputes": "Disputes",
+      "actionRevenue": "Revenue",
+      "actionFlagged": "Flagged",
+      "actionAuditLogs": "Audit Logs"
+    }
+  }
+}

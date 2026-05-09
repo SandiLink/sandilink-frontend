@@ -1,0 +1,1021 @@
+{
+  "common": {
+    "signIn": "Iniciar sesión",
+    "getStarted": "Empezar",
+    "createAccount": "Crear tu cuenta",
+    "openMenu": "Abrir menú",
+    "comingSoon": "Próximamente"
+  },
+  "nav": {
+    "marketplaces": "Mercados",
+    "howItWorks": "Cómo funciona",
+    "pricing": "Precios",
+    "resources": "Recursos",
+    "marketplacesEyebrow": "Tres mercados conectados",
+    "resourcesEyebrow": "Ayuda y documentación",
+    "marketplacesCta": "Ver cómo funciona SandiLink",
+    "resourcesCta": "Hablar con nuestro equipo",
+    "items": {
+      "healthcare": {
+        "title": "Servicios de Salud",
+        "description": "Los usuarios conectan con médicos, enfermeros, profesionales de salud aliados, cuidadores y practicantes de bienestar."
+      },
+      "preceptor": {
+        "title": "Preceptor Connect™",
+        "description": "Estudiantes e instituciones solicitan prácticas clínicas con preceptores verificados."
+      },
+      "research": {
+        "title": "Investigación y Subvenciones",
+        "description": "Investigadores encuentran redactores de subvenciones, exploran becas y revistas y gestionan colaboraciones."
+      },
+      "faq": {
+        "title": "Preguntas frecuentes",
+        "description": "Respuestas a las preguntas más comunes sobre SandiLink."
+      },
+      "trust": {
+        "title": "Confianza y Seguridad",
+        "description": "Cómo verificamos usuarios, protegemos datos y resolvemos disputas."
+      },
+      "support": {
+        "title": "Soporte",
+        "description": "Contacta con nuestro equipo o envía una solicitud de soporte."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "El mercado global de servicios que conecta atención, aprendizaje e investigación.",
+    "marketplacesHeading": "Mercados",
+    "platformHeading": "Plataforma",
+    "getStartedHeading": "Empezar",
+    "legalHeading": "Legal",
+    "links": {
+      "healthcare": "Servicios de Salud",
+      "preceptor": "Preceptor Connect™",
+      "research": "Investigación y Subvenciones",
+      "grantWriters": "Redactores de Subvenciones",
+      "journals": "Revistas",
+      "howItWorks": "Cómo funciona",
+      "pricing": "Precios",
+      "trust": "Confianza y Seguridad",
+      "faq": "Preguntas frecuentes",
+      "support": "Soporte",
+      "signIn": "Iniciar sesión",
+      "createAccount": "Crear cuenta",
+      "forgotPassword": "Olvidé mi contraseña",
+      "terms": "Términos de servicio",
+      "privacy": "Política de privacidad",
+      "cookies": "Política de cookies",
+      "termsShort": "Términos",
+      "privacyShort": "Privacidad",
+      "cookiesShort": "Cookies",
+      "providerAgreement": "Acuerdo del prestador"
+    },
+    "disclaimer": "<strong>Aviso:</strong> SandiLink no proporciona atención médica ni servicios clínicos. No verificamos credenciales; los usuarios deben realizar su propia diligencia. Llama al 911 o al número de emergencia local en caso de emergencia médica.",
+    "rights": "© {year} One Sandi. Todos los derechos reservados."
+  },
+  "languageSwitcher": {
+    "label": "Idioma",
+    "current": "Idioma actual: {language}",
+    "tier1": "Disponible ahora",
+    "tier2": "Próximamente",
+    "untranslated": "Traducción pendiente"
+  },
+  "landing": {
+    "hero": {
+      "badge": "Confiado por más de 500 profesionales en más de 20 países",
+      "headlinePart1": "Conectando personas con",
+      "headlineHighlight": "atención, aprendizaje e investigación",
+      "headlinePart2": "— en cualquier lugar del mundo.",
+      "subheadline": "SandiLink es el mercado global que une a usuarios de servicios de salud, proveedores, estudiantes, preceptores, investigadores y redactores de subvenciones en una plataforma fluida y centrada en las personas.",
+      "primaryCta": "Empezar",
+      "secondaryCta": "Explorar servicios"
+    },
+    "explainer": {
+      "eyebrow": "Resumen de 60 segundos",
+      "heading": "Mira cómo funciona SandiLink.",
+      "subheading": "¿Y si conectar con atención, un mentor o un redactor de subvenciones fuera tan fácil como un clic?",
+      "placeholderTitle": "Vídeo explicativo de 60 segundos",
+      "placeholderSubtitle": "Próximamente — alojado en YouTube, reproducción manual."
+    },
+    "about": {
+      "eyebrow": "Sobre SandiLink",
+      "heading": "Una plataforma. Caminos ilimitados hacia el apoyo y la experiencia.",
+      "lede": "Un mercado global construido para el acceso, la conexión y la oportunidad.",
+      "body": "SandiLink es el mercado insignia de One Sandi Platform — diseñado para eliminar barreras y facilitar que las personas encuentren el apoyo, la experiencia y los caminos que necesitan. Ya sea que alguien busque servicios de salud, prácticas clínicas o colaboración en investigación, SandiLink lo reúne todo en un sistema intuitivo, inclusivo y globalmente accesible.",
+      "tilesHealthcare": "Salud",
+      "tilesHealthcareDesc": "Proveedores, bienestar, cuidadores",
+      "tilesEducation": "Educación",
+      "tilesEducationDesc": "Estudiantes, preceptores, escuelas",
+      "tilesResearch": "Investigación",
+      "tilesResearchDesc": "Subvenciones, revistas, colaboración",
+      "tilesGlobal": "Global",
+      "tilesGlobalDesc": "Más de 20 países, una misión"
+    },
+    "marketplaces": {
+      "heading": "Una plataforma. Tres mercados interconectados.",
+      "subheading": "Posibilidades ilimitadas.",
+      "healthcare": {
+        "tag": "Servicios de Salud",
+        "title": "Mercado de Servicios de Salud",
+        "lede": "Un punto de acceso global para apoyo en salud.",
+        "body": "Personas, familias y comunidades pueden conectar con profesionales y no profesionales independientes — incluyendo médicos, enfermeros, profesionales de salud aliados, cuidadores, practicantes de bienestar, agentes comunitarios de salud y acompañantes.",
+        "callout": "SandiLink amplía el acceso, reduce barreras y ayuda a las personas a encontrar la atención adecuada en el momento adecuado.",
+        "cta": "Encontrar un Proveedor",
+        "roleDoctors": "Médicos y especialistas",
+        "roleNurses": "Enfermeros y salud aliada",
+        "roleWellness": "Bienestar y cuidadores",
+        "roleCommunity": "Agentes comunitarios"
+      },
+      "education": {
+        "tag": "Preceptor Connect™",
+        "title": "Mercado de Educación",
+        "lede": "Un camino dedicado para prácticas clínicas y mentoría.",
+        "bullet1": "Los estudiantes encuentran preceptores y mentores clínicos",
+        "bullet2": "Los preceptores publican su disponibilidad y especialidades",
+        "bullet3": "Las escuelas y programas académicos ganan estructura, claridad y transparencia",
+        "callout": "SandiLink simplifica el proceso de prácticas clínicas y apoya el desarrollo profesional.",
+        "cta": "Encontrar un Preceptor",
+        "studentsLabel": "Estudiantes",
+        "preceptorsLabel": "Preceptores"
+      },
+      "research": {
+        "tag": "Investigación y Subvenciones",
+        "title": "Mercado de Investigación y Subvenciones",
+        "lede": "Un centro global para la colaboración investigadora y el apoyo a la financiación.",
+        "bullet1": "Los investigadores conectan con redactores de subvenciones, exploran financiación y acceden a vías editoriales",
+        "bullet2": "Los redactores muestran su experiencia y hacen crecer su práctica",
+        "bullet3": "Las revistas y equipos académicos ganan un espacio unificado para colaborar",
+        "callout": "SandiLink conecta a la comunidad investigadora global con las herramientas y personas que necesita.",
+        "cta": "Encontrar un Redactor",
+        "stat1Label": "Descubrimiento de subvenciones",
+        "stat1Value": "Más de 1.200 subvenciones",
+        "stat2Label": "Emparejamiento de redactores",
+        "stat2Value": "67 expertos",
+        "stat3Label": "Acceso a revistas",
+        "stat3Value": "Más de 45 revistas"
+      }
+    },
+    "whySandilink": {
+      "heading": "¿Por qué SandiLink?",
+      "subheading": "Escenarios reales. Personas reales. Alcance real — en tres mercados.",
+      "groups": {
+        "healthcare": "Salud",
+        "education": "Educación / Preceptor Connect™",
+        "research": "Investigación y Subvenciones"
+      },
+      "scenarios": {
+        "hc1Headline": "Un hijo en Houston conecta con un médico en Sierra Leona para cuidar a su madre — sin que las fronteras se interpongan.",
+        "hc1Body": "SandiLink hace posible que las familias coordinen el cuidado de sus seres queridos a través de continentes.",
+        "hc2Headline": "Una joven en Atlanta encuentra a una enfermera de práctica avanzada en Lagos para orientación virtual de salud reproductiva.",
+        "hc2Body": "El acceso a una atención culturalmente alineada se vuelve simple, seguro y directo.",
+        "hc3Headline": "Una cuidadora en Nueva Jersey conecta con un agente comunitario de salud en Ghana para apoyar las necesidades diarias de su padre.",
+        "hc3Body": "SandiLink extiende las redes de cuidado más allá de la geografía, el idioma y los recursos locales.",
+        "ed1Headline": "Una estudiante de enfermería en Filipinas conecta con un preceptor certificado en Houston — sin filtros, sin listas de espera.",
+        "ed1Body": "SandiLink elimina las barreras al aprendizaje clínico y la mentoría.",
+        "ed2Headline": "Una estudiante de salud pública en India consigue una práctica remota con un mentor estadounidense que entiende sus objetivos.",
+        "ed2Body": "La geografía ya no limita el desarrollo profesional.",
+        "ed3Headline": "Un preceptor en Misisipi publica su disponibilidad y conecta al instante con estudiantes que necesitan prácticas ahora.",
+        "ed3Body": "SandiLink apoya ambos lados del viaje de aprendizaje.",
+        "rg1Headline": "Un investigador en Nairobi conecta con un redactor de subvenciones en Londres para preparar una solicitud de financiación competitiva.",
+        "rg1Body": "SandiLink acelera la investigación conectando experiencia a través de fronteras.",
+        "rg2Headline": "Una doctoranda en Chicago encuentra a un editor de revista en Sudáfrica para guiar el envío de su manuscrito.",
+        "rg2Body": "El apoyo se vuelve accesible, personal y oportuno.",
+        "rg3Headline": "Un equipo de investigación en Brasil colabora con redactores estadounidenses para asegurar financiación de un proyecto comunitario.",
+        "rg3Body": "SandiLink fortalece el descubrimiento global a través de alianzas significativas."
+      }
+    },
+    "approach": {
+      "heading": "Tecnología diseñada en torno a las personas — no a las instituciones.",
+      "pillar1Title": "Diseño centrado en las personas",
+      "pillar1Body": "Construido en torno a experiencias, necesidades y desafíos reales de las personas que buscan atención, educación y colaboración.",
+      "pillar2Title": "Accesibilidad global",
+      "pillar2Body": "Diseñado para escalar a través de fronteras, culturas y comunidades — haciendo el apoyo experto disponible para todas las personas, en todas partes.",
+      "pillar3Title": "Confianza y transparencia",
+      "pillar3Body": "Diseño ético, comunicación clara y principios centrados en el usuario. Cada profesional se verifica antes de ponerse en marcha.",
+      "pillar4Title": "Automatización con propósito",
+      "pillar4Body": "Emparejamiento inteligente, flujos optimizados y herramientas que reducen la fricción para que las personas se concentren en lo importante."
+    },
+    "mission": {
+      "eyebrow": "Nuestra Misión",
+      "heading": "Porque acceder debería ser simple — no estresante.",
+      "lede": "SandiLink se creó para resolver un problema global: personas en todo el mundo luchan por acceder a atención, conseguir prácticas clínicas o encontrar apoyo a la investigación.",
+      "missionTitle": "Nuestra Misión",
+      "missionBody": "Construir sistemas escalables y centrados en las personas que empoderen a las personas independientemente de su geografía, origen o recursos.",
+      "visionTitle": "Nuestra Visión",
+      "visionBody": "Un mundo donde la salud sea accesible, la educación esté apoyada y la investigación sea colaborativa y globalmente conectada.",
+      "tileHealthcare": "Salud",
+      "tileHealthcareValue": "Accesible",
+      "tileEducation": "Educación",
+      "tileEducationValue": "Apoyada",
+      "tileResearch": "Investigación",
+      "tileResearchValue": "Conectada",
+      "tileCommunity": "Comunidad",
+      "tileCommunityValue": "Global"
+    },
+    "community": {
+      "heading": "Una comunidad global de usuarios, proveedores y socios.",
+      "body": "SandiLink apoya a personas, familias, proveedores de salud, estudiantes, preceptores, investigadores, redactores de subvenciones, revistas e instituciones de todo el mundo.",
+      "accent": "Estamos construyendo un ecosistema conectado que fortalece la atención, el aprendizaje y el descubrimiento.",
+      "cta": "Únete a la comunidad",
+      "roleServiceUsers": "Usuarios",
+      "roleProviders": "Proveedores",
+      "roleStudents": "Estudiantes",
+      "rolePreceptors": "Preceptores",
+      "roleResearchers": "Investigadores",
+      "roleGrantWriters": "Redactores",
+      "roleInstitutions": "Instituciones"
+    },
+    "founding": {
+      "statProviders": "Proveedores",
+      "statCountries": "Países",
+      "statMarketplaces": "Mercados",
+      "statMission": "Misión",
+      "testimonialsHeading": "Lo que dicen nuestros miembros",
+      "testimonialsBody": "Voces reales de la primera comunidad de SandiLink.",
+      "founderBadge": "Un mensaje de nuestra fundadora",
+      "founderQuote": "Construimos SandiLink porque el talento no debería estar limitado por el acceso. De la salud a la preceptoría, a la investigación y subvenciones, conectamos personas en tres mercados con propósito. Apenas estamos comenzando — y cada persona que se une ahora ayuda a dar forma a lo que viene.",
+      "founderRole": "Fundadora y CEO",
+      "founderCompany": "SandiLink",
+      "limitedTime": "Tiempo limitado",
+      "heading": "Conviértete en miembro fundador",
+      "subheading": "Únete ahora y recibe beneficios exclusivos reservados para los primeros miembros de nuestra comunidad.",
+      "benefit1Title": "Acceso anticipado",
+      "benefit1Body": "Sé el primero en los tres mercados: Servicios de Salud, Preceptor Connect™ e Investigación y Subvenciones.",
+      "benefit2Title": "Posición prioritaria",
+      "benefit2Body": "Los miembros fundadores reciben posicionamiento prioritario en el directorio, haciéndote más visible para aprendices, colaboradores y oportunidades.",
+      "benefit3Title": "Influencia directa en las funciones",
+      "benefit3Body": "Da forma a la plataforma. Los miembros fundadores tienen línea directa con el equipo de producto, y tu retroalimentación influye en lo que construimos.",
+      "benefit4Title": "Insignia vitalicia de miembro fundador",
+      "benefit4Body": "Una insignia permanente en tu perfil que muestra que estuviste aquí desde el comienzo — visible para cada usuario que vea tu perfil.",
+      "cta": "Conviértete en miembro fundador"
+    },
+    "finalCta": {
+      "heading": "Únete a la plataforma que redefine la conexión global.",
+      "body": "Crea tu cuenta y empieza a conectar hoy con proveedores de salud, mentores, investigadores y redactores de subvenciones.",
+      "primary": "Crea tu cuenta",
+      "secondary": "Iniciar sesión"
+    }
+  },
+  "auth": {
+    "shared": {
+      "or": "o",
+      "orSignInManually": "o inicia sesión manualmente",
+      "showPassword": "Mostrar contraseña",
+      "hidePassword": "Ocultar contraseña",
+      "continueWithGoogle": "Continuar con Google",
+      "rememberPassword": "¿Recuerdas tu contraseña?",
+      "signIn": "Iniciar sesión",
+      "signUp": "Registrarse",
+      "backToSignIn": "Volver al inicio de sesión",
+      "sidePanelTagline": "Conectando a profesionales de la salud, estudiantes e instituciones en una plataforma fluida."
+    },
+    "login": {
+      "pageTitle": "Bienvenido de nuevo",
+      "pageDescription": "Inicia sesión para acceder a tu cuenta de SandiLink",
+      "quickDemoLogin": "Inicio de sesión de demostración",
+      "emailLabel": "Correo electrónico",
+      "emailPlaceholder": "tu@ejemplo.com",
+      "passwordLabel": "Contraseña",
+      "passwordPlaceholder": "Ingresa tu contraseña",
+      "forgotPassword": "¿Olvidaste tu contraseña?",
+      "rememberMe": "Recuérdame",
+      "signingIn": "Iniciando sesión...",
+      "signIn": "Iniciar sesión",
+      "noAccount": "¿No tienes una cuenta?"
+    },
+    "register": {
+      "pageTitle": "Crea tu cuenta",
+      "pageDescription": "Únete a SandiLink para comenzar",
+      "selectRolePrompt": "Selecciona el rol que mejor te describa",
+      "continue": "Continuar",
+      "firstNameLabel": "Nombre",
+      "lastNameLabel": "Apellido",
+      "emailLabel": "Correo electrónico",
+      "passwordLabel": "Contraseña",
+      "passwordPlaceholder": "Crea una contraseña",
+      "passwordHint": "Debe tener al menos 8 caracteres",
+      "termsAgreementBefore": "Acepto los ",
+      "termsAgreementAnd": " y la ",
+      "termsLink": "Términos de Servicio",
+      "privacyLink": "Política de Privacidad",
+      "back": "Atrás",
+      "creatingAccount": "Creando cuenta...",
+      "createAccount": "Crear cuenta",
+      "haveAccount": "¿Ya tienes una cuenta?",
+      "roles": {
+        "serviceUserLabel": "Usuario de Servicios",
+        "serviceUserDescription": "Busca y reserva proveedores de atención médica",
+        "careProviderLabel": "Proveedor de Atención",
+        "careProviderDescription": "Ofrece tus servicios de salud",
+        "studentLabel": "Estudiante de Ciencias de la Salud",
+        "studentDescription": "Encuentra rotaciones clínicas y preceptores",
+        "institutionLabel": "Institución Educativa",
+        "institutionDescription": "Gestiona rotaciones de estudiantes a gran escala",
+        "preceptorLabel": "Preceptor",
+        "preceptorDescription": "Acompaña a estudiantes en entornos clínicos",
+        "researcherLabel": "Investigador",
+        "researcherDescription": "Descubre subvenciones, publica investigaciones y encuentra colaboradores",
+        "grantWriterLabel": "Redactor de Subvenciones",
+        "grantWriterDescription": "Ayuda a investigadores a redactar propuestas ganadoras"
+      }
+    },
+    "forgotPassword": {
+      "pageTitle": "¿Olvidaste tu contraseña?",
+      "pageDescription": "No te preocupes, te ayudaremos a restablecerla",
+      "instructions": "Ingresa el correo electrónico asociado a tu cuenta y te enviaremos un enlace para restablecer tu contraseña.",
+      "sendingLink": "Enviando enlace...",
+      "sendResetLink": "Enviar enlace de restablecimiento",
+      "successPrefix": "Si existe una cuenta para",
+      "successInstructions": "recibirás un enlace de restablecimiento en breve. Revisa tu bandeja de entrada y carpeta de spam."
+    },
+    "resetPassword": {
+      "pageTitle": "Establecer nueva contraseña",
+      "pageDescription": "Crea una contraseña segura para tu cuenta",
+      "newPasswordLabel": "Nueva contraseña",
+      "newPasswordPlaceholder": "Ingresa la nueva contraseña",
+      "confirmPasswordLabel": "Confirmar contraseña",
+      "confirmPasswordPlaceholder": "Confirma la nueva contraseña",
+      "resettingPassword": "Restableciendo contraseña...",
+      "resetPassword": "Restablecer contraseña",
+      "successHeading": "Contraseña restablecida con éxito",
+      "successDescription": "Tu contraseña ha sido actualizada. Ahora puedes iniciar sesión con tu nueva contraseña."
+    },
+    "mfaSetup": {
+      "pageTitle": "Asegura tu cuenta",
+      "pageDescription": "Configura la autenticación de dos factores",
+      "introCopy": "Añade una capa extra de seguridad a tu cuenta activando la autenticación de dos factores con una app autenticadora.",
+      "youllNeed": "Necesitarás",
+      "youllNeedAuthApp": "Una app autenticadora (Google Authenticator, Authy, etc.)",
+      "getStarted": "Comenzar",
+      "doLater": "Lo haré más tarde",
+      "scanInstructions": "Escanea el código QR con tu app autenticadora o ingresa la clave manualmente.",
+      "qrPlaceholder": "El código QR aparecerá aquí",
+      "cantScan": "¿No puedes escanear? Ingresa esta clave manualmente:",
+      "iScanned": "He escaneado el código",
+      "verifyInstructions": "Ingresa el código de 6 dígitos de tu app autenticadora para verificar la configuración.",
+      "verifying": "Verificando...",
+      "verifyAndActivate": "Verificar y activar",
+      "backToQr": "Volver al código QR",
+      "doneHeading": "La autenticación de dos factores está activa",
+      "doneDescription": "Se te pedirá un código de verificación cada vez que inicies sesión. Mantén tu app autenticadora accesible.",
+      "continue": "Continuar"
+    },
+    "verifyEmail": {
+      "pageTitle": "Revisa tu correo",
+      "pageDescription": "Ingresa el código de verificación para continuar",
+      "sentCodeTo": "Enviamos un código de 6 dígitos a",
+      "verifying": "Verificando...",
+      "verifyEmail": "Verificar correo",
+      "didntReceive": "¿No recibiste el código?",
+      "resendIn": "Reenviar en {seconds}s",
+      "sending": "Enviando...",
+      "resendCode": "Reenviar código"
+    }
+  },
+  "dashboards": {
+    "serviceUser": {
+      "welcomeBack": "¡Bienvenido de nuevo!",
+      "welcomeSubhead": "Aquí tienes un resumen de tu actividad y próximas citas."
+    },
+    "provider": {
+      "greetingMorning": "Buenos días, Dra. Johnson",
+      "welcomeSubhead": "Hoy tienes {engagements} citas y {requests} solicitudes pendientes."
+    },
+    "student": {
+      "welcomeBack": "Bienvenida de nuevo, Jane",
+      "welcomeSubhead": "Sigue tus rotaciones clínicas, horas y credenciales."
+    },
+    "preceptor": {
+      "welcomeBack": "Bienvenido de nuevo, Dr. Williams",
+      "welcomeSubhead": "Gestiona tus estudiantes, solicitudes de rotación y actividades de mentoría."
+    },
+    "institution": {
+      "pageTitle": "Panel de la Institución",
+      "welcomeSubhead": "Gestiona tus estudiantes, rotaciones y relaciones con preceptores."
+    },
+    "researcher": {
+      "welcomeBack": "Bienvenido de nuevo, Dr. Rashid",
+      "welcomeSubhead": "Sigue tus proyectos de investigación, subvenciones y publicaciones."
+    },
+    "grantWriter": {
+      "welcomeBack": "Bienvenida de nuevo, Lisa",
+      "welcomeSubhead": "Gestiona tus proyectos, controla tus ingresos y haz crecer tu práctica de redacción de subvenciones."
+    },
+    "admin": {
+      "pageTitle": "Resumen de la Plataforma",
+      "welcomeSubhead": "Monitorea el estado de la plataforma, la actividad de los usuarios y las métricas de ingresos.",
+      "statTotalUsers": "Usuarios totales",
+      "statTotalUsersTrend": "+124 esta semana",
+      "statActiveBookings": "Reservas activas",
+      "statActiveBookingsTrend": "+8% respecto al mes pasado",
+      "statRevenueMtd": "Ingresos (MTD)",
+      "statRevenueMtdTrend": "+15% respecto al mes pasado",
+      "statActivePlacements": "Ubicaciones activas",
+      "statActivePlacementsTrend": "+12% vs el semestre pasado",
+      "roleServiceUsers": "Usuarios del servicio",
+      "roleCareProviders": "Proveedores de atención",
+      "roleStudents": "Estudiantes",
+      "roleInstitutions": "Instituciones",
+      "rolePreceptors": "Preceptores",
+      "registrationHeading": "Registro de usuario por rol",
+      "registrationSub": "Desglose de todos los usuarios registrados",
+      "fullAnalytics": "Analítica completa",
+      "quickActions": "Acciones rápidas",
+      "reviewBadge": "Revisar",
+      "alertOpenDisputes": "{count} disputas abiertas",
+      "alertOpenDisputesDesc": "Los problemas de facturación necesitan revisión",
+      "alertFlaggedReviews": "{count} reseñas marcadas",
+      "alertFlaggedReviewsDesc": "Reportado como inapropiado",
+      "alertPendingApprovals": "{count} aprobaciones pendientes",
+      "alertPendingApprovalsDesc": "Nuevas cuentas de proveedores en espera de verificación",
+      "actionViewUsers": "Ver usuarios",
+      "actionAnalytics": "Analítica",
+      "actionDisputes": "Disputas",
+      "actionRevenue": "Ganancia",
+      "actionFlagged": "Marcado",
+      "actionAuditLogs": "Registros de auditoría"
+    },
+    "adminDisputes": {
+      "pageTitle": "Disputas",
+      "pageIntro": "Gestionar problemas y disputas reportados",
+      "openDisputesCount": "{count} disputas abiertas",
+      "tabOpen": "Abierto ({count})",
+      "tabResolved": "Resuelto ({count})",
+      "cardOpenTitle": "Disputas abiertas",
+      "cardOpenDesc": "Disputas que requieren atención y resolución",
+      "cardResolvedTitle": "Disputas resueltas",
+      "cardResolvedDesc": "Disputas que han sido resueltas",
+      "colId": "IDENTIFICACIÓN",
+      "colReporter": "Reportero",
+      "colSubject": "Sujeto",
+      "colDate": "Fecha",
+      "colSeverity": "Gravedad",
+      "colStatus": "Estado",
+      "colActions": "Comportamiento",
+      "viewDetail": "Ver detalle",
+      "emptyMessage": "No se encontraron disputas.",
+      "severityHigh": "Alto",
+      "severityMedium": "Medio",
+      "severityLow": "Bajo",
+      "statusOpen": "Abierto",
+      "statusResolved": "Resuelto"
+    }
+  },
+  "publicHero": {
+    "eyebrow": "Directorio público",
+    "signUpFree": "Regístrate gratis",
+    "signIn": "Iniciar sesión"
+  },
+  "publicDirectories": {
+    "experts": {
+      "title": "Encuentra un experto de salud",
+      "description": "Explora proveedores verificados en atención clínica, terapia, investigación, mentoría y más. Regístrate gratis para enviar mensajes, reservar o guardar perfiles."
+    },
+    "preceptors": {
+      "title": "Encuentra un preceptor",
+      "description": "Conecta con preceptores verificados en programas de enfermería, PA, DNP y profesiones aliadas. Regístrate gratis para solicitar una rotación."
+    },
+    "grants": {
+      "title": "Explora subvenciones abiertas",
+      "description": "Sigue oportunidades de financiación de NIH, NSF, OMS, fundaciones y agencias gubernamentales. Regístrate para guardar subvenciones, recibir recordatorios y conectar con redactores."
+    },
+    "grantWriters": {
+      "title": "Encuentra un redactor de subvenciones",
+      "description": "Redactores verificados con experiencia en NIH, NSF, fundaciones y financiadores de salud global. Regístrate gratis para comparar perfiles y comenzar un proyecto."
+    },
+    "journals": {
+      "title": "Explora revistas",
+      "description": "Publicaciones revisadas por pares en salud digital, investigación biomédica, salud pública e informática. Regístrate gratis para rastrear envíos y preseleccionar objetivos."
+    }
+  },
+  "faq": {
+    "eyebrow": "Preguntas frecuentes",
+    "heading": "Respuestas, rápidas.",
+    "intro": "Explora las preguntas más comunes sobre cuentas, facturación, rotaciones, privacidad y resolución de problemas. Filtra por categoría o busca por palabra clave.",
+    "didntFindHeading": "¿No encontraste tu respuesta?",
+    "didntFindBody": "Nuestro equipo de soporte está listo para ayudar — la mayoría de las respuestas llegan en un día hábil.",
+    "contactSupport": "Contactar soporte",
+    "howItWorks": "Cómo funciona"
+  },
+  "support": {
+    "eyebrow": "Soporte",
+    "heading": "Estamos aquí para ayudar.",
+    "intro": "Explora recursos de autoservicio, contacta directamente con nuestro equipo o envía una solicitud de soporte — lo que sea más rápido para lo que necesitas.",
+    "reachUsHeading": "Contáctanos directamente",
+    "reachUsIntro": "¿Prefieres correo, teléfono o chat? Elige el canal que mejor te convenga."
+  },
+  "subscribe": {
+    "success": {
+      "heading": "¡Pago exitoso — bienvenido a SandiLink Pro!",
+      "body": "Tu suscripción está activa y tu perfil de proveedor está listo para publicarse. Te enviamos por correo el recibo y una lista de inicio rápido.",
+      "dashboardCardTitle": "Paso 5 — Accede a tu panel",
+      "dashboardCardDescription": "Completa tu perfil, define tu disponibilidad y acepta tus primeras reservas.",
+      "goToDashboard": "Ir al panel del proveedor",
+      "receiptCardTitle": "Recibo y facturación",
+      "receiptCardDescription": "Gestiona tu plan, método de pago e historial en cualquier momento.",
+      "openBilling": "Abrir facturación",
+      "needAnything": "¿Necesitas algo? Contacta nuestro equipo en"
+    },
+    "failed": {
+      "heading": "El pago falló — actualiza tu tarjeta o inténtalo de nuevo.",
+      "body": "Tu suscripción no se activó y no se te ha cobrado. Estas son las razones más comunes.",
+      "commonReasonsTitle": "Razones comunes",
+      "commonReasonsBody": "Cualquiera de los siguientes puede detener un pago. Inténtalo de nuevo con otra tarjeta o método.",
+      "reasonCardDeclined": "La tarjeta fue rechazada o ha expirado.",
+      "reasonInsufficientFunds": "Fondos insuficientes en el método de pago.",
+      "reasonBankFlagged": "Tu banco marcó la transacción como sospechosa.",
+      "reasonAddressMismatch": "La dirección de facturación no coincide con la registrada en tu banco.",
+      "reasonNetworkTimeout": "Un tiempo de espera de red o pasarela interrumpió la transacción.",
+      "tryAgainTitle": "Intentar de nuevo",
+      "tryAgainDescription": "Usa el mismo plan con otro método de pago.",
+      "backToPricing": "Volver a precios",
+      "needHelpTitle": "¿Necesitas ayuda?",
+      "needHelpDescription": "Nuestro equipo puede ayudarte a diagnosticar y desbloquear el pago.",
+      "contactSupport": "Contactar soporte"
+    }
+  },
+  "pricing": {
+    "eyebrow": "Precios para Proveedores",
+    "heading": "Precios planos y simples — sin comisión, nunca.",
+    "intro": "Suscríbete una vez, lista tus servicios y conserva el 100% de cada reserva. Elige mensual para mayor flexibilidad o anual para ahorrar 17%.",
+    "tabMonthly": "Mensual",
+    "tabAnnual": "Anual",
+    "save17": "Ahorra 17%",
+    "contextRegisterTitle": "Falta un paso — elige un plan",
+    "contextRegisterBody": "Los proveedores necesitan una suscripción activa antes de acceder al panel. Elige un plan a continuación para completar el registro.",
+    "contextGateTitle": "Suscripción requerida",
+    "contextGateBody": "Tu panel de proveedor necesita una suscripción activa. Elige un plan para restaurar el acceso.",
+    "usdNote": "Precios listados en USD. Se te cobrará en tu moneda local, convertida a USD en el pago.",
+    "why": {
+      "heading": "Por qué nuestros precios son diferentes",
+      "subheading": "La mayoría de los mercados se quedan con el 15–30% de cada reserva. Nosotros no.",
+      "earningsTitle": "Conserva el 100% de tus ingresos",
+      "earningsBody": "SandiLink no cobra comisión sobre las reservas. Pagas una suscripción fija, tus clientes te pagan a ti, y el monto total de la reserva es para ti.",
+      "currencyTitle": "Paga en tu moneda local",
+      "currencyBody": "Stripe, PayPal y pasarelas regionales se encargan de la conversión. La plataforma liquida en USD; tú y tus clientes ven los precios en moneda local.",
+      "cancelTitle": "Cancela cuando quieras",
+      "cancelBody": "Sin contratos de largo plazo. Cancela desde tu panel de facturación y conserva el acceso hasta el final de tu período actual."
+    },
+    "payments": {
+      "heading": "Paga a tu manera",
+      "subheading": "Las pasarelas de Fase 1 ya están activas. Las pasarelas regionales de Fase 2 se incorporan a medida que nos expandimos.",
+      "phase1Label": "Fase 1 — disponible ahora",
+      "phase2Label": "Fase 2 — expansión global"
+    },
+    "faq": {
+      "heading": "Preguntas frecuentes sobre precios",
+      "q1": "¿Cobras comisión sobre mis reservas?",
+      "a1": "No. SandiLink es solo por suscripción para prestadores — pagas una tarifa mensual o anual fija y conservas el 100% de lo que tus clientes te pagan.",
+      "q2": "¿Puedo cambiar de plan más tarde?",
+      "a2": "Sí. Sube o baja de plan desde tu panel de facturación en cualquier momento. Las mejoras tienen efecto inmediato; las bajadas se aplican en la próxima renovación.",
+      "q3": "¿Qué pasa si falla mi pago?",
+      "a3": "Te enviaremos un correo y reintentaremos durante unos días. Si no se puede cobrar, tu listado público se pausa (no se elimina) hasta que actualices tu método de pago.",
+      "q4": "¿Qué métodos de pago se admiten?",
+      "a4": "Tarjetas de crédito y débito, Apple Pay, Google Pay y PayPal en el lanzamiento. Pasarelas regionales como Flutterwave, Paystack, M-Pesa, Razorpay y MercadoPago se integran a medida que nos expandimos globalmente."
+    },
+    "finalCta": {
+      "heading": "¿Listo para empezar a ganar?",
+      "body": "Crea tu cuenta de prestador, completa tu perfil y elige el plan que se ajuste.",
+      "primary": "Crear cuenta de prestador",
+      "secondary": "Cómo funciona"
+    }
+  },
+  "trustSafety": {
+    "eyebrow": "Confianza y Seguridad",
+    "heading": "Hecho para las personas. Protegido por políticas.",
+    "intro": "SandiLink es un mercado global, lo que significa que personas reales establecen conexiones reales a través de él. Así es como mantenemos esa experiencia segura, transparente y responsable.",
+    "reportIssue": "Reportar un problema",
+    "readPrivacy": "Leer la Política de Privacidad",
+    "pillars": {
+      "heading": "Seis pilares de la seguridad de la plataforma",
+      "subheading": "Cada interacción en SandiLink se rige por estas salvaguardas.",
+      "verificationTitle": "Verificación en cada registro",
+      "verificationBody": "Los prestadores, preceptores, estudiantes, investigadores y redactores de subvenciones envían credenciales, licencias o inscripción en programas antes de que un perfil se haga público. Los perfiles incompletos se excluyen de las búsquedas.",
+      "moderationTitle": "Moderación activa",
+      "moderationBody": "Los perfiles, reseñas y mensajes señalados por usuarios o por nuestros sistemas pasan a una cola de moderación. Los administradores aprueban, eliminan, suspenden o advierten — cada acción queda registrada.",
+      "privacyTitle": "Controles de privacidad e información de salud",
+      "privacyBody": "Los formularios de admisión y la información sanitaria se cifran en tránsito y en reposo. La información de salud protegida solo es visible para el prestador asignado — nunca para los administradores u otros usuarios.",
+      "securityTitle": "Seguridad de la cuenta",
+      "securityBody": "Autenticación opcional de dos factores, verificación de correo electrónico, flujos de restablecimiento de contraseña y registro de auditoría en cada acción sensible mantienen tu cuenta bajo tu control.",
+      "paymentsTitle": "Pagos seguros",
+      "paymentsBody": "Los pagos se procesan a través de Stripe, PayPal y pasarelas regionales (Flutterwave, Paystack, M-Pesa, Razorpay, MercadoPago). Nunca almacenamos números completos de tarjetas.",
+      "disputesTitle": "Resolución de disputas",
+      "disputesBody": "Si algo sale mal, presenta una disputa. Nuestro equipo revisa las comunicaciones, aplica la política de la plataforma y emite una resolución documentada."
+    },
+    "policies": {
+      "heading": "Lo que debes saber antes de reservar",
+      "subheading": "SandiLink protege a los usuarios — pero un mercado funciona mejor cuando todos llegan informados.",
+      "whoTitle": "A quién puedes encontrar en SandiLink",
+      "whoBody": "Profesionales independientes ofrecen sus propios servicios y son responsables de prestarlos. SandiLink es un mercado — facilitamos la conexión y el pago, pero no empleamos prestadores ni garantizamos resultados clínicos.",
+      "dueDiligenceTitle": "Tu diligencia debida importa",
+      "dueDiligenceBody": "Confirma siempre las credenciales del prestador con el organismo licenciatario correspondiente, pide referencias y revisa las calificaciones y reseñas del perfil antes de reservar.",
+      "communicationTitle": "Mantén la comunicación en la plataforma",
+      "communicationBody": "La mensajería en plataforma deja constancia para ambas partes, respalda la resolución de disputas y nos permite moderar cuando algo va mal. El contacto fuera de la plataforma es bajo tu propio riesgo.",
+      "emergenciesTitle": "Las emergencias no son para SandiLink",
+      "emergenciesBody": "SandiLink no es un servicio de emergencias. Para emergencias médicas llama al 911 (o al número de emergencia local). Para crisis de salud mental en EE. UU., llama o envía un mensaje al 988."
+    },
+    "reporting": {
+      "heading": "Cómo reportar algo",
+      "subheading": "Si algo no parece correcto — un perfil, una reseña, un mensaje, un pago — repórtalo. Tomamos cada reporte en serio.",
+      "stepLabel": "Paso",
+      "s1Title": "Usa el botón de Reportar",
+      "s1Body": "Cada perfil, reseña y mensaje tiene una opción de reporte. Elige la razón más cercana y añade detalles — qué pasó, cuándo y los usuarios involucrados.",
+      "s2Title": "Triamos en 1 día hábil",
+      "s2Body": "Los reportes pasan a la moderación de administradores y disputas. Los casos sensibles (seguridad, fraude, brecha de información de salud) se escalan inmediatamente.",
+      "s3Title": "Se toma acción y se registra",
+      "s3Body": "Los resultados van desde una advertencia hasta la eliminación de contenido, suspensión de cuenta o prohibición permanente. Cada paso queda registrado en el log de auditoría.",
+      "s4Title": "Te informamos",
+      "s4Body": "Cerramos el ciclo con quien reporta — la resolución, qué sigue y cómo escalar si no estás de acuerdo."
+    },
+    "finalCta": {
+      "heading": "¿Ves algo? Cuéntanos.",
+      "body": "Nuestro equipo de Confianza y Seguridad responde a los reportes en un día hábil. Para temas urgentes de seguridad, marca tu mensaje como urgente — lo triamos de inmediato.",
+      "primary": "Contactar Soporte",
+      "secondary": "Explorar las preguntas frecuentes"
+    }
+  },
+  "howItWorks": {
+    "eyebrow": "Cómo funciona",
+    "heading": "Seis pasos desde el registro hasta la reserva.",
+    "intro": "SandiLink conecta a usuarios de servicios, proveedores, estudiantes, preceptores, investigadores y redactores de subvenciones en tres mercados globales. Este es el flujo que impulsa cada reserva, rotación y proyecto de subvención.",
+    "ctaCreate": "Crea tu cuenta",
+    "ctaFaq": "Lee las preguntas frecuentes",
+    "stepLabel": "Paso",
+    "flow": {
+      "heading": "Cómo se desarrolla un encuentro en SandiLink",
+      "subheading": "Los mismos seis pasos impulsan cada reserva, colocación y proyecto de subvención — solo cambian los participantes.",
+      "s1Title": "Crea tu cuenta",
+      "s1Body": "Elige tu rol — usuario de servicio, prestador de cuidados, estudiante, preceptor, institución, investigador o redactor de subvenciones — y cuéntanos qué necesitas.",
+      "s2Title": "Completa tu perfil",
+      "s2Body": "Añade credenciales, especialidades, disponibilidad y una breve biografía. Los profesionales se suscriben para activar su listado público.",
+      "s3Title": "Encuentra la coincidencia adecuada",
+      "s3Body": "Busca en directorios públicos o deja que nuestro motor de coincidencias te muestre los mejores prestadores, preceptores o redactores de subvenciones.",
+      "s4Title": "Mensajea y acuerda términos",
+      "s4Body": "Abre un hilo, haz preguntas, comparte formularios de admisión o propuestas y confirma el alcance antes de reservar.",
+      "s5Title": "Reserva y paga de forma segura",
+      "s5Body": "Paga en tu moneda local a través de Stripe, PayPal o una pasarela regional. Los fondos se liquidan en USD del lado de la plataforma.",
+      "s6Title": "Participa, registra y reseña",
+      "s6Body": "Realiza la cita, colocación o proyecto en la plataforma — registra horas, entregables, evaluaciones — y deja una reseña al finalizar."
+    },
+    "verticals": {
+      "heading": "Cómo funciona en cada mercado",
+      "subheading": "Tres verticales, un flujo coherente. Elige la más cercana a lo que necesitas.",
+      "healthcareTitle": "Servicios de Salud",
+      "healthcareSummary": "Los usuarios de servicio se conectan con médicos, enfermeros, profesionales de salud aliados, cuidadores, profesionales del bienestar y agentes comunitarios de salud independientes.",
+      "healthcareFlow1": "Busca prestadores por especialidad, ubicación, calificación o modo de entrega",
+      "healthcareFlow2": "Abre un perfil, envía un mensaje y reserva una sesión virtual o presencial",
+      "healthcareFlow3": "Completa la admisión, paga, asiste a la cita y deja una reseña",
+      "healthcareCta": "Encontrar un prestador",
+      "educationTitle": "Educación / Preceptor Connect™",
+      "educationSummary": "Estudiantes e instituciones solicitan prácticas clínicas con preceptores que publican su disponibilidad, capacidad y programas aceptados.",
+      "educationFlow1": "Los estudiantes cargan credenciales y configuran preferencias de especialidad y ubicación",
+      "educationFlow2": "Envían una solicitud de colocación con fecha de inicio, horas y alcance",
+      "educationFlow3": "El preceptor acepta; se hace seguimiento de horas, documentos y evaluaciones hasta el final",
+      "educationCta": "Encontrar un preceptor",
+      "researchTitle": "Investigación y Subvenciones",
+      "researchSummary": "Los investigadores encuentran redactores de subvenciones, exploran subvenciones y revistas curadas y desarrollan colaboraciones con entregables e hitos.",
+      "researchFlow1": "Explora subvenciones, revistas o redactores de subvenciones recomendados",
+      "researchFlow2": "Envía una solicitud de colaboración con alcance, plazo y monto de financiación",
+      "researchFlow3": "Sigue entregables, manuscritos y envíos en un espacio de trabajo compartido",
+      "researchCta": "Encontrar un redactor de subvenciones"
+    },
+    "why": {
+      "heading": "Por qué la gente elige SandiLink",
+      "subheading": "Eliminamos a los porteros sin eliminar las salvaguardas.",
+      "verificationTitle": "Verificación en cada paso",
+      "verificationBody": "Los perfiles incluyen credenciales, licencias e inscripción en programas. Las reseñas y la moderación de administradores mantienen el mercado honesto.",
+      "subscriptionTitle": "Solo suscripción para prestadores",
+      "subscriptionBody": "Los prestadores de cuidados pagan una suscripción fija y conservan el 100% de sus ingresos — sin comisión por reserva.",
+      "globalTitle": "Diseñado para alcance global",
+      "globalBody": "Más de 20 países compatibles desde el primer día, con interfaz multilingüe Tier 1 (inglés, español, francés) y hoja de ruta para portugués, árabe, swahili, mandarín e hindi.",
+      "pricingTitle": "Precios transparentes y pagos locales",
+      "pricingBody": "Paga en tu moneda local mediante Stripe, PayPal o pasarelas regionales como Flutterwave, Paystack, M-Pesa, Razorpay y MercadoPago."
+    },
+    "finalCta": {
+      "heading": "¿Listo para conectarte?",
+      "body": "Crea tu cuenta, elige tu rol y comienza a reservar, colocar o colaborar en minutos.",
+      "primary": "Crea tu cuenta",
+      "secondary": "Lee sobre Confianza y Seguridad"
+    }
+  },
+  "subscribeCheckout": {
+    "backToPricing": "Volver a precios",
+    "headingPrefix": "Suscríbete a",
+    "stepIndicator": "Paso 4 de 5 — Pago. Después del pago serás redirigido a tu panel de proveedor.",
+    "processing": "Procesando pago…",
+    "payNow": "Pagar ahora"
+  },
+  "serviceUserPages": {
+    "engagements": {
+      "title": "Mis citas y proyectos",
+      "intro": "Visualiza, gestiona y haz seguimiento de tus citas y proyectos."
+    },
+    "experts": {
+      "title": "Encuentra expertos",
+      "intro": "Descubre profesionales en atención clínica, investigación, redacción de subvenciones y mentoría."
+    },
+    "messages": {
+      "title": "Mensajes",
+      "intro": "Comunícate con tus proveedores de salud."
+    },
+    "payments": {
+      "title": "Historial de pagos",
+      "intro": "Visualiza tus transacciones, recibos y administra los métodos de pago."
+    },
+    "preferences": {
+      "title": "Preferencias",
+      "intro": "Personaliza cómo funciona SandiLink para ti."
+    },
+    "profile": {
+      "title": "Perfil",
+      "intro": "Gestiona tu información personal y cómo te ven otros en la plataforma."
+    },
+    "settings": {
+      "title": "Configuración de cuenta",
+      "intro": "Gestiona la seguridad de tu cuenta, notificaciones y datos."
+    }
+  },
+  "serviceUserDetail": {
+    "bookingSuccess": {
+      "heading": "¡Reserva confirmada!",
+      "body": "Tu cita se ha reservado correctamente y el pago se procesó.",
+      "confirmationIdLabel": "ID de confirmación:"
+    },
+    "reviewForm": {
+      "thankYouHeading": "¡Gracias por tu reseña!"
+    },
+    "bookingDetails": {
+      "backToBookings": "Volver a las reservas"
+    }
+  },
+  "sidebar": {
+    "groups": {
+      "overview": "Resumen",
+      "menu": "Menú",
+      "content": "Contenido",
+      "account": "Cuenta",
+      "configuration": "Configuración",
+      "research": "Investigación",
+      "system": "Sistema",
+      "internationalization": "Internacionalización",
+      "catalogs": "Catálogos",
+      "insights": "Información",
+      "work": "Trabajo",
+      "discover": "Descubrir"
+    },
+    "items": {
+      "dashboard": "Panel",
+      "analytics": "Analíticas",
+      "users": "Usuarios",
+      "flaggedContent": "Contenido reportado",
+      "disputes": "Disputas",
+      "moderation": "Moderación",
+      "reviews": "Reseñas",
+      "plans": "Planes",
+      "commission": "Comisión",
+      "matching": "Emparejamiento",
+      "payments": "Pagos",
+      "templates": "Plantillas",
+      "researchers": "Investigadores",
+      "grantWriters": "Redactores de subvenciones",
+      "grantsDirectory": "Directorio de subvenciones",
+      "journals": "Revistas",
+      "researchAnalytics": "Análisis de investigación",
+      "researchMatching": "Emparejamiento de investigación",
+      "researcherPlans": "Planes para investigadores",
+      "writerCommission": "Comisión del redactor",
+      "languages": "Idiomas",
+      "translations": "Traducciones",
+      "localizedContent": "Contenido localizado",
+      "providerCategories": "Categorías de proveedores",
+      "specialties": "Especialidades",
+      "serviceTypes": "Tipos de servicio",
+      "credentials": "Credenciales",
+      "deliveryModes": "Modos de entrega",
+      "roleMappings": "Mapeo de roles",
+      "auditLogs": "Registros de auditoría",
+      "system": "Sistema",
+      "compliance": "Cumplimiento",
+      "settings": "Configuración",
+      "findExperts": "Encontrar expertos",
+      "myEngagements": "Mis citas",
+      "messages": "Mensajes",
+      "profile": "Perfil",
+      "preferences": "Preferencias",
+      "myWork": "Mi trabajo",
+      "schedule": "Agenda",
+      "earnings": "Ingresos",
+      "billing": "Facturación",
+      "findMentors": "Encontrar mentores",
+      "myPlacements": "Mis rotaciones",
+      "availability": "Disponibilidad",
+      "requests": "Solicitudes",
+      "myStudents": "Mis estudiantes",
+      "students": "Estudiantes",
+      "placements": "Rotaciones",
+      "findPreceptors": "Encontrar preceptores",
+      "agreements": "Acuerdos",
+      "reports": "Informes",
+      "organizationProfile": "Perfil de la organización",
+      "myResearch": "Mi investigación",
+      "publications": "Publicaciones",
+      "grantApplications": "Solicitudes de subvenciones",
+      "findGrants": "Buscar subvenciones",
+      "journalDirectory": "Directorio de revistas",
+      "findGrantWriters": "Encontrar redactores",
+      "savedGrants": "Subvenciones guardadas",
+      "submissions": "Envíos",
+      "activeProjects": "Proyectos activos",
+      "myClients": "Mis clientes",
+      "portfolio": "Portafolio",
+      "deliverables": "Entregables",
+      "packages": "Paquetes"
+    }
+  },
+  "chrome": {
+    "searchPlaceholder": "Buscar...",
+    "notifications": "Notificaciones",
+    "adminNotifications": "Notificaciones de admin",
+    "viewAll": "Ver todo",
+    "viewAllNotifications": "Ver todas las notificaciones",
+    "signOut": "Cerrar sesión",
+    "lightMode": "Modo claro",
+    "darkMode": "Modo oscuro",
+    "settings": "Configuración",
+    "profile": "Perfil",
+    "newCount": "{count} nuevas"
+  },
+  "dashboardCard": {
+    "shared": {
+      "viewAll": "Ver todo",
+      "fullSchedule": "Agenda completa",
+      "fullAnalytics": "Análisis completo",
+      "quickActions": "Acciones rápidas",
+      "accept": "Aceptar",
+      "decline": "Rechazar"
+    },
+    "status": {
+      "active": "Activo",
+      "pending": "Pendiente",
+      "completed": "Completado",
+      "inProgress": "En curso",
+      "upcoming": "Próximo",
+      "virtual": "Virtual",
+      "inPerson": "Presencial"
+    },
+    "provider": {
+      "statTodaysEngagements": "Citas de hoy",
+      "statTodaysEngagementsDesc": "{virtual} virtuales, {inPerson} presenciales",
+      "statPendingRequests": "Solicitudes pendientes",
+      "statPendingRequestsDesc": "Esperando tu respuesta",
+      "statMonthlyEarnings": "Ingresos del mes",
+      "statMonthlyEarningsDesc": "{trend} vs el mes pasado",
+      "statOverallRating": "Calificación general",
+      "statOverallRatingDesc": "{count} reseñas",
+      "sectionTodaysSchedule": "Agenda de hoy",
+      "sectionPendingRequests": "Solicitudes pendientes",
+      "sectionPendingRequestsDesc": "Esperando tu respuesta",
+      "actionManageSchedule": "Gestionar agenda",
+      "actionViewMessages": "Ver mensajes",
+      "actionEarnings": "Ingresos",
+      "actionClientReviews": "Reseñas de clientes"
+    },
+    "student": {
+      "statActivePlacements": "Rotaciones activas",
+      "statPendingRequests": "Solicitudes pendientes",
+      "statPendingRequestsDesc": "Esperando respuesta del preceptor",
+      "statHoursCompleted": "Horas completadas",
+      "statHoursCompletedDesc": "de {total} requeridas",
+      "statCredentials": "Credenciales",
+      "statCredentialsDesc": "{pending} pendiente(s) de verificación",
+      "sectionActivePlacements": "Rotaciones activas",
+      "sectionActivePlacementsDesc": "Tus rotaciones clínicas actuales",
+      "sectionPendingRequests": "Solicitudes pendientes",
+      "sectionPendingRequestsDesc": "Esperando respuesta del preceptor",
+      "clinicalHoursLabel": "Horas clínicas",
+      "sentLabel": "Enviado el {date}",
+      "actionFindPreceptors": "Encontrar preceptores",
+      "actionUploadCredentials": "Subir credenciales",
+      "actionMessages": "Mensajes",
+      "actionMyProfile": "Mi perfil"
+    },
+    "preceptor": {
+      "statActiveStudents": "Estudiantes activos",
+      "statActiveStudentsDesc": "de capacidad máxima {max}",
+      "statPendingRequests": "Solicitudes pendientes",
+      "statPendingRequestsDesc": "Esperando tu respuesta",
+      "statTotalMentored": "Total mentorizados",
+      "statTotalMentoredDesc": "Total en la carrera",
+      "statAvgRating": "Calificación media",
+      "statAvgRatingDesc": "De {count} reseñas",
+      "sectionActiveStudents": "Estudiantes activos",
+      "sectionActiveStudentsDesc": "Estudiantes actualmente en tu rotación",
+      "sectionPendingRequests": "Solicitudes pendientes",
+      "sectionPendingRequestsDesc": "Nuevas solicitudes de rotación",
+      "hoursLabel": "Horas",
+      "sinceLabel": "Desde {date}",
+      "actionManageSchedule": "Gestionar agenda",
+      "actionViewRequests": "Ver solicitudes",
+      "actionMessages": "Mensajes",
+      "actionMyProfile": "Mi perfil"
+    },
+    "institution": {
+      "statTotalStudents": "Total de estudiantes",
+      "statTotalStudentsDesc": "{active} en rotaciones activas",
+      "statActivePlacements": "Rotaciones activas",
+      "statActivePlacementsDesc": "Con {count} preceptores",
+      "statPendingRequests": "Solicitudes pendientes",
+      "statPendingRequestsDesc": "Esperando respuesta del preceptor",
+      "statPlacementRate": "Tasa de colocación",
+      "statPlacementRateDesc": "{trend} vs el semestre pasado",
+      "sectionRecentPlacements": "Rotaciones recientes",
+      "sectionRecentPlacementsDesc": "Actividad de rotaciones de estudiantes",
+      "actionManageStudents": "Gestionar estudiantes",
+      "actionFindPreceptors": "Encontrar preceptores",
+      "actionAssignPlacements": "Asignar rotaciones",
+      "actionImportStudents": "Importar estudiantes",
+      "actionViewReports": "Ver informes",
+      "actionAgreements": "Acuerdos"
+    },
+    "researcher": {
+      "statActiveProjects": "Proyectos activos",
+      "statActiveProjectsDesc": "{funded} financiados, {inProgress} en curso",
+      "statGrantApplications": "Solicitudes de subvenciones",
+      "statGrantApplicationsDesc": "{awarded} otorgadas, {pending} en revisión",
+      "statPublications": "Publicaciones",
+      "statPublicationsDesc": "{review} en revisión",
+      "statHIndex": "índice h",
+      "statHIndexDesc": "{trend} este año",
+      "sectionActiveGrants": "Subvenciones activas",
+      "sectionActiveGrantsDesc": "Tus solicitudes financiadas y pendientes",
+      "sectionUpcomingDeadlines": "Próximas fechas límite",
+      "sectionUpcomingDeadlinesDesc": "Subvenciones, envíos e informes",
+      "sectionRecentPublications": "Publicaciones recientes",
+      "sectionRecentPublicationsDesc": "Tu producción de investigación más reciente",
+      "actionFindGrants": "Buscar subvenciones",
+      "actionSubmitManuscript": "Enviar manuscrito",
+      "actionFindGrantWriters": "Encontrar redactores",
+      "actionBrowseJournals": "Explorar revistas"
+    },
+    "grantWriter": {
+      "statActiveProjects": "Proyectos activos",
+      "statActiveProjectsDesc": "{proposals} propuestas, {revisions} revisión, {reviews} revisión",
+      "statEarningsMtd": "Ingresos (mes a la fecha)",
+      "statEarningsMtdDesc": "{trend} vs el mes pasado",
+      "statSuccessRate": "Tasa de éxito",
+      "statSuccessRateDesc": "{won} de {total} subvenciones financiadas",
+      "statClientRating": "Calificación de clientes",
+      "statClientRatingDesc": "{count} reseñas",
+      "sectionActiveProjects": "Proyectos activos",
+      "sectionActiveProjectsDesc": "Propuestas y revisiones en curso",
+      "sectionPendingRequests": "Solicitudes pendientes",
+      "sectionPendingRequestsDesc": "Nuevas solicitudes de colaboración",
+      "sectionRecentWins": "Logros recientes",
+      "sectionRecentWinsDesc": "Subvenciones que ayudaste a financiar",
+      "actionViewRequests": "Ver solicitudes",
+      "actionEarnings": "Ingresos",
+      "actionMessages": "Mensajes",
+      "actionMyProfile": "Mi perfil"
+    },
+    "admin": {
+      "statTotalUsers": "Usuarios totales",
+      "statActiveBookings": "Reservas activas",
+      "statRevenueMtd": "Ingresos (mes a la fecha)",
+      "statActivePlacements": "Rotaciones activas",
+      "sectionUserRegistration": "Registro de usuarios por rol",
+      "sectionUserRegistrationDesc": "Desglose de todos los usuarios registrados",
+      "actionViewUsers": "Ver usuarios",
+      "actionAnalytics": "Analíticas",
+      "actionDisputes": "Disputas",
+      "actionRevenue": "Ingresos",
+      "actionFlagged": "Reportados",
+      "actionAuditLogs": "Registros de auditoría"
+    }
+  },
+  "profilePages": {
+    "provider": {
+      "title": "Perfil del prestador",
+      "intro": "Gestiona tu perfil profesional, credenciales y tarifas."
+    },
+    "student": {
+      "title": "Perfil del estudiante",
+      "intro": "Gestiona tu información personal y académica."
+    },
+    "institution": {
+      "title": "Perfil de la organización",
+      "intro": "Gestiona la información de tu institución."
+    },
+    "preceptor": {
+      "title": "Perfil del preceptor",
+      "intro": "Gestiona tu perfil, especialidad, capacidad y disponibilidad."
+    },
+    "researcher": {
+      "title": "Perfil del investigador",
+      "intro": "Gestiona tu información personal, institucional y de investigación."
+    },
+    "grantWriter": {
+      "title": "Perfil del redactor de subvenciones",
+      "intro": "Gestiona tu perfil profesional, experiencia y tarifas."
+    }
+  }
+}
