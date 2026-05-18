@@ -76,11 +76,39 @@ export function LoginForm() {
       setUser({ email: demoUser.email, role: demoUser.role, name: demoUser.label });
       setToken("demo-token");
       router.push(demoUser.redirect);
-    } else {
-      // TODO: integrate with real auth API
-      console.log("Login attempt:", { email: formEmail, password: formPassword });
-      setIsLoading(false);
+   } else {
+  try {
+    const response = await fetch(
+      `${process.env.NEXT_PUBLIC_API_URL}/api/auth/login/`,
+      {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          email: formEmail,
+          password: formPassword,
+        }),
+      }
+    );
+
+    if (!response.ok) {
+      throw new Error("Invalid credentials");
     }
+
+    const data = await response.json();
+
+    setUser(data.user);
+    setToken(data.access);
+    router.push("/dashboard");
+  } catch (error) {
+    console.error("Login failed:", error);
+    alert("Login failed. Please check your email and password.");
+  } finally {
+    setIsLoading(false);
+  }
+}
+
   }
 
   return (
